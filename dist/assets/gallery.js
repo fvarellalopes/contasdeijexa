@@ -19,13 +19,19 @@ thumbs.forEach(thumb => thumb.addEventListener('click', () => {
   if (thumb.dataset.kind === 'video') {
     mainImageOpen.hidden = true;
     mainVideo.hidden = false;
+    if (mainVideo.dataset.poster) mainVideo.poster = mainVideo.dataset.poster;
     mainVideo.play().catch(() => {});
     return;
   }
   mainVideo.pause();
   mainVideo.hidden = true;
   mainImageOpen.hidden = false;
-  mainImage.src = thumb.dataset.display;
+  if (window.RESPONSIVE_IMAGES) window.RESPONSIVE_IMAGES.set(mainImage, thumb.dataset.display, 'display');
+  else {
+    mainImage.sizes = thumb.dataset.sizes || '';
+    mainImage.srcset = thumb.dataset.srcset || '';
+    mainImage.src = thumb.dataset.display;
+  }
   mainImage.alt = thumb.dataset.alt;
   currentFull = thumb.dataset.large;
 }));

@@ -4,6 +4,8 @@ data/original-photos/
 data/pending-photos/
 data/treated-photos/
 node_modules/
+.cache/
+data/*.tmp
 dist/.openai/
 dist/**/*.webp
 dist/**/*.png

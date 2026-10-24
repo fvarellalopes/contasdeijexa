@@ -1,4 +1,4 @@
-import { readFileSync, readdirSync, statSync } from 'node:fs';
+import { readFileSync, readdirSync, statSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
 import vm from 'node:vm';
@@ -9,6 +9,10 @@ const walk = root => readdirSync(root).flatMap(name => {
   return statSync(file).isDirectory() ? walk(file) : [file];
 });
 const urls = new Set(Object.values(manifest.assets).map(asset => asset.url));
+if (existsSync('data/responsive-images.json')) {
+  const responsive=JSON.parse(readFileSync('data/responsive-images.json','utf8'));
+  for (const entry of Object.values(responsive.images)) for (const variant of entry.variants) urls.add(variant.url);
+}
 assert(urls.size > 0, 'Manifesto vazio');
 for (const asset of Object.values(manifest.assets)) {
   assert(asset.url.startsWith(manifest.origin + '/site/'));
@@ -41,4 +45,4 @@ for (const product of context.window.CATALOG_PRODUCTS) {
     assert(urls.has(image), `${product.code}: imagem do catálogo fora do Blob`);
   }
 }
-console.log(`${pages} páginas e ${context.window.CATALOG_PRODUCTS.length} produtos com referências Blob válidas; ${urls.size} imagens no manifesto.`);
+console.log(`${pages} páginas e ${context.window.CATALOG_PRODUCTS.length} produtos com referências Blob válidas; ${urls.size} URLs de imagem reconhecidas.`);

@@ -1,4 +1,5 @@
 const image = id => /^(?:https?:\/\/|\/)/.test(id) ? id : `https://lh3.googleusercontent.com/d/${id}=w1600`;
+const imageAttrs = id => window.RESPONSIVE_IMAGES?.attrs(image(id),'card') || `src="${image(id)}" loading="lazy"`;
 const productLink = product => product.path || (product.slug.startsWith('gpc-') ? `/guias-cristal/${product.slug}/` : `/${product.slug}/`);
 const categories = [
   { key: 'tercos', label: 'Terços', eyebrow: 'Peças artesanais', path: '/tercos/', description: 'Terços artesanais com contas, cristais e acabamentos cuidadosamente compostos.' },
@@ -21,7 +22,7 @@ const categoryFor = product => {
   if (product.line === 'Guia de Miçangas') return 'micangas';
   return 'premium';
 };
-const card = product => `<article class="product-card"><a class="product-image" href="${productLink(product)}" aria-label="Ver ${product.name}">${product.cover ? `<img src="${image(product.cover)}" alt="${product.alt}" loading="lazy" />` : `<span class="photo-pending">Foto em preparação</span>`}</a><div class="card-copy"><span class="badge">${product.badge || product.line || 'Brajá Premium'}</span><h3>${product.name.replace(' de ', '<br>de ')}</h3><p>${product.highlights}</p><div class="card-bottom"><strong>${product.price}</strong><a href="${productLink(product)}">Ver modelo <span>→</span></a></div></div></article>`;
+const card = product => `<article class="product-card"><a class="product-image" href="${productLink(product)}" aria-label="Ver ${product.name}">${product.cover ? `<img ${imageAttrs(product.cover)} alt="${product.alt}" />` : `<span class="photo-pending">Foto em preparação</span>`}</a><div class="card-copy"><span class="badge">${product.badge || product.line || 'Brajá Premium'}</span><h3>${product.name.replace(' de ', '<br>de ')}</h3><p>${product.highlights}</p><div class="card-bottom"><strong>${product.price}</strong><a href="${productLink(product)}">Ver modelo <span>→</span></a></div></div></article>`;
 const productsByCategory = key => window.CATALOG_PRODUCTS.filter(product => categoryFor(product) === key);
 const renderHome = () => {
   const highlightSlugs = ['oxum', 'omolu', 'exu', 'blx-iem-001', 'bra-exu-cav-7f-001'];

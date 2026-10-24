@@ -3,14 +3,19 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/blob-assets.mjs --apply && node scripts/verify-blob-assets.mjs",
+    "build": "node scripts/blob-assets.mjs --apply && node scripts/generate-responsive-images.mjs --apply && node scripts/verify-blob-assets.mjs && node scripts/verify-responsive-images.mjs",
     "assets:upload": "node --env-file=.env.local scripts/blob-assets.mjs --upload",
     "assets:verify": "node scripts/blob-assets.mjs --verify",
     "assets:check": "node scripts/verify-blob-assets.mjs",
-    "assets:import-external": "node scripts/blob-assets.mjs --import-external"
+    "assets:import-external": "node scripts/blob-assets.mjs --import-external",
+    "assets:responsive": "node --env-file=.env.local scripts/generate-responsive-images.mjs --upload",
+    "assets:verify-responsive": "node scripts/generate-responsive-images.mjs --verify",
+    "test": "node --test scripts/*.test.mjs"
   },
   "devDependencies": {
-    "@vercel/blob": "^2.8.2"
+    "@vercel/blob": "^2.8.2",
+    "parse5": "^8.0.1",
+    "sharp": "^0.35.5"
   },
   "overrides": {
     "zod": "^4.6.6"

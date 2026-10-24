@@ -39,11 +39,12 @@
   ];
 
   const caption = link => link.querySelector(':scope > span');
-  const preload = url => new Promise((resolve, reject) => {
+  const preload = (url, role) => new Promise((resolve, reject) => {
     const image = new Image();
     image.onload = () => resolve(url);
     image.onerror = reject;
-    image.src = url;
+    if (window.RESPONSIVE_IMAGES) window.RESPONSIVE_IMAGES.set(image, url, role);
+    else image.src = url;
   });
   let current = 0;
   let changing = false;
@@ -52,13 +53,14 @@
     if (changing) return;
     changing = true;
     try {
-      await Promise.all(pair.map(item => preload(item.image)));
+      await Promise.all(pair.map((item, index) => preload(item.image, index === 0 ? 'hero' : 'detail')));
       visual.classList.add('is-rotating');
       window.setTimeout(() => {
-        [[mainLink, mainImage, pair[0]], [detailLink, detailImage, pair[1]]].forEach(([link, image, item]) => {
+        [[mainLink, mainImage, pair[0]], [detailLink, detailImage, pair[1]]].forEach(([link, image, item], index) => {
           link.href = item.href;
           link.setAttribute('aria-label', `Conhecer ${item.name}`);
-          image.src = item.image;
+          if (window.RESPONSIVE_IMAGES) window.RESPONSIVE_IMAGES.set(image, item.image, index === 0 ? 'hero' : 'detail');
+          else image.src = item.image;
           image.alt = item.alt;
           const text = caption(link);
           if (text?.firstChild) text.firstChild.nodeValue = `${item.name} `;
@@ -71,9 +73,12 @@
     }
   }
 
-  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || navigator.connection?.saveData) return;
+  let visible = false;
+  const observer = new IntersectionObserver(entries => { visible = entries[0].isIntersecting; });
+  observer.observe(visual);
   window.setInterval(() => {
-    if (document.hidden || visual.matches(':hover') || visual.contains(document.activeElement)) return;
+    if (!visible || document.hidden || visual.matches(':hover') || visual.contains(document.activeElement)) return;
     current = (current + 1) % pairs.length;
     show(pairs[current]);
   }, 8000);

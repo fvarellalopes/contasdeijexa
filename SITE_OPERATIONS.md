@@ -14,8 +14,9 @@ Para novas imagens ou alterações:
    Para fotos ainda referenciadas por IDs/URLs do Google, execute antes `npm run assets:import-external`; falhas ficam em `data/blob-import-pending.json` e os links originais são preservados.
 2. Execute `npm run assets:upload`. O script só envia imagens novas ou alteradas e salva o progresso no manifesto; caminhos incluem o hash do conteúdo para evitar cache antigo.
 3. Execute `npm run assets:verify` para baixar e comparar todas as imagens remotas por SHA-256.
-4. Execute `npm run build` para substituir referências locais, inclusive metadados, pelos endereços públicos do Blob.
-5. Execute os verificadores abaixo e versione o manifesto, catálogo e páginas atualizados. URLs antigas continuam disponíveis no Blob; não há exclusão automática.
+4. Execute `npm run assets:responsive` para gerar e enviar WebP menores; valide com `npm run assets:verify-responsive`.
+5. Execute `npm run build` para substituir referências locais, inclusive metadados, pelos endereços públicos do Blob e aplicar as versões adequadas em cada contexto.
+6. Execute os verificadores abaixo e versione o manifesto, catálogo e páginas atualizados. URLs antigas continuam disponíveis no Blob; não há exclusão automática.
 
 O build da Vercel aplica o manifesto e não precisa do token. Um checkout novo não contém as cópias binárias locais: recupere-as do backup antes de executar scripts de tratamento de fotos que leem arquivos de `dist`. O comando de upload apenas envia arquivos; aplique as referências somente depois da verificação remota.
 
@@ -46,3 +47,20 @@ As páginas /prazo-e-entrega/ e /duvidas/ mantêm os textos anteriores. Os gerad
 - Lançamentos: `node scripts/render-latest-products.mjs`. O gerador busca a primeira inclusão de cada código nos registros `products.js` e `adornments.js` do histórico Git; mudanças de foto/preço não alteram a posição. As dez inclusões mais recentes aparecem em duas telas de cinco cards no desktop. Itens do mesmo lote usam a ordem inversa de inclusão no registro. A origem fica em `data/latest-product-additions.json`.
 - `prerender-catalog.mjs` executa o gerador de lançamentos ao final. Novos registros ainda não commitados também são reconhecidos. Executar após alterar o catálogo e antes de publicar.
 - Verificar `node scripts/verify-site.mjs`, `node scripts/verify-analytics.mjs`, a navegação do carrossel e os dados estruturados das páginas novas.
+
+## Tamanhos das imagens e tráfego
+
+`data/responsive-images.json` registra as versões WebP e seus hashes. A receita é 160, 480, 960 e 1600 px de largura, sem ampliar imagens menores, recortar ou mudar a proporção. Transparência é preservada. As qualidades WebP são 72/76/80/82 por tamanho.
+
+- Miniaturas da galeria e logos: até 160 px.
+- Cards de catálogo, busca e seletor: `srcset` até 960 px, com fallback de 480 px e `loading="lazy"`.
+- Imagem principal e capa: candidatos até 960 px, com `sizes` de acordo com a tela.
+- Lightbox: até 1600 px, solicitado apenas ao clicar para ampliar.
+- Vídeos: sem preload nem poster antecipado; o poster é atribuído ao abrir o vídeo.
+- A rotação da capa pausa fora da tela, em aba oculta, com preferência de movimento reduzido ou `Save-Data`.
+
+O navegador escolhe a variante considerando tela e densidade de pixels. A economia depende das páginas acessadas e do cache; o tamanho total do store não equivale ao tráfego mensal. Os originais permanecem no Blob, mas não são usados como `src` das fotos visíveis.
+
+A geração/upload é uma operação local (`npm run assets:responsive`) e pode ser retomada pelo manifesto. O cache temporário usa `/tmp/ijexa-responsive-images`, configurável por `IJEXA_IMAGE_CACHE`; não é publicado. O build aplica o manifesto e não precisa do token nem dos originais locais. A publicação falha se houver originais novos sem variantes, para evitar voltar silenciosamente aos arquivos grandes.
+
+Após regenerar páginas pelos scripts legados, execute sempre o build final. Não substitua URLs diretamente no catálogo por uma miniatura: o catálogo conserva a URL original como identidade da foto e o helper compartilhado escolhe a variante de cada contexto.
