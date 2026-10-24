@@ -1,5 +1,26 @@
 # Atualizar o catálogo
 
+## Imagens no Vercel Blob
+
+As imagens públicas são servidas pelo store `store_f7LsjtJxQwZmIifM`.
+O manifesto `data/blob-assets.json` registra caminho local, URL pública, tamanho e SHA-256.
+HTML, CSS, scripts e catálogo continuam no Git. Os binários locais e as pastas de fotos originais, pendentes e tratadas ficam fora dos novos commits e deploys; não são apagados do histórico Git.
+
+Após instalar dependências com `npm ci`, configure `ijexa_READ_WRITE_TOKEN` em `.env.local` (veja `.env.example`). Nunca inclua esse token em arquivos de `dist`, no manifesto ou no Git.
+
+Para novas imagens ou alterações:
+
+1. Coloque as imagens nos caminhos locais de `dist` usados pelos geradores e gere as páginas normalmente.
+   Para fotos ainda referenciadas por IDs/URLs do Google, execute antes `npm run assets:import-external`; falhas ficam em `data/blob-import-pending.json` e os links originais são preservados.
+2. Execute `npm run assets:upload`. O script só envia imagens novas ou alteradas e salva o progresso no manifesto; caminhos incluem o hash do conteúdo para evitar cache antigo.
+3. Execute `npm run assets:verify` para baixar e comparar todas as imagens remotas por SHA-256.
+4. Execute `npm run build` para substituir referências locais, inclusive metadados, pelos endereços públicos do Blob.
+5. Execute os verificadores abaixo e versione o manifesto, catálogo e páginas atualizados. URLs antigas continuam disponíveis no Blob; não há exclusão automática.
+
+O build da Vercel aplica o manifesto e não precisa do token. Um checkout novo não contém as cópias binárias locais: recupere-as do backup antes de executar scripts de tratamento de fotos que leem arquivos de `dist`. O comando de upload apenas envia arquivos; aplique as referências somente depois da verificação remota.
+
+As pastas de originais e fotos pendentes não foram enviadas ao Blob público. Preserve um backup separado dessas pastas.
+
 A fonte publicada é dist/assets/products.js. O lote importado da planilha está em data/catalog-import.json; os oito códigos atribuídos aos Premium estão documentados em data/premium-sku-map.json.
 
 Pipeline de geração (a partir da raiz do checkout):

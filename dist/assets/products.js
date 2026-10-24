@@ -4,17 +4,17 @@ window.CATALOG_PRODUCTS = [
     "name": "Brajá Premium de Oxum",
     "price": "R$ 329,90",
     "highlights": "Cristais · Pérolas · Búzios · 3 fios",
-    "cover": "/assets/products/bra-oxu-prm-new-photos/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/95e8efe829adc165/assets/products/bra-oxu-prm-new-photos/capa.webp",
     "alt": "Brajá Premium Oxum amarelo e dourado com búzios, cristais e pingente de espelho",
     "code": "BRA-OXU-PRM-001",
     "availability": "https://schema.org/OnlineOnly",
     "images": [
-      "/assets/products/bra-oxu-prm-new-photos/capa.webp",
-      "/assets/products/bra-oxu-prm-new-photos/foto-2.webp",
-      "/assets/products/bra-oxu-prm-new-photos/foto-3.webp",
-      "/assets/products/bra-oxu-prm-new-photos/foto-4.webp",
-      "/assets/products/bra-oxu-prm-new-photos/foto-5.webp",
-      "1sVFa55UYxuB7FbBwjftpNsdXh4c3YFGs"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/95e8efe829adc165/assets/products/bra-oxu-prm-new-photos/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8022cac16fc947ed/assets/products/bra-oxu-prm-new-photos/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/9fb132f701d3d3ba/assets/products/bra-oxu-prm-new-photos/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5e7205145184862e/assets/products/bra-oxu-prm-new-photos/foto-4.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c42f17ebe99576f2/assets/products/bra-oxu-prm-new-photos/foto-5.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/2c4d1c2320971842/assets/imported-google/1sVFa55UYxuB7FbBwjftpNsdXh4c3YFGs.jpg"
     ]
   },
   {
@@ -22,7 +22,7 @@ window.CATALOG_PRODUCTS = [
     "name": "Brajá Premium de Omolu/Obaluaê",
     "price": "R$ 399,00",
     "highlights": "Palha da costa · Búzios · Crochê",
-    "cover": "1xcoGI79C5q2MK4rjJepcaOfl2kjw20JT",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7051be8bcce6037c/assets/imported-google/1xcoGI79C5q2MK4rjJepcaOfl2kjw20JT.jpg",
     "alt": "Brajá Premium de Omolu e Obaluaê com búzios e palha da costa",
     "code": "BRA-OMO-PRM-001",
     "availability": "https://schema.org/OnlineOnly"
@@ -32,7 +32,7 @@ window.CATALOG_PRODUCTS = [
     "name": "Brajá Premium de Exu",
     "price": "R$ 329,90",
     "highlights": "Cristais · Murano · Caveiras · 3 fios",
-    "cover": "1ky1izUM3I6Vjvh3l6W8Exw_PS2HsNfYI",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/494efa56b8a36b68/assets/imported-google/1ky1izUM3I6Vjvh3l6W8Exw_PS2HsNfYI.jpg",
     "alt": "Brajá Premium de Exu",
     "measure": "1,20 m aberta / 60 cm fechada",
     "structure": "60 cm em chicote + 60 cm em 3 fios",
@@ -46,11 +46,11 @@ window.CATALOG_PRODUCTS = [
       "Firmas de murano azeitona e o pingente de Exu finalizam a peça com personalidade e equilíbrio visual."
     ],
     "images": [
-      "1ky1izUM3I6Vjvh3l6W8Exw_PS2HsNfYI",
-      "1n5aDNeUS275tK3drh43orLBNIbdflP7U",
-      "1nSKCOxYAOaCwJAkqnZYzb10QzWDmvmhu",
-      "1Nh29ZONfkVzSNM3IaOHiprV6461h4lCg",
-      "14iuFix_qN61p8NXhKrLaIQGonyTgLb6Y"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/494efa56b8a36b68/assets/imported-google/1ky1izUM3I6Vjvh3l6W8Exw_PS2HsNfYI.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/67be00931ce8fd64/assets/imported-google/1n5aDNeUS275tK3drh43orLBNIbdflP7U.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4b711e3dbd5b4c9e/assets/imported-google/1nSKCOxYAOaCwJAkqnZYzb10QzWDmvmhu.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/da6b07f2bac3b733/assets/imported-google/1Nh29ZONfkVzSNM3IaOHiprV6461h4lCg.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/d4132af19aa87fea/assets/imported-google/14iuFix_qN61p8NXhKrLaIQGonyTgLb6Y.jpg"
     ],
     "video": "1ZStkQspnlgPfEDHmltm37JhoRk3pn5fa",
     "code": "BRA-EXU-PRM-001",
@@ -61,7 +61,7 @@ window.CATALOG_PRODUCTS = [
     "name": "Brajá Premium de Pombagira",
     "price": "R$ 329,90",
     "highlights": "Rosas · Caveiras · Cristais · 3 fios",
-    "cover": "1_m7zCIT221SzARzwXj-1Y5_XEqC33MGG",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/54e37339209e91c3/assets/imported-google/1_m7zCIT221SzARzwXj-1Y5_XEqC33MGG.jpg",
     "alt": "Brajá Premium de Pombagira em vermelho, preto e dourado",
     "measure": "1,20 m aberta / 60 cm fechada",
     "structure": "60 cm em chicote + 60 cm em 3 fios",
@@ -75,11 +75,11 @@ window.CATALOG_PRODUCTS = [
       "Duas rosas vermelhas delimitam a seção central dos fios. Contas de porcelana, rondelles dourados com cristais e detalhes de caveira enriquecem o acabamento, finalizado por um tridente dourado de 6 cm com strass preto."
     ],
     "images": [
-      "1_m7zCIT221SzARzwXj-1Y5_XEqC33MGG",
-      "19QJYJRy_WgId9i1AuusGUS8j9gr3aMc2",
-      "1fW048rtF_A85_jaqUo_d489B8UXNGDNs",
-      "1loD4LnG_VuRLtVRjQSi6xMDx6U7HgL48",
-      "1FhVlcV2esPbMSrt6HmULxB6PblUr_VD1"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/54e37339209e91c3/assets/imported-google/1_m7zCIT221SzARzwXj-1Y5_XEqC33MGG.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b88185ecf79fcdbb/assets/imported-google/19QJYJRy_WgId9i1AuusGUS8j9gr3aMc2.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7535b709942cbce5/assets/imported-google/1fW048rtF_A85_jaqUo_d489B8UXNGDNs.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/71b533a67e6f9b83/assets/imported-google/1loD4LnG_VuRLtVRjQSi6xMDx6U7HgL48.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/29cfe41fddd7c948/assets/imported-google/1FhVlcV2esPbMSrt6HmULxB6PblUr_VD1.jpg"
     ],
     "video": "1e91Q4omeZpYvVucf97E2JpgFYk3Im7vL",
     "code": "BRA-POM-PRM-001",
@@ -90,7 +90,7 @@ window.CATALOG_PRODUCTS = [
     "name": "Brajá Premium de Iemanjá",
     "price": "R$ 329,90",
     "highlights": "Cristais · Pérolas · Búzios · 3 fios",
-    "cover": "1KLw-0YMv_KmTZVg_ehyfNZbohPlFjm6L",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/eaee16cea9107546/assets/imported-google/1KLw-0YMv_KmTZVg_ehyfNZbohPlFjm6L.jpg",
     "alt": "Brajá Premium de Iemanjá com cristais, pérolas e búzios",
     "measure": "1,20 m aberta / 60 cm fechada",
     "structure": "60 cm em chicote + 60 cm em 3 fios",
@@ -104,11 +104,11 @@ window.CATALOG_PRODUCTS = [
       "Firmas de murano em formato pitanga e o pingente em formato de espelho finalizam o brajá, reforçando seu acabamento artesanal e sua identidade visual."
     ],
     "images": [
-      "1KLw-0YMv_KmTZVg_ehyfNZbohPlFjm6L",
-      "1ySNAv9LdqMiujFPQToLA5S5Zjh_5LLym",
-      "1aD9Pov701OiZTB2xy-8IOrZq2N3v2mx5",
-      "1CbhNsMRr3OAfBcFWc-D3xVv4CRyqyLjh",
-      "157fMESLbjbsHUeehNkOAT1Fmf9g7CkOn"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/eaee16cea9107546/assets/imported-google/1KLw-0YMv_KmTZVg_ehyfNZbohPlFjm6L.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c9989366a4037cd6/assets/imported-google/1ySNAv9LdqMiujFPQToLA5S5Zjh_5LLym.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/2fbb0a9259f594b2/assets/imported-google/1aD9Pov701OiZTB2xy-8IOrZq2N3v2mx5.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/2b6738d5ca36c7ff/assets/imported-google/1CbhNsMRr3OAfBcFWc-D3xVv4CRyqyLjh.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/aadf33c7890ab0cf/assets/imported-google/157fMESLbjbsHUeehNkOAT1Fmf9g7CkOn.jpg"
     ],
     "video": "1LwfwzMMvtg_uvKDxfN4fA1dRoxzQfsK-",
     "code": "BRA-IEM-PRM-001",
@@ -119,7 +119,7 @@ window.CATALOG_PRODUCTS = [
     "name": "Brajá Premium de Ogum",
     "price": "R$ 329,90",
     "highlights": "Cristais · Hematita · Murano · 3 fios",
-    "cover": "1wpLAKaC0pXvfZK3fROr_tpIQ-8bTIxpm",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ce62b56f7f6e29e1/assets/imported-google/1wpLAKaC0pXvfZK3fROr_tpIQ-8bTIxpm.jpg",
     "alt": "Brajá Premium de Ogum em azul, branco e prata",
     "measure": "1,20 m aberta / 60 cm fechada",
     "structure": "60 cm em chicote + 60 cm em 3 fios, divididos em duas seções",
@@ -133,11 +133,11 @@ window.CATALOG_PRODUCTS = [
       "Firmas de murano em formato pitanga e meteoro brancas completam a composição, finalizada com um pingente de espada de Ogum com strass azul."
     ],
     "images": [
-      "1wpLAKaC0pXvfZK3fROr_tpIQ-8bTIxpm",
-      "15QEnu6oupwjj8hG6yHu5wB2Kkik3HFlK",
-      "1KbmRSWzaOaryQTqIilJjVQFLKTRcKD4i",
-      "1brsY5E-2qu0mfCmOvNqUJjJai8JFXeG3",
-      "1VzNmBH7jx4nDKLh1HXZysUHMLuZis8XR"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ce62b56f7f6e29e1/assets/imported-google/1wpLAKaC0pXvfZK3fROr_tpIQ-8bTIxpm.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c3d6195846f0c8d5/assets/imported-google/15QEnu6oupwjj8hG6yHu5wB2Kkik3HFlK.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4f6d51c8165e6f27/assets/imported-google/1KbmRSWzaOaryQTqIilJjVQFLKTRcKD4i.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/37f5151ce3bee0e3/assets/imported-google/1brsY5E-2qu0mfCmOvNqUJjJai8JFXeG3.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b05381fad5294cb9/assets/imported-google/1VzNmBH7jx4nDKLh1HXZysUHMLuZis8XR.jpg"
     ],
     "video": "1VQLpQSw2hGSGjeQjEJMe2asKl1g-bkbp",
     "code": "BRA-OGU-PRM-001",
@@ -148,7 +148,7 @@ window.CATALOG_PRODUCTS = [
     "name": "Brajá Premium de Oxalá",
     "price": "R$ 329,90",
     "highlights": "Cristais · Búzios · Porcelana · 7 fios",
-    "cover": "1QqYKhwddlPw7c-lOnE1wSfl4C6YKVDLP",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/a6b23587f9cb2a66/assets/imported-google/1QqYKhwddlPw7c-lOnE1wSfl4C6YKVDLP.jpg",
     "alt": "Brajá Premium de Oxalá em tons brancos e transparentes",
     "measure": "1,20 m aberta / 60 cm fechada",
     "structure": "60 cm em chicote + 60 cm em 7 fios",
@@ -162,11 +162,11 @@ window.CATALOG_PRODUCTS = [
       "No centro da peça, seis búzios naturais são trançados com miçangas brancas e acompanhados por contas de porcelana. Firmas de murano em formato meteoro e o pingente de Oxalá completam o acabamento."
     ],
     "images": [
-      "1QqYKhwddlPw7c-lOnE1wSfl4C6YKVDLP",
-      "1x3UC7aR06s2R5NX18io7UN_TsWveMChV",
-      "1NHBGGbKRWujqZI4ZLZPEybYuFia5r3YT",
-      "1r8I_Za6XJ8hkYk9e59tguI1n3pNJqshO",
-      "1P59wCiW8eAilrRZ0n_A1CxLIu_mYXQDD"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/a6b23587f9cb2a66/assets/imported-google/1QqYKhwddlPw7c-lOnE1wSfl4C6YKVDLP.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/04ffdba874191c2b/assets/imported-google/1x3UC7aR06s2R5NX18io7UN_TsWveMChV.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/9bae8b658a626162/assets/imported-google/1NHBGGbKRWujqZI4ZLZPEybYuFia5r3YT.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/164d8ee0349e2b3e/assets/imported-google/1r8I_Za6XJ8hkYk9e59tguI1n3pNJqshO.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/01f775af0d819ad9/assets/imported-google/1P59wCiW8eAilrRZ0n_A1CxLIu_mYXQDD.jpg"
     ],
     "video": "127XQyFTtJ6MpnOEtgp-bZlD4K3JH46hS",
     "code": "BRA-OXA-PRM-001",
@@ -177,7 +177,7 @@ window.CATALOG_PRODUCTS = [
     "name": "Brajá Premium de Oxóssi",
     "price": "R$ 329,90",
     "highlights": "Cristais · Madeira · Murano · 7 fios",
-    "cover": "1qDaIZoyvBWLvbslVbWukof9_XcKQeG-l",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/70a62de7929a672f/assets/imported-google/1qDaIZoyvBWLvbslVbWukof9_XcKQeG-l.jpg",
     "alt": "Brajá Premium de Oxóssi em tons de verde",
     "measure": "1,20 m aberta / 60 cm fechada",
     "structure": "60 cm em chicote + 60 cm em 7 fios",
@@ -191,11 +191,11 @@ window.CATALOG_PRODUCTS = [
       "Contas de murano em formato pitanga verde e firmas de madeira completam o acabamento da peça."
     ],
     "images": [
-      "1qDaIZoyvBWLvbslVbWukof9_XcKQeG-l",
-      "1jcITZ36RFVAMErJWzpeQYoTlBApesbPT",
-      "1sDwo-5sFY1-hMtEPm6Mg7C1D8GKM7AfR",
-      "1Qrd_CuEgJL6wJYvOZDZQLwZszIWlWvCO",
-      "1NAzuO7H8m3E2LlhNnP23w0WfWnJLcR-X"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/70a62de7929a672f/assets/imported-google/1qDaIZoyvBWLvbslVbWukof9_XcKQeG-l.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ab779ce2758618cc/assets/imported-google/1jcITZ36RFVAMErJWzpeQYoTlBApesbPT.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/00d646534a8574de/assets/imported-google/1sDwo-5sFY1-hMtEPm6Mg7C1D8GKM7AfR.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4b3677bcd0504797/assets/imported-google/1Qrd_CuEgJL6wJYvOZDZQLwZszIWlWvCO.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/2a30bf56a86fc9cd/assets/imported-google/1NAzuO7H8m3E2LlhNnP23w0WfWnJLcR-X.jpg"
     ],
     "video": "1kLmTyAni4T9n3GSgRvWylKEMRb7mWg3R",
     "code": "BRA-OXO-PRM-001",
@@ -206,15 +206,15 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-OGU-HEM-001",
-    "cover": "1npEeyjRaQncOSeHUTtkgvkpC6glSAXh9",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/026b23d85b89e703/assets/imported-google/1npEeyjRaQncOSeHUTtkgvkpC6glSAXh9.jpg",
     "finishes": "Firma azul de murano de 22 mm e pingente medalha de Ogum.",
     "highlights": "Cristais · Hematita · Murano",
     "images": [
-      "1npEeyjRaQncOSeHUTtkgvkpC6glSAXh9",
-      "15umTztSOYbt79wiY7L2XN-8Xu6wCQ9XJ",
-      "1tK2lJv6TZoiFSYRhC2TNmigaaxCUFmDf",
-      "1ssc6MtfT-pFyktW9RGqOWB7OTe7DN79A",
-      "12VRsslgXexB0_6IjNdIobmKBVBIh2IRT"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/026b23d85b89e703/assets/imported-google/1npEeyjRaQncOSeHUTtkgvkpC6glSAXh9.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/cafd3e4cb9b0e76a/assets/imported-google/15umTztSOYbt79wiY7L2XN-8Xu6wCQ9XJ.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/eca35c376b5bbf6a/assets/imported-google/1tK2lJv6TZoiFSYRhC2TNmigaaxCUFmDf.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6fa00a5150fea317/assets/imported-google/1ssc6MtfT-pFyktW9RGqOWB7OTe7DN79A.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/89012e52e2ef99d5/assets/imported-google/12VRsslgXexB0_6IjNdIobmKBVBIh2IRT.jpg"
     ],
     "inspiration": "Ogum",
     "lead": "Uma guia de proteção inspirada em Ogum, desenvolvida em uma composição equilibrada de azul, branco e hematita. Os cristais de 8 mm, a presença marcante da hematita natural e os detalhes em miçangas criam uma peça artesanal de beleza, firmeza e movimento.",
@@ -238,15 +238,15 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-OGU-VER-AZU-001",
-    "cover": "1KlQ43ZgEN2oegUgNka7u2xeqNb-xkstN",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6d512149ad6c38f0/assets/imported-google/1KlQ43ZgEN2oegUgNka7u2xeqNb-xkstN.jpg",
     "finishes": "Firma azul de murano de 22 mm e pingente de espada vazada de Ogum com strass vermelho.",
     "highlights": "Cristais · Porcelana · Metal",
     "images": [
-      "1KlQ43ZgEN2oegUgNka7u2xeqNb-xkstN",
-      "1t0tfPZHsSu0onypQyucMKTWNv8yHAj6y",
-      "1KxZv6N8XDmgRls57XtL3M0iNVW_kf6Ya",
-      "1YRpyvK4JlQCn34CH0cK3dTarU_mvIVDW",
-      "1_GF-Zzw5FrQhbBPuo9zVlFXBMvcIQnoJ"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6d512149ad6c38f0/assets/imported-google/1KlQ43ZgEN2oegUgNka7u2xeqNb-xkstN.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/2a1d79525fc26dc9/assets/imported-google/1t0tfPZHsSu0onypQyucMKTWNv8yHAj6y.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ed98862202d0d6bb/assets/imported-google/1KxZv6N8XDmgRls57XtL3M0iNVW_kf6Ya.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/db04188c63c55d88/assets/imported-google/1YRpyvK4JlQCn34CH0cK3dTarU_mvIVDW.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/09b119aab79263d5/assets/imported-google/1_GF-Zzw5FrQhbBPuo9zVlFXBMvcIQnoJ.jpg"
     ],
     "inspiration": "Ogum",
     "lead": "Uma guia de proteção inspirada em Ogum, criada na força marcante do azul, vermelho e branco. Cristais, porcelanas e detalhes metálicos se unem em uma composição artesanal de presença, brilho e personalidade.",
@@ -271,17 +271,17 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-POM-7SA-001",
-    "cover": "1R-mfDT1boTqcqvYRnrk7IJGyBvKHWR_6",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/532fb2ef5ee76c49/assets/imported-google/1R-mfDT1boTqcqvYRnrk7IJGyBvKHWR_6.jpg",
     "finishes": "Sete rosas distribuídas pela peça, firma vermelha de murano de 22 mm e pingente com sete moedas abaixo da rosa central.",
     "highlights": "Rosas · Strass · 7 moedas",
     "images": [
-      "1R-mfDT1boTqcqvYRnrk7IJGyBvKHWR_6",
-      "16Q0vRv-l0K1gSlmgxkASlYRxCZHrp5ck",
-      "1FigIfPyNypI60HPOkki_dj6PjhaOxY5p",
-      "1bfdtiIBz8N5kYv3FoA28scxJ42ICvkeE",
-      "1r6hmjSiYbT5x0fgY_S2Ldv7dYyUBIaSo",
-      "1iqDPp7iROs8TdHe2o871TLONSb02N1mZ",
-      "1vXx86fSbg-WD9lgQCdb0Qoxadahnh-4h"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/532fb2ef5ee76c49/assets/imported-google/1R-mfDT1boTqcqvYRnrk7IJGyBvKHWR_6.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/276a2b71bc66298e/assets/imported-google/16Q0vRv-l0K1gSlmgxkASlYRxCZHrp5ck.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/373483a6d484f487/assets/imported-google/1FigIfPyNypI60HPOkki_dj6PjhaOxY5p.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/373483a6d484f487/assets/imported-google/1bfdtiIBz8N5kYv3FoA28scxJ42ICvkeE.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/94fb49ec70cf25fd/assets/imported-google/1r6hmjSiYbT5x0fgY_S2Ldv7dYyUBIaSo.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/db9b523ad889e7fd/assets/imported-google/1iqDPp7iROs8TdHe2o871TLONSb02N1mZ.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/91e7d14fe36f50cf/assets/imported-google/1vXx86fSbg-WD9lgQCdb0Qoxadahnh-4h.jpg"
     ],
     "inspiration": "Pombagira Sete Saias",
     "lead": "Uma guia de proteção inspirada em Pombagira Sete Saias, marcada pela intensidade do vermelho, pelo brilho do âmbar e pela força do preto. Rosas, cristais, porcelanas, strass e sete moedas criam uma peça artesanal rica em presença e detalhes.",
@@ -306,15 +306,15 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-EXU-TRA-001",
-    "cover": "1MoZ5uNCADyFYhM1nC-aerzBYrtqcKvSd",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/20c038d89d3293fa/assets/imported-google/1MoZ5uNCADyFYhM1nC-aerzBYrtqcKvSd.jpg",
     "finishes": "Firma preta de murano de 22 mm e pingente com a inscrição “Exu” e tridente, em preto e vermelho.",
     "highlights": "Cristais · Caveiras · Tridente",
     "images": [
-      "1MoZ5uNCADyFYhM1nC-aerzBYrtqcKvSd",
-      "1lQVPliz4ixjCbVfrbV9JiNP_kCvTcKmb",
-      "11WrUWGPlyQahBZUh2VDX0MmjysntwO1E",
-      "1_wg92M3gbIXhYzQFWen5UxAQ5W5uYRai",
-      "1dt7Q7Z5Cy8K1RlUkpXJGichIKsP_kRPl"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/20c038d89d3293fa/assets/imported-google/1MoZ5uNCADyFYhM1nC-aerzBYrtqcKvSd.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/504c4cf6f0e1a1c9/assets/imported-google/1lQVPliz4ixjCbVfrbV9JiNP_kCvTcKmb.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/a8491b365b6d8a89/assets/imported-google/11WrUWGPlyQahBZUh2VDX0MmjysntwO1E.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/40fc6c10592de66b/assets/imported-google/1_wg92M3gbIXhYzQFWen5UxAQ5W5uYRai.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/2c28ea4728b22736/assets/imported-google/1dt7Q7Z5Cy8K1RlUkpXJGichIKsP_kRPl.jpg"
     ],
     "inspiration": "Exu Tranca-Ruas",
     "lead": "Uma guia de proteção inspirada em Exu Tranca-Ruas, criada na força do vermelho e do preto. Cristais facetados, caveiras e o tridente se unem em uma composição artesanal marcante, de presença intensa e acabamento cuidadoso.",
@@ -338,16 +338,16 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-POM-MUL-001",
-    "cover": "1X2hj41OaswfwWD_D0CXD7AiM4DoE7KjO",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ceb283b983c1ac14/assets/imported-google/1X2hj41OaswfwWD_D0CXD7AiM4DoE7KjO.jpg",
     "finishes": "Firma preta de murano de 20 mm, rosa roxa central com tridente e iniciais “MM”, dois tridentes dourados laterais com rosas roxas e duas rosas roxas decorativas.",
     "highlights": "Rosas · Strass · 3 pingentes",
     "images": [
-      "1X2hj41OaswfwWD_D0CXD7AiM4DoE7KjO",
-      "17SWuA-upuZXqUvIBi1NmRdZpSyDVcyyS",
-      "1jA7bm6iBrMADbdQul2xOjDngK2VIjOEJ",
-      "15G4Z7jU7_JnKef728zDhATegKkKeVIIq",
-      "16KCmpFN9xRWoaRejo9ptqhqwqLQxxvVK",
-      "16oVgwgE_jCBN9IEOlIqSIw3YmuQ3V2tX"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ceb283b983c1ac14/assets/imported-google/1X2hj41OaswfwWD_D0CXD7AiM4DoE7KjO.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b4dc4629c4300ef3/assets/imported-google/17SWuA-upuZXqUvIBi1NmRdZpSyDVcyyS.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/326a2b92b01eabd7/assets/imported-google/1jA7bm6iBrMADbdQul2xOjDngK2VIjOEJ.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/85e51f7f1361044f/assets/imported-google/15G4Z7jU7_JnKef728zDhATegKkKeVIIq.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/aef5553b26955bf7/assets/imported-google/16KCmpFN9xRWoaRejo9ptqhqwqLQxxvVK.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/a671d669ca52dc81/assets/imported-google/16oVgwgE_jCBN9IEOlIqSIw3YmuQ3V2tX.jpg"
     ],
     "inspiration": "Pombagira Maria Mulambo",
     "lead": "Uma guia de proteção inspirada em Pombagira Maria Mulambo, criada na elegância profunda do preto, do roxo e do dourado. Cristais, rosas, strass e tridentes compõem uma peça artesanal intensa, refinada e repleta de detalhes.",
@@ -374,15 +374,15 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-POM-DAN-001",
-    "cover": "1cX38lQfnQ1wxrwYJuaGmTdlN7pJp2YpS",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/dba7d4d782caa27d/assets/imported-google/1cX38lQfnQ1wxrwYJuaGmTdlN7pJp2YpS.jpg",
     "finishes": "Firma de murano de 22 mm e pingente de lua com rosa dourada.",
     "highlights": "Cristais · Porcelana · Lua",
     "images": [
-      "1cX38lQfnQ1wxrwYJuaGmTdlN7pJp2YpS",
-      "1sT3bBxHy1PvaG8tt6hWo5DIncx-Aud6B",
-      "1OXXW3ypJl1i7bg-yULhiphadntRYH4Qg",
-      "1T2WdiigWsXQu9RLB_nQlMzdDqLTjRq3K",
-      "1CgLsOqMRgCARisSet39ZLHYOJwRyg6EL"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/dba7d4d782caa27d/assets/imported-google/1cX38lQfnQ1wxrwYJuaGmTdlN7pJp2YpS.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5091639ab0254717/assets/imported-google/1sT3bBxHy1PvaG8tt6hWo5DIncx-Aud6B.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/a6cde1d97ee5eedf/assets/imported-google/1OXXW3ypJl1i7bg-yULhiphadntRYH4Qg.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f7306a65ac3de397/assets/imported-google/1T2WdiigWsXQu9RLB_nQlMzdDqLTjRq3K.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/fa8237644866ca44/assets/imported-google/1CgLsOqMRgCARisSet39ZLHYOJwRyg6EL.jpg"
     ],
     "inspiration": "Pombagira Dama da Noite",
     "lead": "Uma guia de proteção inspirada em Pombagira Dama da Noite, criada em uma combinação elegante de preto, roxo e dourado. Cristais facetados, porcelanas, strass e o delicado pingente de lua com rosa compõem uma peça artesanal de brilho, presença e sofisticação.",
@@ -407,16 +407,16 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-EXU-7EN-001",
-    "cover": "1FTGSBqQKMBcfkNWOHtYpPP2o1YxEW0cD",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6b40c9c1c5e02fce/assets/imported-google/1FTGSBqQKMBcfkNWOHtYpPP2o1YxEW0cD.jpg",
     "finishes": "Firma preta de murano de 22 mm e pingente central composto por caveira, chapéu de murano preto e número sete.",
     "highlights": "Olho-de-cabra · Caveiras · 7",
     "images": [
-      "1FTGSBqQKMBcfkNWOHtYpPP2o1YxEW0cD",
-      "1Y4FGVbigMcL2junuvce2KOJAHSvrxqHP",
-      "13iHGmiCdZAtW5DVcf2ViCoq04scDoc0J",
-      "1qCPURVdlnvoXTtfd9ePQRSu80n2QnsmK",
-      "1Ru_0MQkc29TJAnBRAViDfowQfxLOsgfM",
-      "1d_I799m75U4MLJpgubrhcmm49z5bf3OI"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6b40c9c1c5e02fce/assets/imported-google/1FTGSBqQKMBcfkNWOHtYpPP2o1YxEW0cD.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/522b107b82df74d1/assets/imported-google/1Y4FGVbigMcL2junuvce2KOJAHSvrxqHP.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/932d9729d13ebd80/assets/imported-google/13iHGmiCdZAtW5DVcf2ViCoq04scDoc0J.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/43a58c246e9160f0/assets/imported-google/1qCPURVdlnvoXTtfd9ePQRSu80n2QnsmK.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8603c92362b2907f/assets/imported-google/1Ru_0MQkc29TJAnBRAViDfowQfxLOsgfM.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/30ee22231a953430/assets/imported-google/1d_I799m75U4MLJpgubrhcmm49z5bf3OI.jpg"
     ],
     "inspiration": "Exu Sete Encruzilhadas",
     "lead": "Uma guia de proteção inspirada em Exu Sete Encruzilhadas, desenvolvida na intensidade do preto e do vermelho. Cristais facetados, olho-de-cabra, caveiras e o símbolo do número sete formam uma composição artesanal marcante, rica em referências visuais à linha.",
@@ -442,16 +442,16 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-POM-MEN-001",
-    "cover": "1fxjNkHUF_4EPmLwyBxSa5w6tYTBW-wXM",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/2d872c2abb5beae8/assets/imported-google/1fxjNkHUF_4EPmLwyBxSa5w6tYTBW-wXM.jpg",
     "finishes": "Firma de murano de 22 mm, rosa dourada central e dois tridentes dourados laterais.",
     "highlights": "Cristais · Rosas · Tridentes",
     "images": [
-      "1fxjNkHUF_4EPmLwyBxSa5w6tYTBW-wXM",
-      "1Wx7Ekad_H6QmgCxqO5AFDYBzlKSkN5Xl",
-      "1nr3Ms2sXZziq-S6q9ovdebedySFUXO8W",
-      "1u8ay8U2BDKX6xyJcvRsRA9hcR5IZH3A7",
-      "1xBGldq4G616TQ7WNAHDoaWDCQytKiw-d",
-      "1Wd6jhHLVSrQ0KjH5WcsBtuBN_9vABUKR"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/2d872c2abb5beae8/assets/imported-google/1fxjNkHUF_4EPmLwyBxSa5w6tYTBW-wXM.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c6eb56bb51e0abc7/assets/imported-google/1Wx7Ekad_H6QmgCxqO5AFDYBzlKSkN5Xl.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/53511ed4b2e5e93a/assets/imported-google/1nr3Ms2sXZziq-S6q9ovdebedySFUXO8W.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7afa44d98580877d/assets/imported-google/1u8ay8U2BDKX6xyJcvRsRA9hcR5IZH3A7.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/107675bbd358b8a4/assets/imported-google/1xBGldq4G616TQ7WNAHDoaWDCQytKiw-d.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/19f49df625ee1ad4/assets/imported-google/1Wd6jhHLVSrQ0KjH5WcsBtuBN_9vABUKR.jpg"
     ],
     "inspiration": "Pombagira Menina",
     "lead": "Uma guia de proteção inspirada em Pombagira Menina, desenvolvida em uma composição delicada e marcante de rosas, dourado, âmbar e preto. Cristais facetados, strass, caveiras e detalhes metálicos dourados compõem uma peça artesanal de brilho e personalidade.",
@@ -478,16 +478,16 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-IAN-001",
-    "cover": "1cojDUwDIrUfGn6Y1KebAfpNN3yahw-Rj",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4d4852997e147d12/assets/imported-google/1cojDUwDIrUfGn6Y1KebAfpNN3yahw-Rj.jpg",
     "finishes": "Centro com cristais vermelhos e trabalho em metal dourado, firma vermelha de murano de 22 mm e pingente de espada com raio.",
     "highlights": "Cristais · Porcelana · Dourado",
     "images": [
-      "1cojDUwDIrUfGn6Y1KebAfpNN3yahw-Rj",
-      "12On6ZVz42IrqUS3wsHej3sUHc-okmgeP",
-      "1tBgduWPiJJuYeaIlBud-2RydGoVTbaho",
-      "1CmUM4QWT9MKkeV72FyvyrpsVlqVj5G5x",
-      "1R3X3IOyhl2ka11CaWskb9xbsPdecd37S",
-      "1hnCbmQWbQ-jeG_EGeztNvsvvoQ7uDdiF"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4d4852997e147d12/assets/imported-google/1cojDUwDIrUfGn6Y1KebAfpNN3yahw-Rj.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/db72a39b08c6ac78/assets/imported-google/12On6ZVz42IrqUS3wsHej3sUHc-okmgeP.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/98f3b2efd884b0d4/assets/imported-google/1tBgduWPiJJuYeaIlBud-2RydGoVTbaho.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/a6505d7e8e69923f/assets/imported-google/1CmUM4QWT9MKkeV72FyvyrpsVlqVj5G5x.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/13fbd7442f8ff0a2/assets/imported-google/1R3X3IOyhl2ka11CaWskb9xbsPdecd37S.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/487f6b9d48e16bda/assets/imported-google/1hnCbmQWbQ-jeG_EGeztNvsvvoQ7uDdiF.jpg"
     ],
     "inspiration": "Iansã",
     "lead": "Uma guia de proteção inspirada em Iansã, criada na intensidade do vermelho e no brilho do dourado. Cristais em diferentes tonalidades, porcelanas, metal e o pingente de espada com raio formam uma peça artesanal de presença vibrante e acabamento marcante.",
@@ -513,16 +513,16 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-LOG-001",
-    "cover": "1IaTIhff84VWev7v0O0Wj-z1ktt_gkJlg",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ac2dc33a440cb965/assets/imported-google/1IaTIhff84VWev7v0O0Wj-z1ktt_gkJlg.jpg",
     "finishes": "Firma azul-claro de murano de 22 mm e pingente dourado de Ofá de Logunedé.",
     "highlights": "Cristais · Strass · Ofá",
     "images": [
-      "1IaTIhff84VWev7v0O0Wj-z1ktt_gkJlg",
-      "1Xq_kIDuEwGoTo4fCT9uiYWSLI569kKKu",
-      "1O46SP4PbCG1FCJoWgcLIKI99_ReLV7Wm",
-      "1dqKIDPQwx5C3Twn2nS5Ho0KXwypl2ilY",
-      "123nMXVUpSeCpzQo48X4F1be7MIP7YeY_",
-      "1slhNahufH_tu1-Pdq8JDohz19sCRItPE"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ac2dc33a440cb965/assets/imported-google/1IaTIhff84VWev7v0O0Wj-z1ktt_gkJlg.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/096875a18deb28f8/assets/imported-google/1Xq_kIDuEwGoTo4fCT9uiYWSLI569kKKu.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6c7faba399d76a28/assets/imported-google/1O46SP4PbCG1FCJoWgcLIKI99_ReLV7Wm.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8687e6937c19fa8a/assets/imported-google/1dqKIDPQwx5C3Twn2nS5Ho0KXwypl2ilY.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/90a8f972911b94ff/assets/imported-google/123nMXVUpSeCpzQo48X4F1be7MIP7YeY_.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/06b189bcff1f1c5f/assets/imported-google/1slhNahufH_tu1-Pdq8JDohz19sCRItPE.jpg"
     ],
     "inspiration": "Logunedé",
     "lead": "Uma guia de proteção inspirada em Logunedé, desenvolvida na harmonia delicada entre o azul-opalino e o âmbar-dourado. Cristais facetados, strass e o Ofá dourado compõem uma peça artesanal luminosa, elegante e rica em significado visual.",
@@ -547,16 +547,16 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-OMO-001",
-    "cover": "1_zmG7omrsPYj3Bi2T1RaGei2NmbRCnOS",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7641ffa6dd25fd51/assets/imported-google/1_zmG7omrsPYj3Bi2T1RaGei2NmbRCnOS.jpg",
     "finishes": "Firma preta de murano de 20 mm com listras brancas e pingente de Omolu/Obaluaê em prata envelhecida.",
     "highlights": "Cristais · Porcelana · Prata",
     "images": [
-      "1_zmG7omrsPYj3Bi2T1RaGei2NmbRCnOS",
-      "1HvqpXVB-dhcCJiTozDZONqT1HN4je0S_",
-      "1iPAbl_yyxf9SyeVeDlb4Y0S-CrWuxYRU",
-      "1xj27U7Sdacpa9zXXXg2aSlU7AdAf0HPc",
-      "1hOLlCi5mhbD4V5CvidAGrolsx17ooYc5",
-      "1wkRA99aUEsXCNAkjVbk0KbeC464wxtvr"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7641ffa6dd25fd51/assets/imported-google/1_zmG7omrsPYj3Bi2T1RaGei2NmbRCnOS.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b2f724113b36d190/assets/imported-google/1HvqpXVB-dhcCJiTozDZONqT1HN4je0S_.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/61c54db3688df8d7/assets/imported-google/1iPAbl_yyxf9SyeVeDlb4Y0S-CrWuxYRU.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/cdab091a7b19b8ab/assets/imported-google/1xj27U7Sdacpa9zXXXg2aSlU7AdAf0HPc.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c386caf620403aac/assets/imported-google/1hOLlCi5mhbD4V5CvidAGrolsx17ooYc5.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b2189880f478275f/assets/imported-google/1wkRA99aUEsXCNAkjVbk0KbeC464wxtvr.jpg"
     ],
     "inspiration": "Omolu / Obaluaê",
     "lead": "Uma guia de proteção inspirada em Omolu e Obaluaê, desenvolvida na composição clássica do preto, branco e cristal transparente. A alternância de tamanhos, o ritmo das sequências e o pingente em prata envelhecida formam uma peça artesanal de presença sóbria e acabamento refinado.",
@@ -581,16 +581,16 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-XAN-001",
-    "cover": "1aK3SOP66axI_lUGdPN_3D7QqTInLHUA9",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/d5c76a6c2af88d00/assets/imported-google/1aK3SOP66axI_lUGdPN_3D7QqTInLHUA9.jpg",
     "finishes": "Duas firmas em formato pitanga de 20 mm, firma marrom de murano de 22 mm e pingente de machado de dois gumes de Xangô em ouro envelhecido.",
     "highlights": "Cristais · Pitanga · Machado",
     "images": [
-      "1aK3SOP66axI_lUGdPN_3D7QqTInLHUA9",
-      "1XhWZjEjFofcfdhY1zmNL_Co_udoshoqJ",
-      "1DyQdG2HDZ9-psTbD9Q3CLdxbE9QNonwv",
-      "1EQfB9iwD7wqRSxPefQ9xLYb4oXamyR0G",
-      "1oP2RbBMfj5d4qsjOc1pTHRBhclCWTw4b",
-      "1qQxAaj-Y7Bc-hLannmnn3A8IAD9dvDcO"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/d5c76a6c2af88d00/assets/imported-google/1aK3SOP66axI_lUGdPN_3D7QqTInLHUA9.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/1b521ed7c7264383/assets/imported-google/1XhWZjEjFofcfdhY1zmNL_Co_udoshoqJ.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/d2a48f1edb93c4d6/assets/imported-google/1DyQdG2HDZ9-psTbD9Q3CLdxbE9QNonwv.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0a5fe3c724411e2b/assets/imported-google/1EQfB9iwD7wqRSxPefQ9xLYb4oXamyR0G.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0896e7d4b00e1ab1/assets/imported-google/1oP2RbBMfj5d4qsjOc1pTHRBhclCWTw4b.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/cf99eb39ca933376/assets/imported-google/1qQxAaj-Y7Bc-hLannmnn3A8IAD9dvDcO.jpg"
     ],
     "inspiration": "Xangô",
     "lead": "Uma guia de proteção inspirada em Xangô, desenvolvida em uma composição sóbria e elegante de marrons e branco. Cristais facetados, firmas em formato pitanga e o machado de dois gumes em ouro envelhecido formam uma peça artesanal de presença e acabamento refinado.",
@@ -616,15 +616,15 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-IEM-001",
-    "cover": "13Ub6DHw4tut3-F4OFqLJsf30RmMGC8gy",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4b8b24df8acf1ee1/assets/imported-google/13Ub6DHw4tut3-F4OFqLJsf30RmMGC8gy.jpg",
     "finishes": "Firma azul-claro de murano de 22 mm e pingente medalha de Iemanjá.",
     "highlights": "Cristais · Pérolas · Strass",
     "images": [
-      "13Ub6DHw4tut3-F4OFqLJsf30RmMGC8gy",
-      "1Oa2biZp9QfZmvDUhIBZjEtlVdZKhjf-f",
-      "1ONTYXqGTmcfkpzKkJXI7FdkrI0PT05Ly",
-      "1eNNnhYCyQ2e193Iqh1QdIiko1lzNp3I2",
-      "1Fa-oDg4nrLTalK2df6AyDz9FcmcA_xcj"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4b8b24df8acf1ee1/assets/imported-google/13Ub6DHw4tut3-F4OFqLJsf30RmMGC8gy.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/dee5e3ffba34c352/assets/imported-google/1Oa2biZp9QfZmvDUhIBZjEtlVdZKhjf-f.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/2186d18cbef9b612/assets/imported-google/1ONTYXqGTmcfkpzKkJXI7FdkrI0PT05Ly.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/98e303ca55439699/assets/imported-google/1eNNnhYCyQ2e193Iqh1QdIiko1lzNp3I2.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0883a16639f7cbd4/assets/imported-google/1Fa-oDg4nrLTalK2df6AyDz9FcmcA_xcj.jpg"
     ],
     "inspiration": "Iemanjá",
     "lead": "Uma guia de proteção inspirada em Iemanjá, desenvolvida em tons delicados de azul e branco. Cristais, pérolas, strass prateado e a medalha de Iemanjá compõem uma peça artesanal luminosa, elegante e cheia de movimento.",
@@ -650,15 +650,15 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-OXO-001",
-    "cover": "1dwgwz46ZLSGJFrr4yjkLvUe6uda5rira",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/aa7f688d03291c72/assets/imported-google/1dwgwz46ZLSGJFrr4yjkLvUe6uda5rira.jpg",
     "finishes": "Duas contas em formato pitanga verde de 20 mm, firma verde de murano de 22 mm e pingente de Ofá de Oxóssi de 45 mm.",
     "highlights": "Cristais · Pitanga · Ofá",
     "images": [
-      "1dwgwz46ZLSGJFrr4yjkLvUe6uda5rira",
-      "122aEAS6qKxq6EjCX6R53xkm-IysXVUp1",
-      "1_j_Ob1JpyR4twCNYk6DrQ-35OCSC25xX",
-      "1-U60IkEDLJ3DyhIUwb1iAJbOkHsP-Ov-",
-      "1SgscqkPEGaKlFmbYxjRDt9GfZdvblHZp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/aa7f688d03291c72/assets/imported-google/1dwgwz46ZLSGJFrr4yjkLvUe6uda5rira.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/75290c3a31c7d7da/assets/imported-google/122aEAS6qKxq6EjCX6R53xkm-IysXVUp1.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7ebadba9608ff045/assets/imported-google/1_j_Ob1JpyR4twCNYk6DrQ-35OCSC25xX.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/bcd04df0989bd028/assets/imported-google/1-U60IkEDLJ3DyhIUwb1iAJbOkHsP-Ov-.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4efe1a4d28e7a176/assets/imported-google/1SgscqkPEGaKlFmbYxjRDt9GfZdvblHZp.jpg"
     ],
     "inspiration": "Oxóssi",
     "lead": "Uma guia de proteção inspirada em Oxóssi, desenvolvida em uma composição vibrante de verdes que une delicadeza, presença e brilho. Cristais em diferentes tonalidades e tamanhos valorizam o movimento da peça, finalizada pelo Ofá de Oxóssi como destaque central.",
@@ -684,15 +684,15 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-OXU-DOUR-001",
-    "cover": "1prxnepDNA9H_mxf06Gg8p64BAxVa9mYq",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7ed317a17b1393bc/assets/imported-google/1prxnepDNA9H_mxf06Gg8p64BAxVa9mYq.jpg",
     "finishes": "Pérolas douradas ao centro das laterais, firma de vidro dourado translúcido de 22 mm e abebé dourado com espelho",
     "highlights": "Cristais · Pérolas · Abebé",
     "images": [
-      "1prxnepDNA9H_mxf06Gg8p64BAxVa9mYq",
-      "1wJBkskwQi81W9dYkJkag2j7Hxxv0KLTj",
-      "1v-2tr0ad2NClhDc1oMaZnkw-RYxloz77",
-      "1hSFBOVNOILmS1eseRxkvwuug_5aQ5Y3s",
-      "1yQZ8sV6YtRXxXmfJ6wfKwDPRI_f9L62Z"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7ed317a17b1393bc/assets/imported-google/1prxnepDNA9H_mxf06Gg8p64BAxVa9mYq.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/aa9fc5fc0226ece8/assets/imported-google/1wJBkskwQi81W9dYkJkag2j7Hxxv0KLTj.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/88e5d6153f36c4a7/assets/imported-google/1v-2tr0ad2NClhDc1oMaZnkw-RYxloz77.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/3cc2cc052cb55f1e/assets/imported-google/1hSFBOVNOILmS1eseRxkvwuug_5aQ5Y3s.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f653ffb087ec91a6/assets/imported-google/1yQZ8sV6YtRXxXmfJ6wfKwDPRI_f9L62Z.jpg"
     ],
     "inspiration": "Oxum",
     "lead": "Uma guia de proteção inspirada em Oxum, criada em uma composição luminosa de âmbar e dourado. Cristais facetados, miçangas, metais e o abebé com espelho formam uma peça artesanal elegante, delicada e rica em brilho.",
@@ -716,11 +716,11 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-OXU-ROSA-001",
-    "cover": "1dfpamink6xFtEMZOrBmnpsTd2pEWoamE",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/11bc36caa71cb081/assets/imported-google/1dfpamink6xFtEMZOrBmnpsTd2pEWoamE.jpg",
     "finishes": "Contas de 10 mm nas laterais, firma de murano cristal e pingente representando Oxum.",
     "highlights": "Cristais · Quartzo rosa · Oxum",
     "images": [
-      "1dfpamink6xFtEMZOrBmnpsTd2pEWoamE"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/11bc36caa71cb081/assets/imported-google/1dfpamink6xFtEMZOrBmnpsTd2pEWoamE.jpg"
     ],
     "inspiration": "Oxum",
     "lead": "Uma guia de proteção inspirada em Oxum, criada em uma composição delicada de rosa-cristal e quartzo rosa. Os cristais facetados, os pontos de destaque nas laterais e o pingente de Oxum formam uma peça artesanal leve, luminosa e elegante.",
@@ -744,15 +744,15 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-OXA-001",
-    "cover": "1mOuzoNln9y-YLmQs8u51D1j-bhRhRAi6",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/455f26465573b3ad/assets/imported-google/1mOuzoNln9y-YLmQs8u51D1j-bhRhRAi6.jpg",
     "finishes": "Três fios laterais em cores do arco-íris, firma amarela de murano de 22 mm e pingente de arco-íris com duas serpentes representando Oxumarê.",
     "highlights": "Cristais · Arco-íris · Serpentes",
     "images": [
-      "1mOuzoNln9y-YLmQs8u51D1j-bhRhRAi6",
-      "1hRA5tGhre40g2UaBTC4sTz3EWWmnTW4e",
-      "1NM89BVWVM_7kEXgJdaGyFBwx92hVHmRb",
-      "1aJONLBa33RYmNta4A-qSN5V7bbQx4mbN",
-      "1aB4Kxwo00EtxYwK0B0TGOYVAIzbA4oQ_"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/455f26465573b3ad/assets/imported-google/1mOuzoNln9y-YLmQs8u51D1j-bhRhRAi6.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/df6df0aa2df54aac/assets/imported-google/1hRA5tGhre40g2UaBTC4sTz3EWWmnTW4e.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b9d912ca59da914d/assets/imported-google/1NM89BVWVM_7kEXgJdaGyFBwx92hVHmRb.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/317ce40f7c947160/assets/imported-google/1aJONLBa33RYmNta4A-qSN5V7bbQx4mbN.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0c66d3888c522523/assets/imported-google/1aB4Kxwo00EtxYwK0B0TGOYVAIzbA4oQ_.jpg"
     ],
     "inspiration": "Oxumarê",
     "lead": "Uma guia de proteção inspirada em Oxumarê, criada na força do preto e amarelo e enriquecida pelas cores vibrantes do arco-íris. Cristais facetados, detalhes multicoloridos e o pingente simbólico formam uma peça artesanal marcante, cheia de movimento e identidade visual.",
@@ -776,15 +776,15 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-PV-MAD-001",
-    "cover": "1rJPQsgLx5EoSkSunOOZXtuVqikVx-N7j",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/50d7806b447b1c2e/assets/imported-google/1rJPQsgLx5EoSkSunOOZXtuVqikVx-N7j.jpg",
     "finishes": "Cruz central de madeira de 4 cm, medalha de Preto-Velho, pingente de cachimbo, firma marrom de murano de 22 mm e duas contas de madeira de 14 mm.",
     "highlights": "Madeira · Cristais · Cruz",
     "images": [
-      "1rJPQsgLx5EoSkSunOOZXtuVqikVx-N7j",
-      "1lpd10BlsOLbk_Q_A05p32W5LG5eGu20T",
-      "1EXzZAaMqZUjs7Citobgxly-xWhD2P5Kx",
-      "1ypO13zNJ9785XeoBt4qQjLGTOvyFAD3z",
-      "14jr7ypk5TqLOcehZTmXd3PKeZ9xoccco"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/50d7806b447b1c2e/assets/imported-google/1rJPQsgLx5EoSkSunOOZXtuVqikVx-N7j.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/71003bd9d7e6bac5/assets/imported-google/1lpd10BlsOLbk_Q_A05p32W5LG5eGu20T.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b4b58a7507e37532/assets/imported-google/1EXzZAaMqZUjs7Citobgxly-xWhD2P5Kx.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/359649933f51893b/assets/imported-google/1ypO13zNJ9785XeoBt4qQjLGTOvyFAD3z.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/d021d91f5861e804/assets/imported-google/14jr7ypk5TqLOcehZTmXd3PKeZ9xoccco.jpg"
     ],
     "inspiration": "Preto-Velho",
     "lead": "Uma guia de proteção inspirada na linha de Preto-Velho, criada com a presença acolhedora e marcante da madeira em diferentes tonalidades. Cristais âmbar, detalhes de maior volume e pingentes simbólicos compõem uma peça artesanal sóbria, elegante e rica em identidade.",
@@ -808,15 +808,15 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-PV-VOC-001",
-    "cover": "1Kgv_B7t24yYGWN_6vBAr9wyld6Ved1x2",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4cfa8b930a4d0882/assets/imported-google/1Kgv_B7t24yYGWN_6vBAr9wyld6Ved1x2.jpg",
     "finishes": "Pingente central com rosa roxa e cruz de madeira creme, duas rosas roxas, firma roxa de murano de 22 mm.",
     "highlights": "Rosas · Madeira · 3 fios",
     "images": [
-      "1Kgv_B7t24yYGWN_6vBAr9wyld6Ved1x2",
-      "1x8YEnGYRrKCqdZAIxss0zcBYR4YXPHoE",
-      "1l6S374oMvDAtgGE-2JnTDfzxWQccpMKI",
-      "1u5yjcJ0Jl7eqNactSb3dwvTLaYPXp1Ql",
-      "1gdAlYBvF66Ri_1fSxqfDhdgRW3wXhig-"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4cfa8b930a4d0882/assets/imported-google/1Kgv_B7t24yYGWN_6vBAr9wyld6Ved1x2.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b8a3f63977928a7a/assets/imported-google/1x8YEnGYRrKCqdZAIxss0zcBYR4YXPHoE.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ba9b3ba798a08ab3/assets/imported-google/1l6S374oMvDAtgGE-2JnTDfzxWQccpMKI.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/514e4bc3827d8451/assets/imported-google/1u5yjcJ0Jl7eqNactSb3dwvTLaYPXp1Ql.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f04eed089050c37d/assets/imported-google/1gdAlYBvF66Ri_1fSxqfDhdgRW3wXhig-.jpg"
     ],
     "inspiration": "Preta-Velha Vovó Cambinda, com referência à paleta de Nanã",
     "lead": "Uma guia de proteção inspirada em Vovó Cambinda, criada em uma composição delicada de roxo, lilás e madeira creme. A alternância entre seções de um e três fios traz movimento, volume e riqueza visual, enquanto as rosas e a cruz de madeira formam um acabamento artesanal cheio de personalidade.",
@@ -840,14 +840,14 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-MAR-001",
-    "cover": "1Dr4-1jpgw29Xq1i1jJgbot5Z5FO33lIL",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e089d856522d8830/assets/imported-google/1Dr4-1jpgw29Xq1i1jJgbot5Z5FO33lIL.jpg",
     "finishes": "Pingente de leme em azul, branco e prata e firma azul-translúcida de vidro de 22 mm.",
     "highlights": "Cristais · Azuis · Leme",
     "images": [
-      "1Dr4-1jpgw29Xq1i1jJgbot5Z5FO33lIL",
-      "1S7yuJHjNm_1Ci7veuJ6U9UsnD25mtXYI",
-      "1mIeopkogdHhRIl0gHjo_xhH7jHmRwSN5",
-      "1u678jd7-5fLK9W_p9flIqjp2xL1GLZ7o"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e089d856522d8830/assets/imported-google/1Dr4-1jpgw29Xq1i1jJgbot5Z5FO33lIL.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/64a92e61a51e2371/assets/imported-google/1S7yuJHjNm_1Ci7veuJ6U9UsnD25mtXYI.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e7b13851f867d20b/assets/imported-google/1mIeopkogdHhRIl0gHjo_xhH7jHmRwSN5.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c9580b31faa2e4c3/assets/imported-google/1u678jd7-5fLK9W_p9flIqjp2xL1GLZ7o.jpg"
     ],
     "inspiration": "Linha de Marinheiros",
     "lead": "Uma guia de proteção inspirada na linha de Marinheiros, criada em uma composição leve e marcante de azuis e branco. Cristais facetados de vidro, sequências cuidadosamente organizadas e o pingente de leme formam uma peça artesanal de movimento, brilho e identidade.",
@@ -871,14 +871,14 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-CAB-PVE-001",
-    "cover": "1KF67GPtzLqcmO-ul3VhzpYCLDO53Y9wl",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5c3eb64d24354076/assets/imported-google/1KF67GPtzLqcmO-ul3VhzpYCLDO53Y9wl.jpg",
     "finishes": "Pingente central em pena natural vermelha, dois pingentes laterais — caçador e pena — e firma verde-bandeira de murano de 22 mm.",
     "highlights": "Madeira · Cristais · Pena",
     "images": [
-      "1KF67GPtzLqcmO-ul3VhzpYCLDO53Y9wl",
-      "1MgcHhOK2xXQKuSKrHTTyeRJUcapmcAkz",
-      "1q8ALO0FSXJhl-0QaXgTd2hGEii7VvI63",
-      "1Q9VKmM5dzIfahPp6DcC4XB40-ybFvBuW"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5c3eb64d24354076/assets/imported-google/1KF67GPtzLqcmO-ul3VhzpYCLDO53Y9wl.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4fac5893c5275c6f/assets/imported-google/1MgcHhOK2xXQKuSKrHTTyeRJUcapmcAkz.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/474777801a6497b1/assets/imported-google/1q8ALO0FSXJhl-0QaXgTd2hGEii7VvI63.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/27d5385bea1e51ee/assets/imported-google/1Q9VKmM5dzIfahPp6DcC4XB40-ybFvBuW.jpg"
     ],
     "inspiration": "Caboclo Pena Vermelha",
     "lead": "Uma guia de proteção inspirada em Caboclo Pena Vermelha, criada em uma composição intensa de verde, vermelho e madeira. Cristais facetados, diferentes volumes e a pena natural central formam uma peça artesanal marcante, com movimento e riqueza de detalhes.",
@@ -902,16 +902,16 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-POM-MPC-001",
-    "cover": "1zIC98IERGsus-3XLQLizG61hAyajawsG",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4b9af03b415908a8/assets/imported-google/1zIC98IERGsus-3XLQLizG61hAyajawsG.jpg",
     "finishes": "Firma vermelha de murano de 22 mm e três pingentes: tridente com duas taças ao centro, taças decoradas com rosas em uma lateral e tridente dourado com rosa na outra.",
     "highlights": "Rosas · Coroas · 3 pingentes",
     "images": [
-      "1zIC98IERGsus-3XLQLizG61hAyajawsG",
-      "1L0e8XpyBggUxmf3iu3QHRtYbGbmqO_Lh",
-      "14uXj2JEdqzTbfQrzIJakjz79VrtazF8t",
-      "1xvFE73d5Q0vBsDxVB-G02FkNh3J_rz9Q",
-      "1QP0FO01L-fLiE5aXb4dlFQ_M5UeoK25d",
-      "1NDzaH-OZGQwNhrwscX0-M6puZGls6NXO"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4b9af03b415908a8/assets/imported-google/1zIC98IERGsus-3XLQLizG61hAyajawsG.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6472b681ac02bf77/assets/imported-google/1L0e8XpyBggUxmf3iu3QHRtYbGbmqO_Lh.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/3a4ea144b40789f1/assets/imported-google/14uXj2JEdqzTbfQrzIJakjz79VrtazF8t.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6818f6915ca81886/assets/imported-google/1xvFE73d5Q0vBsDxVB-G02FkNh3J_rz9Q.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ac9ec8a4ad474e47/assets/imported-google/1QP0FO01L-fLiE5aXb4dlFQ_M5UeoK25d.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/95c26f60ee21118f/assets/imported-google/1NDzaH-OZGQwNhrwscX0-M6puZGls6NXO.jpg"
     ],
     "inspiration": "Pombagira Maria Padilha do Cabaré",
     "lead": "Uma guia de proteção inspirada em Maria Padilha do Cabaré, criada em uma composição intensa de vermelho, dourado e preto. Cristais facetados, metais trabalhados, rosas, coroas e strass se unem em uma peça artesanal marcante, elegante e repleta de detalhes.",
@@ -935,14 +935,14 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Proteção · Linha Cristal",
     "category": "Guias de Proteção",
     "code": "GPC-POM-MNA-001",
-    "cover": "1NdJ7YXVysIu0gEqQMGkSo3UHSm2pDgqo",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/53e279fe25fddcff/assets/imported-google/1NdJ7YXVysIu0gEqQMGkSo3UHSm2pDgqo.jpg",
     "finishes": "Rosa grande de veludo com navalha dourada e strass vermelho; cinco firmas — duas em formato de chapéu, duas ovais de murano e uma cilíndrica branca com listras vermelhas.",
     "highlights": "Rosas · Strass · Navalha",
     "images": [
-      "1NdJ7YXVysIu0gEqQMGkSo3UHSm2pDgqo",
-      "1LmBaaIvIQJ7wY-R9FaksBPE3KlMa9hQ2",
-      "1nj3lU4wA5OI-OeSMLqxSOGYYd-Cm9Gvj",
-      "1VE_8SVb8M1u41AM61iwsKVYm8Jiz21j4"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/53e279fe25fddcff/assets/imported-google/1NdJ7YXVysIu0gEqQMGkSo3UHSm2pDgqo.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/3ec85e88a470f5c9/assets/imported-google/1LmBaaIvIQJ7wY-R9FaksBPE3KlMa9hQ2.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/d0e31e9452ad2c1f/assets/imported-google/1nj3lU4wA5OI-OeSMLqxSOGYYd-Cm9Gvj.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c65b23e2e0ebe5d3/assets/imported-google/1VE_8SVb8M1u41AM61iwsKVYm8Jiz21j4.jpg"
     ],
     "inspiration": "Maria Navalha",
     "lead": "Uma guia de proteção inspirada em Maria Navalha, criada na combinação marcante do branco e vermelho. Cristais facetados, strass, rosas e cinco firmas especiais compõem uma peça artesanal de presença forte, riqueza visual e acabamento cuidadosamente trabalhado.",
@@ -966,15 +966,15 @@ window.CATALOG_PRODUCTS = [
     "badge": "Brajá Luxo",
     "category": "Brajás",
     "code": "BLX-IEM-001",
-    "cover": "1KJVLJF6JUSb2KgGn70JTbEgP63mYmX4g",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e4a575fa65cfa4ee/assets/imported-google/1KJVLJF6JUSb2KgGn70JTbEgP63mYmX4g.jpg",
     "finishes": "Pingente de espelho de aproximadamente 6 cm com pedra azul facetada, detalhes em metal, strass e pequenos pingentes decorativos.",
     "highlights": "Vidro decorativo · Strass · Espelho",
     "images": [
-      "1KJVLJF6JUSb2KgGn70JTbEgP63mYmX4g",
-      "1mYSyg7yuodehheUze9bVj-Uvs2ozc10C",
-      "1cfmEo3fcnGHS6sMQIOUsOa1wbEtA5jgS",
-      "1B7s1esxpMbq8Iw-JrriThjASr7DWGJEa",
-      "10yZExS9G3TJSFZuN_iywyJmKXVDOeJsf"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e4a575fa65cfa4ee/assets/imported-google/1KJVLJF6JUSb2KgGn70JTbEgP63mYmX4g.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/46046250b37e998c/assets/imported-google/1mYSyg7yuodehheUze9bVj-Uvs2ozc10C.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4b060193df32f3f0/assets/imported-google/1cfmEo3fcnGHS6sMQIOUsOa1wbEtA5jgS.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5cd4b7ab060b7109/assets/imported-google/1B7s1esxpMbq8Iw-JrriThjASr7DWGJEa.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/a82f9e9de5ba7bb7/assets/imported-google/10yZExS9G3TJSFZuN_iywyJmKXVDOeJsf.jpg"
     ],
     "inspiration": "Iemanjá",
     "lead": "Um brajá de presença luxuosa, desenvolvido como uma joia artesanal para Iemanjá. Contas grandes, vidro decorativo, cristais, strass e metais criam uma composição rica em textura, brilho e profundidade.",
@@ -998,14 +998,14 @@ window.CATALOG_PRODUCTS = [
     "badge": "Brajá Luxo",
     "category": "Brajás",
     "code": "BLX-POM-001",
-    "cover": "163Xi2WzUSbU03jvEtC3zjy89pUZJljd9",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e6e2ab4447af0c87/assets/imported-google/163Xi2WzUSbU03jvEtC3zjy89pUZJljd9.jpg",
     "finishes": "Pingente central com rosa vermelha grande e coroa dourada; pingentes laterais de leque dourado e tridente dourado com strass vermelho.",
     "highlights": "Rosas · Coroa · Strass",
     "images": [
-      "163Xi2WzUSbU03jvEtC3zjy89pUZJljd9",
-      "1nXQ6JtX2EExZrewA4xKSLfUA6OrnAk8K",
-      "114fxeF4iOcRMTEoxW3NngzUY-PrTTnis",
-      "1riYpS90nZfadbVZ6jlxeIdHx0Xd3Fsdt"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e6e2ab4447af0c87/assets/imported-google/163Xi2WzUSbU03jvEtC3zjy89pUZJljd9.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ca6454d1507ae08b/assets/imported-google/1nXQ6JtX2EExZrewA4xKSLfUA6OrnAk8K.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/1a5327e9c09c1723/assets/imported-google/114fxeF4iOcRMTEoxW3NngzUY-PrTTnis.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f2161bbe2267985e/assets/imported-google/1riYpS90nZfadbVZ6jlxeIdHx0Xd3Fsdt.jpg"
     ],
     "inspiration": "Pombagira",
     "lead": "Um brajá luxo de presença marcante, criado com rosas vermelhas, vidro decorativo, metal dourado trabalhado e detalhes de strass. Cada seção reúne formas, brilhos e acabamentos diferentes em uma composição autoral rica em volume e personalidade.",
@@ -1029,14 +1029,14 @@ window.CATALOG_PRODUCTS = [
     "badge": "Brajá 7 Fios",
     "category": "Brajás",
     "code": "BRA-EXU-CAV-7F-001",
-    "cover": "1E-7rayebnoOBOQnKAB7Bj9mVFj8ISEX-",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4a7af93a2f0935ac/assets/imported-google/1E-7rayebnoOBOQnKAB7Bj9mVFj8ISEX-.jpg",
     "finishes": "Sete caveiras de aproximadamente 4 cm, incluindo o pingente central, e firmas pretas de murano cilíndricas e torcidas.",
     "highlights": "7 fios · Caveiras · Murano",
     "images": [
-      "1E-7rayebnoOBOQnKAB7Bj9mVFj8ISEX-",
-      "1w4WulpQoE9pJkvX6xNuoq2E1QJt8JsmU",
-      "1dBIaf9xKNZpob1LXNNjKL6ayvkbN7UCC",
-      "1dw6X6i3cw4O1wCZ9F-U7emSwLVbkGovz"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4a7af93a2f0935ac/assets/imported-google/1E-7rayebnoOBOQnKAB7Bj9mVFj8ISEX-.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/17a00d49f5b8937d/assets/imported-google/1w4WulpQoE9pJkvX6xNuoq2E1QJt8JsmU.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/043ce0fcb5018e0b/assets/imported-google/1dBIaf9xKNZpob1LXNNjKL6ayvkbN7UCC.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/d373178b30b2e242/assets/imported-google/1dw6X6i3cw4O1wCZ9F-U7emSwLVbkGovz.jpg"
     ],
     "inspiration": "Exu Caveira",
     "lead": "Um brajá de sete fios com presença intensa e acabamento marcante. A composição toda em preto valoriza o volume criado pelas miçangas de 4 mm, enquanto as sete caveiras de grande porte organizam os pontos de destaque ao longo da peça.",
@@ -1059,14 +1059,14 @@ window.CATALOG_PRODUCTS = [
     "badge": "Brajá 7 Fios",
     "category": "Brajás",
     "code": "BRA-7LIN-001",
-    "cover": "1dL7gkArvbjz1Yj3-O-3tZaq8wZQn59np",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6b9fa607cf3be6c0/assets/imported-google/1dL7gkArvbjz1Yj3-O-3tZaq8wZQn59np.jpg",
     "finishes": "Sete firmas brancas de murano e pingente central em medalha das Sete Linhas.",
     "highlights": "7 fios · Cristais · Medalha",
     "images": [
-      "1dL7gkArvbjz1Yj3-O-3tZaq8wZQn59np",
-      "1AsFUDl-qKHdmzkZiJwa-VVsyoACFEy_j",
-      "1whRopCXBoGWLMIfES0Z2saykOVJ0tug6",
-      "189oHTOd6zNUupQMgUk8w3QJyutpuMvp5"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6b9fa607cf3be6c0/assets/imported-google/1dL7gkArvbjz1Yj3-O-3tZaq8wZQn59np.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/9443980d137a7fe5/assets/imported-google/1AsFUDl-qKHdmzkZiJwa-VVsyoACFEy_j.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/d05ebfa77e694868/assets/imported-google/1whRopCXBoGWLMIfES0Z2saykOVJ0tug6.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/264001e6c2333733/assets/imported-google/189oHTOd6zNUupQMgUk8w3QJyutpuMvp5.jpg"
     ],
     "inspiration": "Sete Linhas da Umbanda",
     "lead": "Um brajá de sete fios criado para representar as Sete Linhas da Umbanda em uma composição leve, colorida e cheia de movimento. A base branca se une às cores distribuídas entre os fios, enquanto os cristais transparentes acrescentam brilho e destaque à peça.",
@@ -1089,14 +1089,14 @@ window.CATALOG_PRODUCTS = [
     "badge": "Brajá 7 Fios",
     "category": "Brajás",
     "code": "BRA-OXO-7F-001",
-    "cover": "1XNcmdraI4yEYyvIJdmxoVpUPLDG0HDka",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/36742d5b9b25545b/assets/imported-google/1XNcmdraI4yEYyvIJdmxoVpUPLDG0HDka.jpg",
     "finishes": "Destaque frontal com contas de madeira de 14 mm, firma verde de murano e pingente de Ofá de aproximadamente 4 cm.",
     "highlights": "7 fios · Madeira · Ofá",
     "images": [
-      "1XNcmdraI4yEYyvIJdmxoVpUPLDG0HDka",
-      "1ZCvIdP0PEkS5OZvWdUzV7DjcWUUCLfcA",
-      "1iJTzQBcQN4g2Z93Xhoe9vCsAFNzxeRME",
-      "1hj2QpNg2fQQSOZNTjRzmnJi9pXiDhB3j"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/36742d5b9b25545b/assets/imported-google/1XNcmdraI4yEYyvIJdmxoVpUPLDG0HDka.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8daf7caee542b1b7/assets/imported-google/1ZCvIdP0PEkS5OZvWdUzV7DjcWUUCLfcA.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ae1c2762b5784aba/assets/imported-google/1iJTzQBcQN4g2Z93Xhoe9vCsAFNzxeRME.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f3415648c795d8aa/assets/imported-google/1hj2QpNg2fQQSOZNTjRzmnJi9pXiDhB3j.jpg"
     ],
     "inspiration": "Oxóssi",
     "lead": "Um brajá de sete fios que une os tons de verde ao brilho dos cristais e à presença natural da madeira. O trançado em miçangas cria volume e movimento, enquanto o fio em cristal âmbar dourado ilumina a composição com um contraste elegante.",
@@ -1127,9 +1127,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Logunedé",
     "highlights": "Miçangas 4 mm, cristais 8 mm e pingente.",
-    "cover": "/assets/products/cij-gui-log-4mm-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/945b153aca4705a6/assets/products/cij-gui-log-4mm-001/capa.webp",
     "images": [
-      "/assets/products/cij-gui-log-4mm-001/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/945b153aca4705a6/assets/products/cij-gui-log-4mm-001/capa.webp"
     ],
     "alt": "Guia de Logunedé com Miçangas de 4 mm e Detalhes em Cristais de 8 mm",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1160,9 +1160,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Brajá 3 Fios",
     "inspiration": "Pombagira",
     "highlights": "3 fios com miçangas 4 mm e cristais 8 mm.",
-    "cover": "/assets/products/br-pom-3f/capa.jpeg",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8901092a717c8f87/assets/products/br-pom-3f/capa.jpeg",
     "images": [
-      "/assets/products/br-pom-3f/capa.jpeg"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8901092a717c8f87/assets/products/br-pom-3f/capa.jpeg"
     ],
     "alt": "Brajá de Pombagira com 3 Fios",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1193,9 +1193,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Brajá 3 Fios",
     "inspiration": "Exu",
     "highlights": "3 fios com miçangas 4 mm e cristais 8 mm.",
-    "cover": "/assets/products/br-exu-3f/capa.jpeg",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/d71df6b2db323bfe/assets/products/br-exu-3f/capa.jpeg",
     "images": [
-      "/assets/products/br-exu-3f/capa.jpeg"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/d71df6b2db323bfe/assets/products/br-exu-3f/capa.jpeg"
     ],
     "alt": "Brajá de Exu com 3 Fios",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1226,9 +1226,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Brajá 3 Fios",
     "inspiration": "Obaluaiê / Omulu",
     "highlights": "3 fios com miçangas 4 mm e cristais 8 mm.",
-    "cover": "/assets/products/br3-oml-60-sh1/capa.jpeg",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c7bb28299b599c6b/assets/products/br3-oml-60-sh1/capa.jpeg",
     "images": [
-      "/assets/products/br3-oml-60-sh1/capa.jpeg"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c7bb28299b599c6b/assets/products/br3-oml-60-sh1/capa.jpeg"
     ],
     "alt": "Brajá de Obaluaiê (Omulu) com 3 Fios com Cordão de Palha",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1259,9 +1259,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Xangô",
     "highlights": "Miçangas 4 mm, cristais 8 mm e pingente.",
-    "cover": "/assets/products/gp-xan-mix-60-sh1/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/cb91a43bb5fdacf8/assets/products/gp-xan-mix-60-sh1/capa.webp",
     "images": [
-      "/assets/products/gp-xan-mix-60-sh1/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/cb91a43bb5fdacf8/assets/products/gp-xan-mix-60-sh1/capa.webp"
     ],
     "alt": "Guia de Proteção de Xangô com Miçangas 4 mm, Cristais 8 mm e Pingente - Marrom Vermelho e Branco",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1292,9 +1292,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Brajá 3 Fios",
     "inspiration": "Obá",
     "highlights": "3 fios com miçangas 4 mm e cristais 8 mm.",
-    "cover": "/assets/products/br3-oba-60/capa.jpeg",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/85599e14ef334034/assets/products/br3-oba-60/capa.jpeg",
     "images": [
-      "/assets/products/br3-oba-60/capa.jpeg"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/85599e14ef334034/assets/products/br3-oba-60/capa.jpeg"
     ],
     "alt": "Brajá de Obá com 3 Fios e 7 firmas",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1356,9 +1356,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Oxumarê",
     "highlights": "Miçangas 4 mm, cristais 8 mm e pingente.",
-    "cover": "/assets/products/gp-oxm-mix-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f821f942a24fbc76/assets/products/gp-oxm-mix-60/capa.webp",
     "images": [
-      "/assets/products/gp-oxm-mix-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f821f942a24fbc76/assets/products/gp-oxm-mix-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Oxumarê com Miçangas 4 mm, Cristais 8 mm e Pingente",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1389,9 +1389,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Essencial",
     "inspiration": "Oxumarê",
     "highlights": "Miçangas 4 mm, sem pingente.",
-    "cover": "/assets/products/gp-oxm-4mm-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6ae9792ba5a06845/assets/products/gp-oxm-4mm-60/capa.webp",
     "images": [
-      "/assets/products/gp-oxm-4mm-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6ae9792ba5a06845/assets/products/gp-oxm-4mm-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Oxumarê em Miçangas de Vidro 4 mm",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1453,9 +1453,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Obaluaiê / Omulu",
     "highlights": "Miçangas 4 mm, cristais 8 mm e pingente.",
-    "cover": "/assets/products/gp-oml-mix-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e38a711bc55e139f/assets/products/gp-oml-mix-60/capa.webp",
     "images": [
-      "/assets/products/gp-oml-mix-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e38a711bc55e139f/assets/products/gp-oml-mix-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Obaluaiê (Omulu) com Miçangas 4 mm, Cristais 8 mm e Pingente",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1486,9 +1486,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Essencial",
     "inspiration": "Obaluaiê / Omulu",
     "highlights": "Miçangas 4 mm, sem pingente.",
-    "cover": "/assets/products/gp-oml-4mm-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/997cfa6acaaeb01d/assets/products/gp-oml-4mm-60/capa.webp",
     "images": [
-      "/assets/products/gp-oml-4mm-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/997cfa6acaaeb01d/assets/products/gp-oml-4mm-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Obaluaiê (Omulu) em Miçangas de Vidro 4 mm",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1550,9 +1550,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Nanã",
     "highlights": "Miçangas 4 mm, cristais 8 mm e pingente.",
-    "cover": "/assets/products/gp-nan-mix-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8914cd4ba47ff591/assets/products/gp-nan-mix-60/capa.webp",
     "images": [
-      "/assets/products/gp-nan-mix-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8914cd4ba47ff591/assets/products/gp-nan-mix-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Nanã com Miçangas 4 mm, Cristais 8 mm e Pingente",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1583,9 +1583,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Nanã",
     "highlights": "Miçangas 4 mm, cristais 8 mm e pingente.",
-    "cover": "/assets/products/gp-nan-4mm-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0e653898ea7a8fe0/assets/products/gp-nan-4mm-60/capa.webp",
     "images": [
-      "/assets/products/gp-nan-4mm-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0e653898ea7a8fe0/assets/products/gp-nan-4mm-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Nanã em Miçangas de Vidro 4 mm",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1647,9 +1647,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Iemanjá",
     "highlights": "Miçangas 4 mm, cristais 8 mm e pingente.",
-    "cover": "/assets/products/gp-iem-mix-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5a3d4c54d73a57f2/assets/products/gp-iem-mix-60/capa.webp",
     "images": [
-      "/assets/products/gp-iem-mix-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5a3d4c54d73a57f2/assets/products/gp-iem-mix-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Iemanjá com Miçangas 4 mm, Cristais 8 mm e Pingente",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1680,9 +1680,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Essencial",
     "inspiration": "Iemanjá",
     "highlights": "Miçangas 4 mm, sem pingente.",
-    "cover": "/assets/products/gp-iem-4mm-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/dc309c7c8e400582/assets/products/gp-iem-4mm-60/capa.webp",
     "images": [
-      "/assets/products/gp-iem-4mm-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/dc309c7c8e400582/assets/products/gp-iem-4mm-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Iemanjá em Miçangas de Vidro 4 mm",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1744,9 +1744,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Essencial",
     "inspiration": "Oxum",
     "highlights": "Miçangas 4 mm, sem pingente.",
-    "cover": "/assets/products/gp-oxu-4mm-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/95d31b9fd65b445a/assets/products/gp-oxu-4mm-60/capa.webp",
     "images": [
-      "/assets/products/gp-oxu-4mm-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/95d31b9fd65b445a/assets/products/gp-oxu-4mm-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Oxum em Miçangas de Vidro 4 mm",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1777,9 +1777,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Brajá 3 Fios",
     "inspiration": "Iansã",
     "highlights": "3 fios com miçangas 4 mm e cristais 8 mm.",
-    "cover": "/assets/products/br3-ian-60/capa.jpeg",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8256cde729a5a882/assets/products/br3-ian-60/capa.jpeg",
     "images": [
-      "/assets/products/br3-ian-60/capa.jpeg"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8256cde729a5a882/assets/products/br3-ian-60/capa.jpeg"
     ],
     "alt": "Brajá de Iansã com 3 Fios",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1810,9 +1810,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Iansã",
     "highlights": "Miçangas 4 mm, cristais 8 mm e pingente.",
-    "cover": "/assets/products/gp-ian-mix-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e45d04f65319f90b/assets/products/gp-ian-mix-60/capa.webp",
     "images": [
-      "/assets/products/gp-ian-mix-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e45d04f65319f90b/assets/products/gp-ian-mix-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Iansã com Miçangas 4 mm, Cristais 8 mm e Pingente",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1843,9 +1843,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Essencial",
     "inspiration": "Iansã",
     "highlights": "Miçangas 4 mm, sem pingente.",
-    "cover": "/assets/products/gp-ian-4mm-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c2574b1754a4c5c8/assets/products/gp-ian-4mm-60/capa.webp",
     "images": [
-      "/assets/products/gp-ian-4mm-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c2574b1754a4c5c8/assets/products/gp-ian-4mm-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Iansã em Miçangas de Vidro 4 mm",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1876,11 +1876,11 @@ window.CATALOG_PRODUCTS = [
     "badge": "Brajá 3 Fios",
     "inspiration": "Xangô",
     "highlights": "3 fios com miçangas 4 mm e cristais 8 mm.",
-    "cover": "/assets/products/br3-xan-60/capa.jpeg",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8fc1ebb7bcfbecfb/assets/products/br3-xan-60/capa.jpeg",
     "images": [
-      "/assets/products/br3-xan-60/capa.jpeg",
-      "/assets/merchant-products/IMG_7526.jpg",
-      "/assets/merchant-products/IMG_7528.jpg"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8fc1ebb7bcfbecfb/assets/products/br3-xan-60/capa.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/401788565301ff73/assets/merchant-products/IMG_7526.jpg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/520a69f03b6053f4/assets/merchant-products/IMG_7528.jpg"
     ],
     "alt": "Brajá de Xangô com 3 Fios",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1911,9 +1911,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Xangô",
     "highlights": "Miçangas em tons de vermelho e marrom, contas facetadas em tons de âmbar e pingente dourado.",
-    "cover": "/assets/products/gp-xan-mix-60-sh2/capa-20261022.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/219813690ce02219/assets/products/gp-xan-mix-60-sh2/capa-20261022.webp",
     "images": [
-      "/assets/products/gp-xan-mix-60-sh2/capa-20261022.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/219813690ce02219/assets/products/gp-xan-mix-60-sh2/capa-20261022.webp"
     ],
     "alt": "Guia de Proteção de Xangô com Miçangas 4 mm, Cristais 8 mm e Pingente. Miçangas em tons de vermelho e marrom, contas facetadas em tons de âmbar e pingente dourado.",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -1947,9 +1947,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Essencial",
     "inspiration": "Xangô",
     "highlights": "Miçangas 4 mm, sem pingente.",
-    "cover": "/assets/products/gp-xan-4mm-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/219765bc5fbfe270/assets/products/gp-xan-4mm-60/capa.webp",
     "images": [
-      "/assets/products/gp-xan-4mm-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/219765bc5fbfe270/assets/products/gp-xan-4mm-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Xangô em Miçangas de Vidro 4 mm",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -2011,9 +2011,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Oxóssi",
     "highlights": "Miçangas 4 mm, cristais 8 mm e pingente.",
-    "cover": "/assets/products/gp-oxo-mix-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/fb6a88e8df894819/assets/products/gp-oxo-mix-60/capa.webp",
     "images": [
-      "/assets/products/gp-oxo-mix-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/fb6a88e8df894819/assets/products/gp-oxo-mix-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Oxóssi com Miçangas 4 mm, Cristais 8 mm e Pingente",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -2044,9 +2044,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Essencial",
     "inspiration": "Oxóssi",
     "highlights": "Miçangas 4 mm, sem pingente.",
-    "cover": "/assets/products/gp-oxo-4mm-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/64b0775a2db7708b/assets/products/gp-oxo-4mm-60/capa.webp",
     "images": [
-      "/assets/products/gp-oxo-4mm-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/64b0775a2db7708b/assets/products/gp-oxo-4mm-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Oxóssi em Miçangas de Vidro 4 mm",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -2077,9 +2077,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Brajá 3 Fios",
     "inspiration": "Ogum",
     "highlights": "3 fios com miçangas 4 mm e cristais 8 mm.",
-    "cover": "/assets/products/br3-ogu-60/capa.jpeg",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/1f3a75e56e8f3a57/assets/products/br3-ogu-60/capa.jpeg",
     "images": [
-      "/assets/products/br3-ogu-60/capa.jpeg"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/1f3a75e56e8f3a57/assets/products/br3-ogu-60/capa.jpeg"
     ],
     "alt": "Brajá de Ogum com 3 Fios",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -2110,9 +2110,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Ogum",
     "highlights": "Miçangas 4 mm, cristais 8 mm e pingente.",
-    "cover": "/assets/products/gp-ogu-mix-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c8c39834507bbac6/assets/products/gp-ogu-mix-60/capa.webp",
     "images": [
-      "/assets/products/gp-ogu-mix-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c8c39834507bbac6/assets/products/gp-ogu-mix-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Ogum com Miçangas 4 mm, Cristais 8 mm e Pingente",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -2143,9 +2143,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Essencial",
     "inspiration": "Ogum",
     "highlights": "Miçangas 4 mm, sem pingente.",
-    "cover": "/assets/products/gp-ogu-4mm-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5abeb23f6bb8f307/assets/products/gp-ogu-4mm-60/capa.webp",
     "images": [
-      "/assets/products/gp-ogu-4mm-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5abeb23f6bb8f307/assets/products/gp-ogu-4mm-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Ogum em Miçangas de Vidro 4 mm",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -2207,9 +2207,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Oxalá",
     "highlights": "Miçangas 4 mm, cristais 8 mm e pingente.",
-    "cover": "/assets/products/gp-oxa-mix-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b9069731982a6949/assets/products/gp-oxa-mix-60/capa.webp",
     "images": [
-      "/assets/products/gp-oxa-mix-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b9069731982a6949/assets/products/gp-oxa-mix-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Oxalá com Miçangas 4 mm, Cristais 8 mm e Pingente",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -2240,9 +2240,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Essencial",
     "inspiration": "Oxalá",
     "highlights": "Miçangas 4 mm, sem pingente.",
-    "cover": "/assets/products/gp-oxa-4mm-60/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ab346dd751357a64/assets/products/gp-oxa-4mm-60/capa.webp",
     "images": [
-      "/assets/products/gp-oxa-4mm-60/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ab346dd751357a64/assets/products/gp-oxa-4mm-60/capa.webp"
     ],
     "alt": "Guia de Proteção de Oxalá em Miçangas de Vidro 4 mm",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -2273,9 +2273,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Oxum",
     "highlights": "Miçangas 4 mm · Cristais 8 mm · Espelho dourado",
-    "cover": "/assets/products/cat-oxu-des-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ed9c5526c90d8544/assets/products/cat-oxu-des-001/capa.webp",
     "images": [
-      "/assets/products/cat-oxu-des-001/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ed9c5526c90d8544/assets/products/cat-oxu-des-001/capa.webp"
     ],
     "alt": "Guia de Proteção de Oxum — Destaque, amarela, com miçangas, contas facetadas e pingente dourado de espelho",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -2495,9 +2495,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Ossaim",
     "highlights": "Miçangas 4 mm, cristais 8 mm e pingente.",
-    "cover": "/assets/products/cat-oss-des-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c4f1f6ed77521891/assets/products/cat-oss-des-001/capa.webp",
     "images": [
-      "/assets/products/cat-oss-des-001/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c4f1f6ed77521891/assets/products/cat-oss-des-001/capa.webp"
     ],
     "alt": "Guia de Proteção de Ossaim — Destaque",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -2681,14 +2681,14 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Luxo",
     "path": "/guias-luxo/glx-mna-001/",
     "price": "R$ 199,00",
-    "cover": "/assets/products/glx-mna-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4ac8bb8d2babf9b2/assets/products/glx-mna-001/capa.webp",
     "images": [
-      "/assets/products/glx-mna-001/capa.webp",
-      "/assets/products/glx-mna-001/foto-2.webp",
-      "/assets/products/glx-mna-001/foto-3.webp",
-      "/assets/products/glx-mna-001/foto-4.webp",
-      "/assets/products/glx-mna-001/foto-5.webp",
-      "/assets/products/glx-mna-001/foto-6.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4ac8bb8d2babf9b2/assets/products/glx-mna-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/79929ab8cfc8c4c8/assets/products/glx-mna-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/841c78a1b680438a/assets/products/glx-mna-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8635a43a76dd32e8/assets/products/glx-mna-001/foto-4.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/738baa0979f78bb0/assets/products/glx-mna-001/foto-5.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/11c2ca3b55d5b211/assets/products/glx-mna-001/foto-6.webp"
     ],
     "alt": "Guia Premium Maria Navalha em vermelho, branco e dourado, com rosas, dados e pingentes",
     "photoStatus": "Foto fornecida",
@@ -2716,12 +2716,12 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Premium",
     "path": "/guias-premium/gpr-exu-cav-001/",
     "price": "R$ 149,90",
-    "cover": "/assets/products/gpr-exu-cav-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7aa08a1050b399e7/assets/products/gpr-exu-cav-001/capa.webp",
     "images": [
-      "/assets/products/gpr-exu-cav-001/capa.webp",
-      "/assets/products/gpr-exu-cav-001/foto-2.webp",
-      "/assets/products/gpr-exu-cav-001/foto-3.webp",
-      "/assets/products/gpr-exu-cav-001/foto-4.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7aa08a1050b399e7/assets/products/gpr-exu-cav-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/50a3a99cfe6792e0/assets/products/gpr-exu-cav-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/33440f3624f300e1/assets/products/gpr-exu-cav-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/55e7b1c5aa897e6f/assets/products/gpr-exu-cav-001/foto-4.webp"
     ],
     "alt": "Guia Premium Exu Caveira com contas pretas facetadas, caveiras e cruz de ossos",
     "photoStatus": "Foto fornecida",
@@ -2749,13 +2749,13 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Cristais",
     "path": "/guias-cristal/gpc-oxm-ser-002/",
     "price": "R$ 99,90",
-    "cover": "/assets/products/gpc-oxm-ser-002/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/16004854423b8a54/assets/products/gpc-oxm-ser-002/capa.webp",
     "images": [
-      "/assets/products/gpc-oxm-ser-002/capa.webp",
-      "/assets/products/gpc-oxm-ser-002/foto-2.webp",
-      "/assets/products/gpc-oxm-ser-002/foto-3.webp",
-      "/assets/products/gpc-oxm-ser-002/foto-4.webp",
-      "/assets/products/gpc-oxm-ser-002/foto-5.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/16004854423b8a54/assets/products/gpc-oxm-ser-002/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f0be82bba49c13d7/assets/products/gpc-oxm-ser-002/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/35ba20492c77721d/assets/products/gpc-oxm-ser-002/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/43ee0959e642ba97/assets/products/gpc-oxm-ser-002/foto-4.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6d0214900aa2ab86/assets/products/gpc-oxm-ser-002/foto-5.webp"
     ],
     "alt": "Guia de Cristais de Oxumaré nas cores do arco-íris, preto e amarelo, com serpentes douradas",
     "photoStatus": "Foto fornecida",
@@ -2783,16 +2783,16 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Luxo",
     "path": "/guias-luxo/glx-pom-001/",
     "price": "R$ 199,00",
-    "cover": "/assets/products/glx-pom-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e77b33fd929e87dc/assets/products/glx-pom-001/capa.webp",
     "images": [
-      "/assets/products/glx-pom-001/capa.webp",
-      "/assets/products/glx-pom-001/foto-2.webp",
-      "/assets/products/glx-pom-001/foto-3.webp",
-      "/assets/products/glx-pom-001/foto-4.webp",
-      "/assets/products/glx-pom-001/foto-5.webp",
-      "/assets/products/glx-pom-001/foto-6.webp",
-      "/assets/products/glx-pom-001/foto-7.webp",
-      "/assets/products/glx-pom-001/foto-8.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e77b33fd929e87dc/assets/products/glx-pom-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/9edc2e69245bf9a3/assets/products/glx-pom-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c3e5126c4dbba1b9/assets/products/glx-pom-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/bc1d06ec819370e0/assets/products/glx-pom-001/foto-4.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/74049d16e471bb2a/assets/products/glx-pom-001/foto-5.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/3cf852c120b92dc0/assets/products/glx-pom-001/foto-6.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/9843ffb3f09d2e24/assets/products/glx-pom-001/foto-7.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7a132b27b83e0237/assets/products/glx-pom-001/foto-8.webp"
     ],
     "alt": "Guia Luxo Pombagira com contas vermelhas e pretas, rosas vermelhas, coroas e tridente dourado",
     "photoStatus": "Foto fornecida",
@@ -2820,15 +2820,15 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Premium",
     "path": "/guias-premium/gpr-exu-tra-001/",
     "price": "R$ 149,90",
-    "cover": "/assets/products/gpr-exu-tra-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5bdf4fd99b6daae4/assets/products/gpr-exu-tra-001/capa.webp",
     "images": [
-      "/assets/products/gpr-exu-tra-001/capa.webp",
-      "/assets/products/gpr-exu-tra-001/foto-2.webp",
-      "/assets/products/gpr-exu-tra-001/foto-3.webp",
-      "/assets/products/gpr-exu-tra-001/foto-4.webp",
-      "/assets/products/gpr-exu-tra-001/foto-5.webp",
-      "/assets/products/gpr-exu-tra-001/foto-6.webp",
-      "/assets/products/gpr-exu-tra-001/foto-7.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5bdf4fd99b6daae4/assets/products/gpr-exu-tra-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/a773e863547ee3cc/assets/products/gpr-exu-tra-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/cb54d05a56c093a6/assets/products/gpr-exu-tra-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/9176e97fc5771f35/assets/products/gpr-exu-tra-001/foto-4.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/3af2a1ad26055a3c/assets/products/gpr-exu-tra-001/foto-5.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e4e1b4fc257403ba/assets/products/gpr-exu-tra-001/foto-6.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0b548bae0afa6df2/assets/products/gpr-exu-tra-001/foto-7.webp"
     ],
     "alt": "Guia Premium Exu Tranca Ruas em preto, vermelho e dourado, com medalhas e pingentes",
     "photoStatus": "Foto fornecida",
@@ -2866,14 +2866,14 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Premium",
     "path": "/guias-premium/gpr-vca-001/",
     "price": "R$ 149,90",
-    "cover": "/assets/products/gpr-vca-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/21ce341e13daa81e/assets/products/gpr-vca-001/capa.webp",
     "images": [
-      "/assets/products/gpr-vca-001/capa.webp",
-      "/assets/products/gpr-vca-001/foto-2.webp",
-      "/assets/products/gpr-vca-001/foto-3.webp",
-      "/assets/products/gpr-vca-001/foto-4.webp",
-      "/assets/products/gpr-vca-001/foto-5.webp",
-      "/assets/products/gpr-vca-001/foto-6.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/21ce341e13daa81e/assets/products/gpr-vca-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/cd3305041900f6c8/assets/products/gpr-vca-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5f6a062f8a7e45f6/assets/products/gpr-vca-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f7a3ace42fbaa2c9/assets/products/gpr-vca-001/foto-4.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ab58891353339c98/assets/products/gpr-vca-001/foto-5.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/542ae263566a563b/assets/products/gpr-vca-001/foto-6.webp"
     ],
     "photoStatus": "Foto fornecida",
     "measure": "Confirme a medida no orçamento",
@@ -2901,12 +2901,12 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Premium",
     "path": "/guias-premium/gpr-cig-001/",
     "price": "R$ 149,90",
-    "cover": "/assets/products/gpr-cig-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ae1a1250114bf570/assets/products/gpr-cig-001/capa.webp",
     "images": [
-      "/assets/products/gpr-cig-001/capa.webp",
-      "/assets/products/gpr-cig-001/foto-2.webp",
-      "/assets/products/gpr-cig-001/foto-3.webp",
-      "/assets/products/gpr-cig-001/foto-4.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ae1a1250114bf570/assets/products/gpr-cig-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/150884eb15547445/assets/products/gpr-cig-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/299641ca5a3229b0/assets/products/gpr-cig-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/9fa6a5d4c1fa047b/assets/products/gpr-cig-001/foto-4.webp"
     ],
     "photoStatus": "Foto fornecida",
     "measure": "Confirme a medida no orçamento",
@@ -2924,13 +2924,13 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia de Cristais",
     "path": "/guias-cristal/gpc-pv-cr-002/",
     "price": "R$ 99,90",
-    "cover": "/assets/products/gpc-pv-cr-002/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/47b670a8c3b3d17f/assets/products/gpc-pv-cr-002/capa.webp",
     "images": [
-      "/assets/products/gpc-pv-cr-002/capa.webp",
-      "/assets/products/gpc-pv-cr-002/foto-2.webp",
-      "/assets/products/gpc-pv-cr-002/foto-3.webp",
-      "/assets/products/gpc-pv-cr-002/foto-4.webp",
-      "/assets/products/gpc-pv-cr-002/foto-5.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/47b670a8c3b3d17f/assets/products/gpc-pv-cr-002/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/1d179672e6c976d3/assets/products/gpc-pv-cr-002/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/d32e8226c2258206/assets/products/gpc-pv-cr-002/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/80ddc23beeb7f8a9/assets/products/gpc-pv-cr-002/foto-4.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/fee894e0a9bf8382/assets/products/gpc-pv-cr-002/foto-5.webp"
     ],
     "alt": "Guia de Cristais Preto Velho em preto e branco com detalhes marrons e pingente de cachimbo",
     "photoStatus": "Foto fornecida",
@@ -2958,12 +2958,12 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Premium",
     "path": "/guias-premium/gpr-exu-por-001/",
     "price": "R$ 149,90",
-    "cover": "/assets/products/gpr-exu-por-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/3d5c6ea27c00979a/assets/products/gpr-exu-por-001/capa.webp",
     "images": [
-      "/assets/products/gpr-exu-por-001/capa.webp",
-      "/assets/products/gpr-exu-por-001/foto-2.webp",
-      "/assets/products/gpr-exu-por-001/foto-3.webp",
-      "/assets/products/gpr-exu-por-001/foto-4.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/3d5c6ea27c00979a/assets/products/gpr-exu-por-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/bf6dbc1b5ed12305/assets/products/gpr-exu-por-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e7582b1733a2501c/assets/products/gpr-exu-por-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/91db62273431e62b/assets/products/gpr-exu-por-001/foto-4.webp"
     ],
     "alt": "Guia Premium Exu em porcelana preta, com caveiras, búzios decorativos e pingentes prateados",
     "photoStatus": "Foto fornecida",
@@ -3001,11 +3001,11 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Premium",
     "path": "/guias-premium/gpr-ian-001/",
     "price": "R$ 149,90",
-    "cover": "/assets/products/gpr-ian-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7ed623677b5f000a/assets/products/gpr-ian-001/capa.webp",
     "images": [
-      "/assets/products/gpr-ian-001/capa.webp",
-      "/assets/products/gpr-ian-001/foto-2.webp",
-      "/assets/products/gpr-ian-001/foto-3.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7ed623677b5f000a/assets/products/gpr-ian-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/73f50fb418b5bfa5/assets/products/gpr-ian-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c0bd65a7ce6a479f/assets/products/gpr-ian-001/foto-3.webp"
     ],
     "photoStatus": "Foto fornecida",
     "measure": "Confirme a medida no orçamento",
@@ -3033,11 +3033,11 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Premium",
     "path": "/guias-premium/gpr-nan-001/",
     "price": "R$ 149,90",
-    "cover": "/assets/products/gpr-nan-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/1d0a39febdfbbd87/assets/products/gpr-nan-001/capa.webp",
     "images": [
-      "/assets/products/gpr-nan-001/capa.webp",
-      "/assets/products/gpr-nan-001/foto-2.webp",
-      "/assets/products/gpr-nan-001/foto-3.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/1d0a39febdfbbd87/assets/products/gpr-nan-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/59b4e92c9379c48a/assets/products/gpr-nan-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8775529dce801b87/assets/products/gpr-nan-001/foto-3.webp"
     ],
     "photoStatus": "Foto fornecida",
     "measure": "Confirme a medida no orçamento",
@@ -3065,12 +3065,12 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Premium",
     "path": "/guias-premium/gpr-omo-001/",
     "price": "R$ 149,90",
-    "cover": "/assets/products/gpr-omo-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ca0b98a2eaac3e1f/assets/products/gpr-omo-001/capa.webp",
     "images": [
-      "/assets/products/gpr-omo-001/capa.webp",
-      "/assets/products/gpr-omo-001/foto-2.webp",
-      "/assets/products/gpr-omo-001/foto-3.webp",
-      "/assets/products/gpr-omo-001/foto-4.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ca0b98a2eaac3e1f/assets/products/gpr-omo-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/104a63ac3bbbf3be/assets/products/gpr-omo-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5be8563801853382/assets/products/gpr-omo-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/aba085a7a3ab744a/assets/products/gpr-omo-001/foto-4.webp"
     ],
     "photoStatus": "Foto fornecida",
     "measure": "Confirme a medida no orçamento",
@@ -3099,12 +3099,12 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Luxo",
     "path": "/guias-luxo/glx-oxl-001/",
     "price": "R$ 199,00",
-    "cover": "/assets/products/glx-oxl-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/39786a779a6252d2/assets/products/glx-oxl-001/capa.webp",
     "images": [
-      "/assets/products/glx-oxl-001/capa.webp",
-      "/assets/products/glx-oxl-001/foto-2.webp",
-      "/assets/products/glx-oxl-001/foto-3.webp",
-      "/assets/products/glx-oxl-001/foto-4.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/39786a779a6252d2/assets/products/glx-oxl-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/fb391364b56953f7/assets/products/glx-oxl-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ef805a7fd1825ea0/assets/products/glx-oxl-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b20dc83ba89ddbc4/assets/products/glx-oxl-001/foto-4.webp"
     ],
     "photoStatus": "Foto fornecida",
     "measure": "Confirme a medida no orçamento",
@@ -3132,12 +3132,12 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Luxo",
     "path": "/guias-luxo/glx-zep-001/",
     "price": "R$ 199,00",
-    "cover": "/assets/products/glx-zep-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/d1ba7a128c5377d1/assets/products/glx-zep-001/capa.webp",
     "images": [
-      "/assets/products/glx-zep-001/capa.webp",
-      "/assets/products/glx-zep-001/foto-2.webp",
-      "/assets/products/glx-zep-001/foto-3.webp",
-      "/assets/products/glx-zep-001/foto-4.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/d1ba7a128c5377d1/assets/products/glx-zep-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/2e34a0007928ba0c/assets/products/glx-zep-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/10038764bc134b0c/assets/products/glx-zep-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/9013ad725c1f73a6/assets/products/glx-zep-001/foto-4.webp"
     ],
     "photoStatus": "Foto fornecida",
     "measure": "Confirme a medida no orçamento",
@@ -3165,12 +3165,12 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Luxo",
     "path": "/guias-luxo/glx-cab-001/",
     "price": "R$ 199,00",
-    "cover": "/assets/products/glx-cab-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6dba35498d32176e/assets/products/glx-cab-001/capa.webp",
     "images": [
-      "/assets/products/glx-cab-001/capa.webp",
-      "/assets/products/glx-cab-001/foto-2.webp",
-      "/assets/products/glx-cab-001/foto-3.webp",
-      "/assets/products/glx-cab-001/foto-4.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6dba35498d32176e/assets/products/glx-cab-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/84616a83d37a9f3c/assets/products/glx-cab-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ccc4b2e270bf0541/assets/products/glx-cab-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f454299ca4005ec9/assets/products/glx-cab-001/foto-4.webp"
     ],
     "photoStatus": "Foto fornecida",
     "measure": "Confirme a medida no orçamento",
@@ -3198,12 +3198,12 @@ window.CATALOG_PRODUCTS = [
       "Uma cruz escura finaliza a peça. Para uso ritual, siga a orientação do dirigente da sua casa."
     ],
     "badge": "Terço",
-    "cover": "/assets/products/ter-pv-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/dd7b439daf4ae2d6/assets/products/ter-pv-001/capa.webp",
     "images": [
-      "/assets/products/ter-pv-001/capa.webp",
-      "/assets/products/ter-pv-001/foto-2.webp",
-      "/assets/products/ter-pv-001/foto-3.webp",
-      "/assets/products/ter-pv-001/foto-4.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/dd7b439daf4ae2d6/assets/products/ter-pv-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/a02ec529574454b2/assets/products/ter-pv-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ea9a37c827ca1f48/assets/products/ter-pv-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/25fd12f8b574a774/assets/products/ter-pv-001/foto-4.webp"
     ],
     "photoStatus": "Foto fornecida",
     "measure": "Confirme a medida no orçamento",
@@ -3231,12 +3231,12 @@ window.CATALOG_PRODUCTS = [
       "A firma de madeira e a cruz escura completam o acabamento. Materiais naturais podem apresentar variações de tonalidade e formato."
     ],
     "badge": "Guia Natural",
-    "cover": "/assets/products/gna-pv-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8c10e29ac3ba9ace/assets/products/gna-pv-001/capa.webp",
     "images": [
-      "/assets/products/gna-pv-001/capa.webp",
-      "/assets/products/gna-pv-001/foto-2.webp",
-      "/assets/products/gna-pv-001/foto-3.webp",
-      "/assets/products/gna-pv-001/foto-4.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8c10e29ac3ba9ace/assets/products/gna-pv-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/15525e89b81a41e0/assets/products/gna-pv-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8c904964a8db3e1e/assets/products/gna-pv-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0a32a51851990b50/assets/products/gna-pv-001/foto-4.webp"
     ],
     "photoStatus": "Foto fornecida",
     "measure": "Confirme a medida no orçamento",
@@ -3264,13 +3264,13 @@ window.CATALOG_PRODUCTS = [
       "Uma âncora decorativa lateral e pequenos pingentes náuticos enriquecem a composição. Uma âncora azul finaliza o centro."
     ],
     "badge": "Guia Luxo",
-    "cover": "/assets/products/glx-mar-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f75b76cd243167a8/assets/products/glx-mar-001/capa.webp",
     "images": [
-      "/assets/products/glx-mar-001/capa.webp",
-      "/assets/products/glx-mar-001/foto-2.webp",
-      "/assets/products/glx-mar-001/foto-3.webp",
-      "/assets/products/glx-mar-001/foto-4.webp",
-      "/assets/products/glx-mar-001/foto-5.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f75b76cd243167a8/assets/products/glx-mar-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7a2a1ae108f32a46/assets/products/glx-mar-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/dace56648ac33313/assets/products/glx-mar-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/434024b26bcdf005/assets/products/glx-mar-001/foto-4.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5c3cc8318a9cb27f/assets/products/glx-mar-001/foto-5.webp"
     ],
     "photoStatus": "Foto fornecida",
     "measure": "Confirme a medida no orçamento",
@@ -3287,10 +3287,10 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Premium",
     "path": "/guias-premium/gpr-ogu-hem-001/",
     "price": "R$ 149,90",
-    "cover": "/assets/products/gpr-ogu-hem-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/9b2968bbadd842fa/assets/products/gpr-ogu-hem-001/capa.webp",
     "images": [
-      "/assets/products/gpr-ogu-hem-001/capa.webp",
-      "/assets/products/gpr-ogu-hem-001/foto-2.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/9b2968bbadd842fa/assets/products/gpr-ogu-hem-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7b62657c64ff6673/assets/products/gpr-ogu-hem-001/foto-2.webp"
     ],
     "alt": "Guia Premium Ogum azul com hematita, detalhes prateados, espadas e ferradura",
     "photoStatus": "Foto fornecida",
@@ -3329,12 +3329,12 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Luxo",
     "path": "/guias-luxo/glx-iem-001/",
     "price": "R$ 199,00",
-    "cover": "/assets/products/glx-iem-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/cbb452aa54b70f9b/assets/products/glx-iem-001/capa.webp",
     "images": [
-      "/assets/products/glx-iem-001/capa.webp",
-      "/assets/products/glx-iem-001/foto-2.webp",
-      "/assets/products/glx-iem-001/foto-3.webp",
-      "/assets/products/glx-iem-001/foto-4.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/cbb452aa54b70f9b/assets/products/glx-iem-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5710c1800b6210de/assets/products/glx-iem-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8eee5938217906e9/assets/products/glx-iem-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8d1804e432b23e5e/assets/products/glx-iem-001/foto-4.webp"
     ],
     "photoStatus": "Foto fornecida",
     "measure": "Confirme a medida no orçamento",
@@ -3362,13 +3362,13 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Luxo",
     "path": "/guias-luxo/glx-oxu-001/",
     "price": "R$ 199,00",
-    "cover": "/assets/products/glx-oxu-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f3f6943ac316c0e8/assets/products/glx-oxu-001/capa.webp",
     "images": [
-      "/assets/products/glx-oxu-001/capa.webp",
-      "/assets/products/glx-oxu-001/foto-2.webp",
-      "/assets/products/glx-oxu-001/foto-3.webp",
-      "/assets/products/glx-oxu-001/foto-4.webp",
-      "/assets/products/glx-oxu-001/foto-5.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f3f6943ac316c0e8/assets/products/glx-oxu-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/2bfc645c586e814c/assets/products/glx-oxu-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0627e1e64dac0c77/assets/products/glx-oxu-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/9473cc8955fbe5c8/assets/products/glx-oxu-001/foto-4.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/40e43e50d01862b6/assets/products/glx-oxu-001/foto-5.webp"
     ],
     "photoStatus": "Foto fornecida",
     "measure": "Confirme a medida no orçamento",
@@ -3396,12 +3396,12 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Luxo",
     "path": "/guias-luxo/glx-oxs-001/",
     "price": "R$ 199,00",
-    "cover": "/assets/products/glx-oxs-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/d1e505e61c244dfa/assets/products/glx-oxs-001/capa.webp",
     "images": [
-      "/assets/products/glx-oxs-001/capa.webp",
-      "/assets/products/glx-oxs-001/foto-2.webp",
-      "/assets/products/glx-oxs-001/foto-3.webp",
-      "/assets/products/glx-oxs-001/foto-4.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/d1e505e61c244dfa/assets/products/glx-oxs-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b2cce2bf7d728e77/assets/products/glx-oxs-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0f70591681d4b41f/assets/products/glx-oxs-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/18d2297e5535de26/assets/products/glx-oxs-001/foto-4.webp"
     ],
     "photoStatus": "Foto fornecida",
     "measure": "Confirme a medida no orçamento",
@@ -3429,13 +3429,13 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Luxo",
     "path": "/guias-luxo/glx-exu-001/",
     "price": "R$ 199,00",
-    "cover": "/assets/products/glx-exu-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e7caac2bc5d8bc46/assets/products/glx-exu-001/capa.webp",
     "images": [
-      "/assets/products/glx-exu-001/capa.webp",
-      "/assets/products/glx-exu-001/foto-2.webp",
-      "/assets/products/glx-exu-001/foto-3.webp",
-      "/assets/products/glx-exu-001/foto-4.webp",
-      "/assets/products/glx-exu-001/foto-5.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e7caac2bc5d8bc46/assets/products/glx-exu-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/6036eb9fa1f611d6/assets/products/glx-exu-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/da959415dd4cae9b/assets/products/glx-exu-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/02906925c9d7cc0f/assets/products/glx-exu-001/foto-4.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/1919b3e2bdb80309/assets/products/glx-exu-001/foto-5.webp"
     ],
     "photoStatus": "Foto fornecida",
     "measure": "Confirme a medida no orçamento",
@@ -3452,12 +3452,12 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Luxo",
     "path": "/guias-luxo/glx-mmu-001/",
     "price": "R$ 199,00",
-    "cover": "/assets/products/glx-mmu-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c0492518a89c1846/assets/products/glx-mmu-001/capa.webp",
     "images": [
-      "/assets/products/glx-mmu-001/capa.webp",
-      "/assets/products/glx-mmu-001/foto-2.webp",
-      "/assets/products/glx-mmu-001/foto-3.webp",
-      "/assets/products/glx-mmu-001/foto-4.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c0492518a89c1846/assets/products/glx-mmu-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4cd16a09c5b3305c/assets/products/glx-mmu-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/a5f39a95349800fb/assets/products/glx-mmu-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/cef874612a253b2c/assets/products/glx-mmu-001/foto-4.webp"
     ],
     "alt": "Guia Luxo Maria Mulambo preta e roxa com rosas, detalhes prateados e cruz preta",
     "photoStatus": "Foto fornecida",
@@ -3485,14 +3485,14 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Luxo",
     "path": "/guias-luxo/glx-oxu-rosa-002/",
     "price": "R$ 199,00",
-    "cover": "/assets/products/glx-oxu-rosa-002/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/44fbe9f6a4bfa98f/assets/products/glx-oxu-rosa-002/capa.webp",
     "images": [
-      "/assets/products/glx-oxu-rosa-002/capa.webp",
-      "/assets/products/glx-oxu-rosa-002/foto-2.webp",
-      "/assets/products/glx-oxu-rosa-002/foto-3.webp",
-      "/assets/products/glx-oxu-rosa-002/foto-4.webp",
-      "/assets/products/glx-oxu-rosa-002/foto-5.webp",
-      "/assets/products/glx-oxu-rosa-002/foto-6.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/44fbe9f6a4bfa98f/assets/products/glx-oxu-rosa-002/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b14371378f4f3107/assets/products/glx-oxu-rosa-002/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/2cb8e8b30ef8eae4/assets/products/glx-oxu-rosa-002/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/39ab7e18a06ef20c/assets/products/glx-oxu-rosa-002/foto-4.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/cd0308ea93927731/assets/products/glx-oxu-rosa-002/foto-5.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/38cb82e3b926b991/assets/products/glx-oxu-rosa-002/foto-6.webp"
     ],
     "alt": "Guia Luxo Oxum rosa e dourada com contas facetadas e pingentes de abelha e coração",
     "photoStatus": "Foto fornecida",
@@ -3520,13 +3520,13 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Premium",
     "path": "/guias-premium/gpr-cab-cobra-001/",
     "price": "R$ 109,90",
-    "cover": "/assets/products/gpr-cab-cobra-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b2870defa261d11d/assets/products/gpr-cab-cobra-001/capa.webp",
     "images": [
-      "/assets/products/gpr-cab-cobra-001/capa.webp",
-      "/assets/products/gpr-cab-cobra-001/foto-2.webp",
-      "/assets/products/gpr-cab-cobra-001/foto-3.webp",
-      "/assets/products/gpr-cab-cobra-001/foto-4.webp",
-      "/assets/products/gpr-cab-cobra-001/foto-5.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b2870defa261d11d/assets/products/gpr-cab-cobra-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/605e504d8c4612d8/assets/products/gpr-cab-cobra-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/7af60dd1582029b2/assets/products/gpr-cab-cobra-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/632f11c6647d19c7/assets/products/gpr-cab-cobra-001/foto-4.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/1425582c93e63154/assets/products/gpr-cab-cobra-001/foto-5.webp"
     ],
     "alt": "Guia Premium Caboclo Cobra Coral vermelha, preta e branca com pingente dourado de serpente",
     "photoStatus": "Foto fornecida",
@@ -3554,13 +3554,13 @@ window.CATALOG_PRODUCTS = [
     "badge": "Cristais",
     "path": "/guias-cristal/gpc-xan-mur-002/",
     "price": "R$ 99,90",
-    "cover": "/assets/products/gpc-xan-mur-002/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/08102c126f5651e1/assets/products/gpc-xan-mur-002/capa.webp",
     "images": [
-      "/assets/products/gpc-xan-mur-002/capa.webp",
-      "/assets/products/gpc-xan-mur-002/foto-2.webp",
-      "/assets/products/gpc-xan-mur-002/foto-3.webp",
-      "/assets/products/gpc-xan-mur-002/foto-4.webp",
-      "/assets/products/gpc-xan-mur-002/foto-5.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/08102c126f5651e1/assets/products/gpc-xan-mur-002/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/60a88f5ff034ed0c/assets/products/gpc-xan-mur-002/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/9a0eff6084048eb6/assets/products/gpc-xan-mur-002/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/482908533d6730e0/assets/products/gpc-xan-mur-002/foto-4.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/abf0829f8090bf55/assets/products/gpc-xan-mur-002/foto-5.webp"
     ],
     "alt": "Guia em Cristais Xangô marrom, branca e âmbar com pingente de machado duplo",
     "photoStatus": "Foto fornecida",
@@ -3588,13 +3588,13 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Luxo",
     "path": "/guias-luxo/glx-boi-001/",
     "price": "R$ 199,00",
-    "cover": "/assets/products/glx-boi-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5a5b4597bda4a5bb/assets/products/glx-boi-001/capa.webp",
     "images": [
-      "/assets/products/glx-boi-001/capa.webp",
-      "/assets/products/glx-boi-001/foto-2.webp",
-      "/assets/products/glx-boi-001/foto-3.webp",
-      "/assets/products/glx-boi-001/foto-4.webp",
-      "/assets/products/glx-boi-001/foto-5.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5a5b4597bda4a5bb/assets/products/glx-boi-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/43656d4cc2b064ac/assets/products/glx-boi-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ed006987e8d36ead/assets/products/glx-boi-001/foto-3.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ba9600df02c35bbe/assets/products/glx-boi-001/foto-4.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/9315532d5cc28794/assets/products/glx-boi-001/foto-5.webp"
     ],
     "alt": "Guia Luxo Boiadeiro marrom e vermelha com sementes grandes, madeira e pingente de cabeça de boi",
     "photoStatus": "Foto fornecida",
@@ -3622,11 +3622,11 @@ window.CATALOG_PRODUCTS = [
     "badge": "Guia Premium",
     "path": "/guias-premium/gpr-mpa-001/",
     "price": "R$ 149,90",
-    "cover": "/assets/products/gpr-mpa-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4c2eea45cc0994b6/assets/products/gpr-mpa-001/capa.webp",
     "images": [
-      "/assets/products/gpr-mpa-001/capa.webp",
-      "/assets/products/gpr-mpa-001/foto-2.webp",
-      "/assets/products/gpr-mpa-001/foto-3.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4c2eea45cc0994b6/assets/products/gpr-mpa-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/390d177b9cd36825/assets/products/gpr-mpa-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/be96462a8245fa77/assets/products/gpr-mpa-001/foto-3.webp"
     ],
     "alt": "Guia Premium Maria Padilha vermelha, preta e dourada com rosas, cruz e leque",
     "photoStatus": "Foto fornecida",
@@ -3654,11 +3654,11 @@ window.CATALOG_PRODUCTS = [
     "badge": "Cristais",
     "path": "/guias-cristal/gpc-exu-bel-001/",
     "price": "R$ 99,90",
-    "cover": "/assets/products/gpc-exu-bel-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/638cbd42f6b4bab0/assets/products/gpc-exu-bel-001/capa.webp",
     "images": [
-      "/assets/products/gpc-exu-bel-001/capa.webp",
-      "/assets/products/gpc-exu-bel-001/foto-2.webp",
-      "/assets/products/gpc-exu-bel-001/foto-3.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/638cbd42f6b4bab0/assets/products/gpc-exu-bel-001/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/44494d843c449d07/assets/products/gpc-exu-bel-001/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/26c9884d3c5a1071/assets/products/gpc-exu-bel-001/foto-3.webp"
     ],
     "alt": "Guia de Cristais Exu Belzebu preta e vermelha com pingente de caveira com chifres",
     "photoStatus": "Foto fornecida",
@@ -3686,11 +3686,11 @@ window.CATALOG_PRODUCTS = [
     "badge": "Cristais",
     "path": "/guias-cristal/gpc-oxl-branco-002/",
     "price": "R$ 99,90",
-    "cover": "/assets/products/gpc-oxl-branco-002/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/47dc79aae14be36a/assets/products/gpc-oxl-branco-002/capa.webp",
     "images": [
-      "/assets/products/gpc-oxl-branco-002/capa.webp",
-      "/assets/products/gpc-oxl-branco-002/foto-2.webp",
-      "/assets/products/gpc-oxl-branco-002/foto-3.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/47dc79aae14be36a/assets/products/gpc-oxl-branco-002/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/938aaab456139492/assets/products/gpc-oxl-branco-002/foto-2.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/63f77feeddbad2d1/assets/products/gpc-oxl-branco-002/foto-3.webp"
     ],
     "alt": "Guia de Cristais Oxalá branca e transparente com pingente prateado e branco",
     "photoStatus": "Foto fornecida",
@@ -3718,10 +3718,10 @@ window.CATALOG_PRODUCTS = [
     "badge": "Cristais",
     "path": "/guias-cristal/gpc-exu-pom-002/",
     "price": "R$ 99,90",
-    "cover": "/assets/products/gpc-exu-pom-002/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/60954c6c88cff916/assets/products/gpc-exu-pom-002/capa.webp",
     "images": [
-      "/assets/products/gpc-exu-pom-002/capa.webp",
-      "/assets/products/gpc-exu-pom-002/foto-2.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/60954c6c88cff916/assets/products/gpc-exu-pom-002/capa.webp",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/a0f1cf4542def83e/assets/products/gpc-exu-pom-002/foto-2.webp"
     ],
     "alt": "Guia de Cristais Exu e Pombagira vermelha e preta com medalhão dourado de tridentes",
     "photoStatus": "Foto fornecida",
@@ -3751,9 +3751,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "7 Linhas da Umbanda",
     "highlights": "Miçangas brancas com detalhes em várias cores, contas maiores brancas e medalhão multicolorido.",
-    "cover": "/assets/products/cat-7lu-des-001/capa-20261022.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ed4e28dc503ce32a/assets/products/cat-7lu-des-001/capa-20261022.webp",
     "images": [
-      "/assets/products/cat-7lu-des-001/capa-20261022.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/ed4e28dc503ce32a/assets/products/cat-7lu-des-001/capa-20261022.webp"
     ],
     "alt": "Guia de Proteção de 7 Linhas da Umbanda — Destaque. Miçangas brancas com detalhes em várias cores, contas maiores brancas e medalhão multicolorido.",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -3781,9 +3781,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Oxóssi (Verde e Branco)",
     "highlights": "Miçangas verdes e brancas com detalhes transparentes e pingente de arco e flecha.",
-    "cover": "/assets/products/cat-oxo-des-001/capa-20261022.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4d50dc22791dcf52/assets/products/cat-oxo-des-001/capa-20261022.webp",
     "images": [
-      "/assets/products/cat-oxo-des-001/capa-20261022.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4d50dc22791dcf52/assets/products/cat-oxo-des-001/capa-20261022.webp"
     ],
     "alt": "Guia de Proteção de Oxóssi (Verde e Branco) — Destaque. Miçangas verdes e brancas com detalhes transparentes e pingente de arco e flecha.",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -3811,9 +3811,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Logunan",
     "highlights": "Miçangas azuis e brancas, contas cinzentas e transparentes, com pingente central em tom escuro.",
-    "cover": "/assets/products/cat-lgn-des-001/capa-20261022.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/babd7b19226cf34c/assets/products/cat-lgn-des-001/capa-20261022.webp",
     "images": [
-      "/assets/products/cat-lgn-des-001/capa-20261022.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/babd7b19226cf34c/assets/products/cat-lgn-des-001/capa-20261022.webp"
     ],
     "alt": "Guia de Proteção de Logunan — Destaque. Miçangas azuis e brancas, contas cinzentas e transparentes, com pingente central em tom escuro.",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -3841,9 +3841,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Zé Pilintra",
     "highlights": "Miçangas vermelhas e brancas com pequenos detalhes pretos e medalha central de Zé Pilintra.",
-    "cover": "/assets/products/cat-zep-des-001/capa-20261022.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f414dc92d7f02196/assets/products/cat-zep-des-001/capa-20261022.webp",
     "images": [
-      "/assets/products/cat-zep-des-001/capa-20261022.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/f414dc92d7f02196/assets/products/cat-zep-des-001/capa-20261022.webp"
     ],
     "alt": "Guia de Proteção de Zé Pilintra — Destaque. Miçangas vermelhas e brancas com pequenos detalhes pretos e medalha central de Zé Pilintra.",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -3871,9 +3871,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Pombagira",
     "highlights": "Miçangas pretas e vermelhas com detalhes brancos, contas facetadas e pingente central.",
-    "cover": "/assets/products/cat-pom-des-001/capa-20261022.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/71c2ca91fc57b4f7/assets/products/cat-pom-des-001/capa-20261022.webp",
     "images": [
-      "/assets/products/cat-pom-des-001/capa-20261022.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/71c2ca91fc57b4f7/assets/products/cat-pom-des-001/capa-20261022.webp"
     ],
     "alt": "Guia de Proteção de Pombagira — Destaque. Miçangas pretas e vermelhas com detalhes brancos, contas facetadas e pingente central.",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -3901,9 +3901,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Caboclo",
     "highlights": "Miçangas verdes, vermelhas e brancas, contas facetadas e pingente de arco e flecha.",
-    "cover": "/assets/products/cat-cab-des-001/capa-20261022.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/a4c352d2aa7a884a/assets/products/cat-cab-des-001/capa-20261022.webp",
     "images": [
-      "/assets/products/cat-cab-des-001/capa-20261022.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/a4c352d2aa7a884a/assets/products/cat-cab-des-001/capa-20261022.webp"
     ],
     "alt": "Guia de Proteção de Caboclo — Destaque. Miçangas verdes, vermelhas e brancas, contas facetadas e pingente de arco e flecha.",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -3931,9 +3931,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "7 Linhas da Umbanda (Miçanga Cristal)",
     "highlights": "Miçangas em cristal com detalhes coloridos, contas brancas e medalhão multicolorido.",
-    "cover": "/assets/products/cat-7lu-cr-des-001/capa-20261022.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e9e5c41235883169/assets/products/cat-7lu-cr-des-001/capa-20261022.webp",
     "images": [
-      "/assets/products/cat-7lu-cr-des-001/capa-20261022.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e9e5c41235883169/assets/products/cat-7lu-cr-des-001/capa-20261022.webp"
     ],
     "alt": "Guia de Proteção de 7 Linhas da Umbanda (Miçanga Cristal) — Destaque. Miçangas em cristal com detalhes coloridos, contas brancas e medalhão multicolorido.",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -3961,9 +3961,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Zé Pilintra — 3 Pingentes",
     "highlights": "Miçangas vermelhas, brancas e pretas, contas facetadas e três pingentes no centro da peça.",
-    "cover": "/assets/products/cat-zep-3p-des-001/capa-20261022.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/1b325fb92c03cdd0/assets/products/cat-zep-3p-des-001/capa-20261022.webp",
     "images": [
-      "/assets/products/cat-zep-3p-des-001/capa-20261022.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/1b325fb92c03cdd0/assets/products/cat-zep-3p-des-001/capa-20261022.webp"
     ],
     "alt": "Guia de Proteção de Zé Pilintra — 3 Pingentes — Destaque. Miçangas vermelhas, brancas e pretas, contas facetadas e três pingentes no centro da peça.",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -3991,9 +3991,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Essencial",
     "inspiration": "Linha da Esquerda — Exu e Pombagira",
     "highlights": "Miçangas vermelhas e pretas em sequências alternadas, com firma preta.",
-    "cover": "/assets/products/cat-exu-pom-ess-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/06c451aac23743ee/assets/products/cat-exu-pom-ess-001/capa.webp",
     "images": [
-      "/assets/products/cat-exu-pom-ess-001/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/06c451aac23743ee/assets/products/cat-exu-pom-ess-001/capa.webp"
     ],
     "alt": "Guia de Proteção — Linha da Esquerda — Exu e Pombagira — Essencial. Miçangas vermelhas e pretas em sequências alternadas, com firma preta.",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -4021,9 +4021,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Essencial",
     "inspiration": "7 Linhas da Umbanda",
     "highlights": "Miçangas em várias cores, organizadas em grupos ao longo do fio, com firma branca.",
-    "cover": "/assets/products/cat-7lu-ess-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/13eabe9d055a46f4/assets/products/cat-7lu-ess-001/capa.webp",
     "images": [
-      "/assets/products/cat-7lu-ess-001/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/13eabe9d055a46f4/assets/products/cat-7lu-ess-001/capa.webp"
     ],
     "alt": "Guia de Proteção — 7 Linhas da Umbanda — Essencial. Miçangas em várias cores, organizadas em grupos ao longo do fio, com firma branca.",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -4051,9 +4051,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Cigana Rubi",
     "highlights": "Miçangas e contas facetadas em vermelho e tons de âmbar, com detalhes dourados e pingente central.",
-    "cover": "/assets/products/cat-cig-rub-des-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0b52f9cefbae35a5/assets/products/cat-cig-rub-des-001/capa.webp",
     "images": [
-      "/assets/products/cat-cig-rub-des-001/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0b52f9cefbae35a5/assets/products/cat-cig-rub-des-001/capa.webp"
     ],
     "alt": "Guia de Proteção — Cigana Rubi — Destaque. Miçangas e contas facetadas em vermelho e tons de âmbar, com detalhes dourados e pingente central.",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -4081,9 +4081,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Boiadeiro",
     "highlights": "Miçangas e contas em vermelho, amarelo e preto, com detalhes facetados e medalha central.",
-    "cover": "/assets/products/cat-boi-des-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/091ab994ef9676f2/assets/products/cat-boi-des-001/capa.webp",
     "images": [
-      "/assets/products/cat-boi-des-001/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/091ab994ef9676f2/assets/products/cat-boi-des-001/capa.webp"
     ],
     "alt": "Guia de Proteção — Boiadeiro — Destaque. Miçangas e contas em vermelho, amarelo e preto, com detalhes facetados e medalha central.",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -4111,9 +4111,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Oxalá",
     "highlights": "Miçangas brancas e contas transparentes, com contas brancas maiores e medalha central.",
-    "cover": "/assets/products/cat-oxa-des-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/85b3a9ecdec0a7b2/assets/products/cat-oxa-des-001/capa.webp",
     "images": [
-      "/assets/products/cat-oxa-des-001/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/85b3a9ecdec0a7b2/assets/products/cat-oxa-des-001/capa.webp"
     ],
     "alt": "Guia de Proteção — Oxalá — Destaque. Miçangas brancas e contas transparentes, com contas brancas maiores e medalha central.",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -4141,9 +4141,9 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Destaque",
     "inspiration": "Baiano",
     "highlights": "Miçangas e contas verdes, amarelas, vermelhas e pretas, com detalhes facetados e pingente central.",
-    "cover": "/assets/products/cat-bai-des-001/capa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e065e9617ba23ca9/assets/products/cat-bai-des-001/capa.webp",
     "images": [
-      "/assets/products/cat-bai-des-001/capa.webp"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/e065e9617ba23ca9/assets/products/cat-bai-des-001/capa.webp"
     ],
     "alt": "Guia de Proteção — Baiano — Destaque. Miçangas e contas verdes, amarelas, vermelhas e pretas, com detalhes facetados e pingente central.",
     "measure": "120 cm aberta / 60 cm fechada",
@@ -4170,15 +4170,15 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Cristal",
     "inspiration": "Baiano",
     "price": "R$ 99,90",
-    "cover": "/assets/products/gpc-bai-001/capa.jpeg",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0a60f73efd47dbc7/assets/products/gpc-bai-001/capa.jpeg",
     "images": [
-      "/assets/products/gpc-bai-001/capa.jpeg",
-      "/assets/products/gpc-bai-001/foto-2.jpeg",
-      "/assets/products/gpc-bai-001/foto-3.jpeg",
-      "/assets/products/gpc-bai-001/foto-4.jpeg",
-      "/assets/products/gpc-bai-001/foto-5.jpeg",
-      "/assets/products/gpc-bai-001/foto-6.jpeg",
-      "/assets/products/gpc-bai-001/foto-7.jpeg"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0a60f73efd47dbc7/assets/products/gpc-bai-001/capa.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/410a04f1e2124eb6/assets/products/gpc-bai-001/foto-2.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/2746815ca3636089/assets/products/gpc-bai-001/foto-3.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c120918ad308cafd/assets/products/gpc-bai-001/foto-4.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/144ef17dfab08c6d/assets/products/gpc-bai-001/foto-5.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/842f2dddb7a0f746/assets/products/gpc-bai-001/foto-6.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/3b94acfd637490f2/assets/products/gpc-bai-001/foto-7.jpeg"
     ],
     "photoStatus": "Foto fornecida",
     "alt": "Guia de Baiano em cristais verdes, amarelos, vermelhos e pretos, madeira natural e pingente com semente olho de boi, chapéu e berimbau",
@@ -4207,17 +4207,17 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Cristal",
     "inspiration": "Baiana",
     "price": "R$ 99,90",
-    "cover": "/assets/products/gpc-baiana-001/capa.jpeg",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/322c66a1fd023603/assets/products/gpc-baiana-001/capa.jpeg",
     "images": [
-      "/assets/products/gpc-baiana-001/capa.jpeg",
-      "/assets/products/gpc-baiana-001/foto-2.jpeg",
-      "/assets/products/gpc-baiana-001/foto-3.jpeg",
-      "/assets/products/gpc-baiana-001/foto-4.jpeg",
-      "/assets/products/gpc-baiana-001/foto-5.jpeg",
-      "/assets/products/gpc-baiana-001/foto-6.jpeg",
-      "/assets/products/gpc-baiana-001/foto-7.jpeg",
-      "/assets/products/gpc-baiana-001/foto-8.jpeg",
-      "/assets/products/gpc-baiana-001/foto-9.jpeg"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/322c66a1fd023603/assets/products/gpc-baiana-001/capa.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/66138ea9d8f309ea/assets/products/gpc-baiana-001/foto-2.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/976de4711b01cac3/assets/products/gpc-baiana-001/foto-3.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/978e7819d366738c/assets/products/gpc-baiana-001/foto-4.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/bd3afdd1f26f520b/assets/products/gpc-baiana-001/foto-5.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/4e51a74765c662b3/assets/products/gpc-baiana-001/foto-6.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8b2d3e6cc560399c/assets/products/gpc-baiana-001/foto-7.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/375720cc1d5d334f/assets/products/gpc-baiana-001/foto-8.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c4be591180068cd1/assets/products/gpc-baiana-001/foto-9.jpeg"
     ],
     "photoStatus": "Foto fornecida",
     "alt": "Guia Baiana com cristais amarelos, laranjas e pretos, discos de madeira natural, contas de mogno, firma amarela de Murano e pingente de rosa amarela com berimbau",
@@ -4247,15 +4247,15 @@ window.CATALOG_PRODUCTS = [
     "badge": "Linha Cristal",
     "inspiration": "Logunan",
     "price": "R$ 99,90",
-    "cover": "/assets/products/gpc-lgn-001/capa.jpeg",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/485f4749d624daa4/assets/products/gpc-lgn-001/capa.jpeg",
     "images": [
-      "/assets/products/gpc-lgn-001/capa.jpeg",
-      "/assets/products/gpc-lgn-001/foto-2.jpeg",
-      "/assets/products/gpc-lgn-001/foto-3.jpeg",
-      "/assets/products/gpc-lgn-001/foto-4.jpeg",
-      "/assets/products/gpc-lgn-001/foto-5.jpeg",
-      "/assets/products/gpc-lgn-001/foto-6.jpeg",
-      "/assets/products/gpc-lgn-001/foto-7.jpeg"
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/485f4749d624daa4/assets/products/gpc-lgn-001/capa.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0b31bf34862e03e5/assets/products/gpc-lgn-001/foto-2.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0cdf4cb8d612563d/assets/products/gpc-lgn-001/foto-3.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0404d564cfee058a/assets/products/gpc-lgn-001/foto-4.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/535ec3cb20f6d7b8/assets/products/gpc-lgn-001/foto-5.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/c8aeab860eb9c85a/assets/products/gpc-lgn-001/foto-6.jpeg",
+      "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/1e5974b1fda43491/assets/products/gpc-lgn-001/foto-7.jpeg"
     ],
     "photoStatus": "Foto fornecida",
     "alt": "Guia de Logunan com cristais azuis, transparentes e prateados, detalhes de strass e pingente composto por rosa branca, espada e ampulheta",

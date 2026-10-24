@@ -6,3 +6,14 @@ node_modules/
 .DS_Store
 .openai/
 dist/.openai/
+# Binários preservados localmente; imagens públicas servidas pelo Vercel Blob.
+data/original-photos/
+data/pending-photos/
+data/treated-photos/
+dist/**/*.webp
+dist/**/*.png
+dist/**/*.jpg
+dist/**/*.jpeg
+dist/**/*.svg
+dist/**/*.ico
+dist/**/.*

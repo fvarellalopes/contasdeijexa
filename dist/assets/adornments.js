@@ -19,7 +19,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Joias de quartinha",
     "categoryKey": "quartinhas",
     "line": "Modelo Cristal",
-    "cover": "/assets/adornments/joia-quartinha-oxum-20261022.jpeg",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/48f6a735d8b3b907/assets/adornments/joia-quartinha-oxum-20261022.jpeg",
     "highlights": "Modelo Cristal · 20–22 cm · Personalizável"
   },
   {
@@ -42,7 +42,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Joias de quartinha",
     "categoryKey": "quartinhas",
     "line": "Modelo Premium",
-    "cover": "/assets/adornments/joia-quartinha-oxossi-20261022.jpeg",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/edd7677f1abfb0f6/assets/adornments/joia-quartinha-oxossi-20261022.jpeg",
     "highlights": "Modelo Premium · 20–22 cm · Personalizável"
   },
   {
@@ -65,7 +65,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Joias de quartinha",
     "categoryKey": "quartinhas",
     "line": "Modelo Premium",
-    "cover": "/assets/adornments/joia-quartinha-iemanja-20261022.jpeg",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/52d14bd907c90091/assets/adornments/joia-quartinha-iemanja-20261022.jpeg",
     "highlights": "Modelo Premium · 20–22 cm · Personalizável"
   },
   {
@@ -83,7 +83,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Patuás",
     "categoryKey": "patuas",
     "line": "Patuás de Retrovisor",
-    "cover": "/assets/adornments/patua-oxum.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0cdee32f79609ae9/assets/adornments/patua-oxum.webp",
     "highlights": "Patuá de retrovisor · Oxum"
   },
   {
@@ -101,7 +101,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Patuás",
     "categoryKey": "patuas",
     "line": "Patuás de Retrovisor",
-    "cover": "/assets/adornments/patua-omolu.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/16e39995ae0b8052/assets/adornments/patua-omolu.webp",
     "highlights": "Patuá de retrovisor · Omolu/Obaluaê"
   },
   {
@@ -119,7 +119,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Patuás",
     "categoryKey": "patuas",
     "line": "Patuás de Retrovisor",
-    "cover": "/assets/adornments/patua-oxossi.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/2409bebb6518ce14/assets/adornments/patua-oxossi.webp",
     "highlights": "Patuá de retrovisor · Oxóssi"
   },
   {
@@ -137,7 +137,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Patuás",
     "categoryKey": "patuas",
     "line": "Patuás de Retrovisor",
-    "cover": "/assets/adornments/patua-oxala.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/54298e322e8212fe/assets/adornments/patua-oxala.webp",
     "highlights": "Patuá de retrovisor · Oxalá"
   },
   {
@@ -155,7 +155,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Patuás",
     "categoryKey": "patuas",
     "line": "Patuás de Retrovisor",
-    "cover": "/assets/adornments/patua-iemanja.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/cfdcd87b3e661677/assets/adornments/patua-iemanja.webp",
     "highlights": "Patuá de retrovisor · Iemanjá"
   },
   {
@@ -173,7 +173,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Patuás",
     "categoryKey": "patuas",
     "line": "Patuás de Retrovisor",
-    "cover": "/assets/adornments/patua-iansa.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/8d3ac8fd251516f6/assets/adornments/patua-iansa.webp",
     "highlights": "Patuá de retrovisor · Iansã"
   },
   {
@@ -191,7 +191,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Patuás",
     "categoryKey": "patuas",
     "line": "Patuás de Retrovisor",
-    "cover": "/assets/adornments/patua-ogum-azul.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/eaef285954132c16/assets/adornments/patua-ogum-azul.webp",
     "highlights": "Patuá de retrovisor · Ogum"
   },
   {
@@ -209,7 +209,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Patuás",
     "categoryKey": "patuas",
     "line": "Patuás de Retrovisor",
-    "cover": "/assets/adornments/patua-ogum-azul-vermelho.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/99087479800e69d2/assets/adornments/patua-ogum-azul-vermelho.webp",
     "highlights": "Patuá de retrovisor · Ogum"
   },
   {
@@ -227,7 +227,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Patuás",
     "categoryKey": "patuas",
     "line": "Patuás de Retrovisor",
-    "cover": "/assets/adornments/patua-pombagira.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/b6e922cd6b2933dd/assets/adornments/patua-pombagira.webp",
     "highlights": "Patuá de retrovisor · Pombagira"
   },
   {
@@ -245,7 +245,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Patuás",
     "categoryKey": "patuas",
     "line": "Patuás de Retrovisor",
-    "cover": "/assets/adornments/patua-exu-buzio-caveira.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/5d54dbe1cec0b162/assets/adornments/patua-exu-buzio-caveira.webp",
     "highlights": "Patuá de retrovisor · Exu"
   },
   {
@@ -263,7 +263,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Patuás",
     "categoryKey": "patuas",
     "line": "Patuás de Retrovisor",
-    "cover": "/assets/adornments/patua-exu-contas-vermelhas.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/807d1d270d4ac4f0/assets/adornments/patua-exu-contas-vermelhas.webp",
     "highlights": "Patuá de retrovisor · Exu"
   },
   {
@@ -281,7 +281,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Patuás",
     "categoryKey": "patuas",
     "line": "Patuás de Retrovisor",
-    "cover": "/assets/adornments/patua-exu-preto-branco.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/0aea599eef82d079/assets/adornments/patua-exu-preto-branco.webp",
     "highlights": "Patuá de retrovisor · Exu"
   },
   {
@@ -299,7 +299,7 @@ window.ADORNMENT_PRODUCTS = [
     "category": "Patuás",
     "categoryKey": "patuas",
     "line": "Patuás de Retrovisor",
-    "cover": "/assets/adornments/patua-exu-medalhao-pingentes.webp",
+    "cover": "https://f7lsjtjxqwzmiifm.public.blob.vercel-storage.com/site/a7ec916a296684c2/assets/adornments/patua-exu-medalhao-pingentes.webp",
     "highlights": "Patuá de retrovisor · Exu"
   }
 ];
