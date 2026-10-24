@@ -1,0 +1,20 @@
+{
+  "sku": "GPR-IAN-001",
+  "photos": [
+    {
+      "source": "image(20261021-220705).png",
+      "image": "/assets/products/gpr-ian-001/capa.png",
+      "sha256": "1b60be9fc5591a19e407028c7479b07bf214c856070b1c3ea9e3bed6fcc1b0da"
+    },
+    {
+      "source": "image(20261021-220710).png",
+      "image": "/assets/products/gpr-ian-001/foto-2.png",
+      "sha256": "4dbc74c0fd5f87f6151f4d0472c9d9a313f7bb7d2edf6dc0d7401cdfdbae4d79"
+    },
+    {
+      "source": "image(20261021-220713).png",
+      "image": "/assets/products/gpr-ian-001/foto-3.png",
+      "sha256": "61310ed8ac486154377c24154614c6892425657c5a7ede0b50d22d29fa07fb58"
+    }
+  ]
+}

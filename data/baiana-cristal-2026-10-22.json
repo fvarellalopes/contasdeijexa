@@ -1,0 +1,62 @@
+{
+  "code": "GPC-BAIANA-001",
+  "path": "/guias-cristal/gpc-baiana-001/",
+  "price": "R$ 99,90",
+  "photos": [
+    {
+      "source": "483D0903-9D46-446D-9B21-36F7E4A00A4A.jpeg",
+      "image": "/assets/products/gpc-baiana-001/capa.jpeg",
+      "originalSha256": "322c66a1fd02360306e89c3ff80c7c3f911205feebee98a6bfefb4747e04826b",
+      "byteIdentical": true
+    },
+    {
+      "source": "FBC5004F-FF8E-4097-BB0F-52D1EAF00899.jpeg",
+      "image": "/assets/products/gpc-baiana-001/foto-2.jpeg",
+      "originalSha256": "66138ea9d8f309ea4b374e1446ac04a25d19d6327b63c9e9ec9d5ca6767f8202",
+      "byteIdentical": true
+    },
+    {
+      "source": "530BF976-EAE5-4669-A301-D055D4A8C6BE.jpeg",
+      "image": "/assets/products/gpc-baiana-001/foto-3.jpeg",
+      "originalSha256": "976de4711b01cac3a01fd0694c91d84b6a4520455fceb4ddfda44a39be5f968a",
+      "byteIdentical": true
+    },
+    {
+      "source": "23EDA7ED-4004-4752-8CEA-3FE6D609E2D8.jpeg",
+      "image": "/assets/products/gpc-baiana-001/foto-4.jpeg",
+      "originalSha256": "978e7819d366738c711fc7fa0907dd6b75f77356174a4ca3e661da0890f1a7eb",
+      "byteIdentical": true
+    },
+    {
+      "source": "B0CBD97F-A55F-49D6-8198-BB4991AEE8B6.jpeg",
+      "image": "/assets/products/gpc-baiana-001/foto-5.jpeg",
+      "originalSha256": "bd3afdd1f26f520b880d9e2d2c3f52b5c82c9b07f023d6b564b2f1b82b842937",
+      "byteIdentical": true
+    },
+    {
+      "source": "0E49EE44-2D01-45E7-8B16-D0527117E73D.jpeg",
+      "image": "/assets/products/gpc-baiana-001/foto-6.jpeg",
+      "originalSha256": "4e51a74765c662b3568729845064a28d55996123719b663d6fe0238a730a8c9c",
+      "byteIdentical": true
+    },
+    {
+      "source": "B4D1A40E-491B-4C94-9138-2E72878FEA49.jpeg",
+      "image": "/assets/products/gpc-baiana-001/foto-7.jpeg",
+      "originalSha256": "8b2d3e6cc560399c202dd00eb4287d281132957b463f4c7ed5f8d61a7b0949b3",
+      "byteIdentical": true
+    },
+    {
+      "source": "18560F5E-D53B-4A18-AF52-A2B8DDCB8517.jpeg",
+      "image": "/assets/products/gpc-baiana-001/foto-8.jpeg",
+      "originalSha256": "375720cc1d5d334f1166ae31629c18e72ad0e7a24e9ddfa770850e6fafa2180a",
+      "byteIdentical": true
+    },
+    {
+      "source": "0AEFD0D9-C010-425E-94FC-FB130A9EAE25.jpeg",
+      "image": "/assets/products/gpc-baiana-001/foto-9.jpeg",
+      "originalSha256": "c4be591180068cd1d25bcd44e73f1a32e3ca017e3857eb133d2df5ac0e0a8297",
+      "byteIdentical": true
+    }
+  ],
+  "designReference": "Referência floral interpretativa informada pelo artesão. Relação com alegria e simplicidade da linha contextualizada em https://nuao.com.br/umbanda/guias/guia-de-direita/baianos/; fundamentos variam por casa."
+}

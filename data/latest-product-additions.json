@@ -1,0 +1,65 @@
+{
+  "method": "Primeira inclusão nos registros de produtos do Git, commits mais recentes primeiro. No mesmo lote, ordem inversa de inclusão no catálogo. Alterações de fotos e preços não contam como novas inclusões.",
+  "products": [
+    {
+      "code": "GPC-LGN-001",
+      "addedInCommit": "6febb97354777097c7ed070e179e66eea5e8a90b",
+      "name": "Guia de Logunan — Linha Cristal",
+      "path": "/guias-cristal/gpc-lgn-001/"
+    },
+    {
+      "code": "GPC-BAIANA-001",
+      "addedInCommit": "b0ec70a22f5590f33baedd7e5e81916937bc8908",
+      "name": "Guia Baiana — Linha Cristal",
+      "path": "/guias-cristal/gpc-baiana-001/"
+    },
+    {
+      "code": "GPC-BAI-001",
+      "addedInCommit": "570e0a38c9c9776bedff7acb3ed8246e43cbcf4f",
+      "name": "Guia de Baiano — Linha Cristal",
+      "path": "/guias-cristal/gpc-bai-001/"
+    },
+    {
+      "code": "CAT-BAI-DES-001",
+      "addedInCommit": "b832034d29fd75be549dd34334b936f5d310f3be",
+      "name": "Guia de Proteção — Baiano — Destaque",
+      "path": "/guias-micangas/cat-bai-des-001/"
+    },
+    {
+      "code": "CAT-OXA-DES-001",
+      "addedInCommit": "b832034d29fd75be549dd34334b936f5d310f3be",
+      "name": "Guia de Proteção — Oxalá — Destaque",
+      "path": "/guias-micangas/cat-oxa-des-001/"
+    },
+    {
+      "code": "CAT-BOI-DES-001",
+      "addedInCommit": "b832034d29fd75be549dd34334b936f5d310f3be",
+      "name": "Guia de Proteção — Boiadeiro — Destaque",
+      "path": "/guias-micangas/cat-boi-des-001/"
+    },
+    {
+      "code": "CAT-CIG-RUB-DES-001",
+      "addedInCommit": "b832034d29fd75be549dd34334b936f5d310f3be",
+      "name": "Guia de Proteção — Cigana Rubi — Destaque",
+      "path": "/guias-micangas/cat-cig-rub-des-001/"
+    },
+    {
+      "code": "CAT-7LU-ESS-001",
+      "addedInCommit": "b832034d29fd75be549dd34334b936f5d310f3be",
+      "name": "Guia de Proteção — 7 Linhas da Umbanda — Essencial",
+      "path": "/guias-micangas/cat-7lu-ess-001/"
+    },
+    {
+      "code": "CAT-EXU-POM-ESS-001",
+      "addedInCommit": "b832034d29fd75be549dd34334b936f5d310f3be",
+      "name": "Guia de Proteção — Linha da Esquerda — Exu e Pombagira — Essencial",
+      "path": "/guias-micangas/cat-exu-pom-ess-001/"
+    },
+    {
+      "code": "CAT-ZEP-3P-DES-001",
+      "addedInCommit": "f4c1fb8d45a406c83120437ccade3565e36a543f",
+      "name": "Guia de Proteção de Zé Pilintra — 3 Pingentes — Destaque",
+      "path": "/guias-micangas/cat-zep-3p-des-001/"
+    }
+  ]
+}

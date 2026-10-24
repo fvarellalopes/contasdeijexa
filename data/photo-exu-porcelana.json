@@ -1,0 +1,25 @@
+{
+  "sku": "GPR-EXU-POR-001",
+  "photos": [
+    {
+      "source": "image(20261021-220527).png",
+      "image": "/assets/products/gpr-exu-por-001/capa.png",
+      "sha256": "c940754fdf92bb2cd5dd14bf171021e6ca4aeaec95c23837cf6b63258806e8df"
+    },
+    {
+      "source": "image(20261021-220537).png",
+      "image": "/assets/products/gpr-exu-por-001/foto-2.png",
+      "sha256": "ec20dbacae0b0ae6bcec08ca9a05fd438e377cb345f05841eb15c305fa5f76d5"
+    },
+    {
+      "source": "image(20261021-220543).png",
+      "image": "/assets/products/gpr-exu-por-001/foto-3.png",
+      "sha256": "b48cb173937c696050307084728c847bf8c5870b764e54701295b93a05185c22"
+    },
+    {
+      "source": "image(20261021-220559).png",
+      "image": "/assets/products/gpr-exu-por-001/foto-4.png",
+      "sha256": "9424815109a62e1c7dfc8f7478488500fefc37f82e07801610ac50fdc89219ea"
+    }
+  ]
+}

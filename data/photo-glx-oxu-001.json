@@ -1,0 +1,30 @@
+{
+  "sku": "GLX-OXU-001",
+  "photos": [
+    {
+      "source": "image(20261021-222904).png",
+      "image": "/assets/products/glx-oxu-001/capa.png",
+      "sha256": "ae776407c5789eebab6e61455a4b78b1ae62ada3b02a66f9b0052d030cfa650f"
+    },
+    {
+      "source": "image(20261021-222910).png",
+      "image": "/assets/products/glx-oxu-001/foto-2.png",
+      "sha256": "ab3838964f13df7d38869bc0b1664fd93fba9adb924fff075da0f6416798b66a"
+    },
+    {
+      "source": "image(20261021-222912).png",
+      "image": "/assets/products/glx-oxu-001/foto-3.png",
+      "sha256": "4b3974a6352ad29fe5fa58b264a54d7e70faa5749b114d41a72f9e6302336b90"
+    },
+    {
+      "source": "image(20261021-222919).png",
+      "image": "/assets/products/glx-oxu-001/foto-4.png",
+      "sha256": "01bcbd628cc1087bfaecb8c36777cdad2e3ed3ed2f348d66bccc11ede471ae9d"
+    },
+    {
+      "source": "image(20261021-222927).png",
+      "image": "/assets/products/glx-oxu-001/foto-5.png",
+      "sha256": "41ba2c948bdb18e0c9ccd3b3a8072636cbde9450bdba880a07cf09af49ecd730"
+    }
+  ]
+}

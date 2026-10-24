@@ -1,0 +1,15 @@
+{
+  "sku": "GPR-OGU-HEM-001",
+  "photos": [
+    {
+      "source": "image(20261021-221619).png",
+      "image": "/assets/products/gpr-ogu-hem-001/capa.png",
+      "sha256": "84f6be00b62fa0beaba5903ed9c24d1b30f8e583bcfdf6e9d8ab06629072f814"
+    },
+    {
+      "source": "image(20261021-221640).png",
+      "image": "/assets/products/gpr-ogu-hem-001/foto-2.png",
+      "sha256": "d73af5580338637da3c26a9e5d3ec9346184e57ab29c9eca381afe1bfc88d501"
+    }
+  ]
+}

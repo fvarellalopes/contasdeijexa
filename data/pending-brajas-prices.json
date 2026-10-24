@@ -1,0 +1,34 @@
+{
+  "reason": "Aguardando confirmação de preço por peça; não publicar com valor presumido.",
+  "products": [
+    {
+      "name": "Brajá Luxo Exu Caveira",
+      "category": "Brajá Luxo",
+      "files": [
+        "image(20261021-223211).png",
+        "image(20261021-223216).png",
+        "image(20261021-223228).png"
+      ]
+    },
+    {
+      "name": "Brajá Premium Oxumaré",
+      "category": "Brajá Premium",
+      "files": [
+        "image(20261021-223322).png",
+        "image(20261021-223332).png",
+        "image(20261021-223344).png"
+      ]
+    },
+    {
+      "name": "Brajá Luxo Omolu/Obaluaiê",
+      "category": "Brajá Luxo",
+      "files": [
+        "image(20261021-223524).png",
+        "image(20261021-223545).png",
+        "image(20261021-223549).png",
+        "image(20261021-223554).png",
+        "image(20261021-223608).png"
+      ]
+    }
+  ]
+}

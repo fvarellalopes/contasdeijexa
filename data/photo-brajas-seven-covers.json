@@ -1,0 +1,51 @@
+[
+  {
+    "sku": "BR3-OBA-60",
+    "name": "Brajá de Obá com 3 Fios e 7 firmas",
+    "source": "7CF1D9F4-7ADF-498E-8DDE-FA39BCE41A8C.jpeg",
+    "image": "/assets/products/br3-oba-60/capa.jpeg",
+    "sha256": "85599e14ef334034cb453955f37927d2f022c412a0e99e32f5d4efcfc98fbd07"
+  },
+  {
+    "sku": "BR3-OML-60-SH1",
+    "name": "Brajá de Obaluaiê (Omulu) com 3 Fios com Cordão de Palha",
+    "source": "5913FE45-6E0A-437E-9C87-98511E05C7C1.jpeg",
+    "image": "/assets/products/br3-oml-60-sh1/capa.jpeg",
+    "sha256": "c7bb28299b599c6b9a2b1300450685b52edc200d663d913b98edcb050b87ea99"
+  },
+  {
+    "sku": "BR3-IAN-60",
+    "name": "Brajá de Iansã com 3 Fios",
+    "source": "E3193413-1466-4AD9-A22F-EA0ADF8C9C38.jpeg",
+    "image": "/assets/products/br3-ian-60/capa.jpeg",
+    "sha256": "8256cde729a5a88240d82ab7d1191803a4ba8aa9143ab1498aa0299edb18a0f4"
+  },
+  {
+    "sku": "BR3-OGU-60",
+    "name": "Brajá de Ogum com 3 Fios",
+    "source": "C22C307C-A567-4CA9-9614-0088CE5B9F51.jpeg",
+    "image": "/assets/products/br3-ogu-60/capa.jpeg",
+    "sha256": "1f3a75e56e8f3a57f842813aae950ea56c74612598b9ca52f27a0e7535e9ae77"
+  },
+  {
+    "sku": "BR3-XAN-60",
+    "name": "Brajá de Xangô com 3 Fios",
+    "source": "6CA0AEA4-FC97-4FFC-AD97-B91549788421.jpeg",
+    "image": "/assets/products/br3-xan-60/capa.jpeg",
+    "sha256": "8fc1ebb7bcfbecfb6096866e1d3f59c4767ad98382c964f69c095717f770931e"
+  },
+  {
+    "sku": "BR-EXU-3F",
+    "name": "Brajá de Exu com 3 Fios",
+    "source": "35862C9C-3ACE-48AC-AA10-D56599E29DB3.jpeg",
+    "image": "/assets/products/br-exu-3f/capa.jpeg",
+    "sha256": "d71df6b2db323bfea9a7c74c118b40896cf5db458dfd425c21fb2278a1c5ca25"
+  },
+  {
+    "sku": "BR-POM-3F",
+    "name": "Brajá de Pombagira com 3 Fios",
+    "source": "7206C046-68BD-420C-A703-DEA3C1F9BEAF.jpeg",
+    "image": "/assets/products/br-pom-3f/capa.jpeg",
+    "sha256": "8901092a717c8f873e838d2869a03b3e13c3bd8de733f2eb41d78ce85ab5721e"
+  }
+]

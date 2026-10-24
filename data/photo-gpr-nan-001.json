@@ -1,0 +1,20 @@
+{
+  "sku": "GPR-NAN-001",
+  "photos": [
+    {
+      "source": "image(20261021-220820).png",
+      "image": "/assets/products/gpr-nan-001/capa.png",
+      "sha256": "d3d5fe0b5f07f0edbf55c13a6e5b14760e17910ac4cca127e4b57f39428f59ae"
+    },
+    {
+      "source": "image(20261021-220820-1).png",
+      "image": "/assets/products/gpr-nan-001/foto-2.png",
+      "sha256": "dc909c7f661a67ae7ef80b6f303820ba274a934b27d7867fe6567bb9538d68f2"
+    },
+    {
+      "source": "image(20261021-220823).png",
+      "image": "/assets/products/gpr-nan-001/foto-3.png",
+      "sha256": "e4b3891e8a25f15bddaf614fdb79c70bc34c66d8c103606b3348556b3a16ecc2"
+    }
+  ]
+}

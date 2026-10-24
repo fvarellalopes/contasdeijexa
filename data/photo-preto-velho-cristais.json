@@ -1,0 +1,30 @@
+{
+  "sku": "GPC-PV-CR-002",
+  "photos": [
+    {
+      "source": "image(20261021-220342).png",
+      "image": "/assets/products/gpc-pv-cr-002/capa.png",
+      "sha256": "a54878007e93697f1133e62f08eac209b357c6dafcdae68e45035090abc6c681"
+    },
+    {
+      "source": "image(20261021-220348).png",
+      "image": "/assets/products/gpc-pv-cr-002/foto-2.png",
+      "sha256": "b3bab7dfd1186ea4a3ce4b77a165a30ca1ed56620ac48b1db86fd70669fba660"
+    },
+    {
+      "source": "image(20261021-220359).png",
+      "image": "/assets/products/gpc-pv-cr-002/foto-3.png",
+      "sha256": "c120de93fbfb9afbe535346f96099c3686717434496c9ae8b2751362ea3f6c32"
+    },
+    {
+      "source": "image(20261021-220404).png",
+      "image": "/assets/products/gpc-pv-cr-002/foto-4.png",
+      "sha256": "26a98d728409513b4a320edb8e172f35213a5d456738c17515a489d6f00d8f10"
+    },
+    {
+      "source": "image(20261021-220408).png",
+      "image": "/assets/products/gpc-pv-cr-002/foto-5.png",
+      "sha256": "3eab2b3ffe8cb8050259b0e5e49620cc1c7d27519c47b6940a3b8686216385c4"
+    }
+  ]
+}

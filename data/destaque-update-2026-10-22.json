@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "code": "GP-XAN-MIX-60-SH2",
+      "name": "Guia de Proteção de Xangô com Miçangas 4 mm, Cristais 8 mm e Pingente",
+      "price": "R$ 49,90",
+      "path": "/guias-micangas/gp-xan-mix-60-sh2/",
+      "source": "image(20261022-165822).png",
+      "cover": "/assets/products/gp-xan-mix-60-sh2/capa-20261022.webp",
+      "originalSha256": "0302f3dc94cbe4edd3f53e5acea3194d8bc46739cd41830f00720bbd926d69bc",
+      "losslessPixelEquality": true
+    },
+    {
+      "code": "CAT-7LU-DES-001",
+      "name": "Guia de Proteção de 7 Linhas da Umbanda — Destaque",
+      "price": "R$ 49,90",
+      "path": "/guias-micangas/cat-7lu-des-001/",
+      "source": "image(20261022-165838).png",
+      "cover": "/assets/products/cat-7lu-des-001/capa-20261022.webp",
+      "originalSha256": "e717b58eacddb36c766331bd85d9ae6e41efac5e1e2fd09f6ae9a3ae8246e94c",
+      "losslessPixelEquality": true
+    },
+    {
+      "code": "CAT-OXO-DES-001",
+      "name": "Guia de Proteção de Oxóssi (Verde e Branco) — Destaque",
+      "price": "R$ 49,90",
+      "path": "/guias-micangas/cat-oxo-des-001/",
+      "source": "image(20261022-165851).png",
+      "cover": "/assets/products/cat-oxo-des-001/capa-20261022.webp",
+      "originalSha256": "6b4ab5045166f016e6960017ef1d420ffbb84329e24d0327e2b3b3df342ad0d5",
+      "losslessPixelEquality": true
+    },
+    {
+      "code": "CAT-LGN-DES-001",
+      "name": "Guia de Proteção de Logunan — Destaque",
+      "price": "R$ 49,90",
+      "path": "/guias-micangas/cat-lgn-des-001/",
+      "source": "image(20261022-165904).png",
+      "cover": "/assets/products/cat-lgn-des-001/capa-20261022.webp",
+      "originalSha256": "bcf246b5b024d73082c9b53f0e0d828f677ec117b858df9961937acca0ce8d64",
+      "losslessPixelEquality": true
+    },
+    {
+      "code": "CAT-ZEP-DES-001",
+      "name": "Guia de Proteção de Zé Pilintra — Destaque",
+      "price": "R$ 49,90",
+      "path": "/guias-micangas/cat-zep-des-001/",
+      "source": "image(20261022-165912).png",
+      "cover": "/assets/products/cat-zep-des-001/capa-20261022.webp",
+      "originalSha256": "cf7de1784ffd3effdbb96d92d8f2d6be50625e35e1682e261bffa384e1ac64b5",
+      "losslessPixelEquality": true
+    },
+    {
+      "code": "CAT-POM-DES-001",
+      "name": "Guia de Proteção de Pombagira — Destaque",
+      "price": "R$ 49,90",
+      "path": "/guias-micangas/cat-pom-des-001/",
+      "source": "image(20261022-165922).png",
+      "cover": "/assets/products/cat-pom-des-001/capa-20261022.webp",
+      "originalSha256": "bdd089391ef5f044fe439aaddef523756fef2f6850269b1f133a4a29816279c4",
+      "losslessPixelEquality": true
+    },
+    {
+      "code": "CAT-CAB-DES-001",
+      "name": "Guia de Proteção de Caboclo — Destaque",
+      "price": "R$ 49,90",
+      "path": "/guias-micangas/cat-cab-des-001/",
+      "source": "image(20261022-165931).png",
+      "cover": "/assets/products/cat-cab-des-001/capa-20261022.webp",
+      "originalSha256": "2639fc4fc8ef1f42bd0145861140f5b2371051aabf95d3c95c2795c15eb67fbc",
+      "losslessPixelEquality": true
+    },
+    {
+      "code": "CAT-7LU-CR-DES-001",
+      "name": "Guia de Proteção de 7 Linhas da Umbanda (Miçanga Cristal) — Destaque",
+      "price": "R$ 49,90",
+      "path": "/guias-micangas/cat-7lu-cr-des-001/",
+      "source": "image(20261022-165940).png",
+      "cover": "/assets/products/cat-7lu-cr-des-001/capa-20261022.webp",
+      "originalSha256": "d796e109cbee26a16df0a9ca3ef9b950b08c29a0169db5171c13637ba3f4bd87",
+      "losslessPixelEquality": true
+    },
+    {
+      "code": "CAT-ZEP-3P-DES-001",
+      "name": "Guia de Proteção de Zé Pilintra — 3 Pingentes — Destaque",
+      "price": "R$ 59,90",
+      "path": "/guias-micangas/cat-zep-3p-des-001/",
+      "source": "image(20261022-170024).png",
+      "cover": "/assets/products/cat-zep-3p-des-001/capa-20261022.webp",
+      "originalSha256": "3cfe61f69fc0a52e6ea1bc58788cdfbcbc9f1a7eb2f7f49355ca5842f2a9a9b7",
+      "losslessPixelEquality": true
+    }
+  ],
+  "pending": [],
+  "resolvedPending": {
+    "name": "Oxalá — Destaque",
+    "code": "CAT-OXA-DES-001",
+    "source": "image(20261022-171112).png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "sku": "GLX-MAR-001",
+  "photos": [
+    {
+      "source": "image(20261021-221531).png",
+      "image": "/assets/products/glx-mar-001/capa.png",
+      "sha256": "dfaa5fc96ea8bf8d8cfa5f3c64d98bf1f5493a272af10224798f6f373f1b81c5"
+    },
+    {
+      "source": "image(20261021-221525).png",
+      "image": "/assets/products/glx-mar-001/foto-2.png",
+      "sha256": "144bdf9f023d452c0f18961150fb1e459454de281df6137150dd7aac44489188"
+    },
+    {
+      "source": "image(20261021-221528).png",
+      "image": "/assets/products/glx-mar-001/foto-3.png",
+      "sha256": "176f9796fdaece24651478e94f16959d680f220eef98f03ae9675d4039b002ee"
+    },
+    {
+      "source": "image(20261021-221535).png",
+      "image": "/assets/products/glx-mar-001/foto-4.png",
+      "sha256": "0608c8c137177210c17495243bfa28229da8ee4c8204ab5239d9aef183d9a049"
+    },
+    {
+      "source": "image(20261021-221521).png",
+      "image": "/assets/products/glx-mar-001/foto-5.png",
+      "sha256": "fd2cf62133e8481dca0e84941f508bf215b3f606335c7d9208b8ab5423fc9add"
+    }
+  ]
+}

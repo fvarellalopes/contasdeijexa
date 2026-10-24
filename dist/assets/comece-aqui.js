@@ -1,0 +1,48 @@
+(() => {
+ const form=document.querySelector('#piece-selector');
+ if(!form)return;
+ const $=s=>document.querySelector(s),track=$('#suggestion-track'),prev=$('#pieces-prev'),next=$('#pieces-next');
+ const products=[...(window.CATALOG_PRODUCTS||[]),...(window.ADORNMENT_PRODUCTS||[])];
+ const normalize=v=>String(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/\b(omolu|omulu|obaluae)\b/g,'obaluaie');
+ const esc=v=>String(v||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ const route=p=>p.path||(p.slug.startsWith('gpc-')?`/guias-cristal/${p.slug}/`:`/${p.slug}/`);
+ const image=p=>p.cover?(p.cover.startsWith('/')||p.cover.startsWith('https://')?p.cover:'https://lh3.googleusercontent.com/d/'+p.cover+'=w1600'):'';
+ const price=p=>Number(String(p.price||'').replace(/[^\d,]/g,'').replace(',','.'));
+ const range=p=>p<=90?'0':p<=200?'1':p<=330?'2':'3';
+ const inspirations=['Oxum','Iemanjá','Exu','Pombagira','Ogum','Oxalá','Oxóssi','Xangô','Iansã','Nanã','Ossain','Omolu / Obaluaiê','Erês','Caboclo','Preto Velho','Logunedé','Obá','Oxumarê','Cigana','Marinheiro','Zé Pilintra'];
+ inspirations.forEach(v=>{const option=document.createElement('option');option.value=v;option.textContent=v;$('#inspiration').append(option);});
+ const updateControls=()=>{prev.disabled=track.scrollLeft<4;next.disabled=track.scrollLeft+track.clientWidth>=track.scrollWidth-4;};
+ const render=()=>{
+  const purpose=$('#purpose').value,spirit=$('#inspiration').value,budget=$('#budget').value;
+  const filtered=!!(purpose||spirit||budget);
+  const matches=products.filter(p=>{
+   const name=normalize(p.name+' '+(p.inspiration||''));
+   const type=p.categoryKey||'';
+   const purposeMatch=!purpose||purpose==='Devoção'||(purpose==='Proteção'?['micangas','cristais','naturais','guias-premium','guias-luxo','tercos'].includes(type)||name.startsWith('guia'):name.startsWith('braja'));
+   const words=normalize(spirit).split(/\s*\/\s*/);
+   return purposeMatch&&(!spirit||words.some(s=>new RegExp('(?:^|[^a-z])'+s+'(?:$|[^a-z])').test(name)))&&(budget===''||(p.price&&range(price(p))===budget));
+  }).sort((a,b)=>(b.cover?.startsWith('/')?2:b.cover?1:0)-(a.cover?.startsWith('/')?2:a.cover?1:0));
+  const shown=filtered?matches:matches.filter(p=>p.cover);
+  $('#results-title').textContent=filtered?'Sua seleção de peças':'Peças para conhecer de perto';
+  $('#results-summary').textContent=shown.length?`${shown.length} ${shown.length===1?'peça para explorar':'peças para explorar'}. Abra um modelo para ver mais fotos e detalhes.`:'Nenhuma peça encontrada com estes filtros.';
+  track.innerHTML=shown.map(p=>`<a class="selection-card" href="${esc(route(p))}"><div class="selection-photo">${image(p)?`<img src="${esc(image(p))}" alt="${esc(p.alt||p.name)}" loading="lazy" width="600" height="750">`:'<span class="photo-pending">Fotografia em breve</span>'}<span class="selection-open" aria-hidden="true"><svg class="icon-link-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M6 18 18 6M7 6h11v11"/></svg></span></div><div class="selection-copy"><p>${esc(p.highlights||'Feito à mão · Contas de Ijexá')}</p><h3>${esc(p.name)}</h3><div><strong>${esc(p.price||'Consulte o valor')}</strong><span>Ver peça <span aria-hidden="true">→</span></span></div></div></a>`).join('');
+  track.hidden=!shown.length;
+  $('.selection-controls').hidden=!shown.length;
+  $('#selection-empty').hidden=!!shown.length;
+  $('#gallery-hint').hidden=!shown.length;
+  const preferences=[purpose&&'finalidade: '+purpose,spirit&&'inspiração: '+spirit,budget!==''&&'valor: '+$('#budget').selectedOptions[0].textContent].filter(Boolean).join('; ');
+  $('#selection-whatsapp').href='https://wa.me/5546920002084?text='+encodeURIComponent('Olá! Explorei as peças no site e gostaria de conversar sobre uma encomenda'+(preferences?' ('+preferences+')':'')+'.');
+  track.scrollLeft=0;
+  requestAnimationFrame(updateControls);
+ };
+ form.addEventListener('submit',e=>{e.preventDefault();render();$('#selector-results').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth',block:'start'});});
+ form.addEventListener('change',render);
+ form.addEventListener('reset',()=>requestAnimationFrame(render));
+ $('#show-all-pieces').addEventListener('click',()=>form.reset());
+ const move=direction=>track.scrollBy({left:direction*(track.clientWidth*.85),behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});
+ prev.addEventListener('click',()=>move(-1));next.addEventListener('click',()=>move(1));
+ track.addEventListener('scroll',updateControls,{passive:true});
+ track.addEventListener('keydown',e=>{if(e.target===track&&(e.key==='ArrowLeft'||e.key==='ArrowRight')){e.preventDefault();move(e.key==='ArrowLeft'?-1:1);}});
+ window.addEventListener('resize',updateControls);
+ render();
+})();

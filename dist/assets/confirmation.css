@@ -1,0 +1,11 @@
+
+.confirmation-main { min-height:65vh; display:grid; place-items:center; padding-top:64px; padding-bottom:72px; }
+.confirmation-card { width:100%; max-width:760px; padding:52px; border:1px solid var(--line); border-radius:16px; background:var(--cream); text-align:center; }
+.confirmation-mark { display:grid; place-items:center; width:62px; height:62px; margin:0 auto 24px; border:1px solid var(--gold); border-radius:50%; color:var(--bronze); font-size:30px; }
+.confirmation-card h1 { font-size:clamp(38px,6vw,58px); line-height:1.08; }
+.confirmation-copy { margin:24px auto 18px; max-width:570px; font-size:16px; line-height:1.8; }
+.confirmation-note { color:#685d54; font-size:14px; line-height:1.7; }
+.confirmation-actions { display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:24px; margin-top:30px; }
+.confirmation-back { color:var(--bronze); font-size:14px; font-weight:700; text-underline-offset:4px; }
+.confirmation-actions a:focus-visible { outline:3px solid var(--gold); outline-offset:5px; }
+@media(max-width:600px) { .confirmation-main { padding:32px 18px 44px; } .confirmation-card { padding:32px 20px; } .confirmation-copy { font-size:15px; } .confirmation-actions { flex-direction:column; } }

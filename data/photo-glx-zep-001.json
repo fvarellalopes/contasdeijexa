@@ -1,0 +1,25 @@
+{
+  "sku": "GLX-ZEP-001",
+  "photos": [
+    {
+      "source": "image(20261021-221118).png",
+      "image": "/assets/products/glx-zep-001/capa.png",
+      "sha256": "4ac8580339305f0b1f47622407daa419ff0fa7d08dfd1e91e65a1e6a924f14a6"
+    },
+    {
+      "source": "image(20261021-221129).png",
+      "image": "/assets/products/glx-zep-001/foto-2.png",
+      "sha256": "2ba25728bc16fa2d2ab61b92c12879dabc24a057bd04c2ad8e89ca11f290b4d7"
+    },
+    {
+      "source": "image(20261021-221134).png",
+      "image": "/assets/products/glx-zep-001/foto-3.png",
+      "sha256": "f18f7c7e84d54eb9eb76fc641347ca43cb802a90ec01165478eda801936846fa"
+    },
+    {
+      "source": "image(20261021-221148).png",
+      "image": "/assets/products/glx-zep-001/foto-4.png",
+      "sha256": "71545364dcbf68e2c247c57e6f28eec9746756406f3c53560f0bb83934086433"
+    }
+  ]
+}

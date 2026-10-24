@@ -1,0 +1,49 @@
+{
+  "code": "GPC-BAI-001",
+  "path": "/guias-cristal/gpc-bai-001/",
+  "price": "R$ 99,90",
+  "photos": [
+    {
+      "source": "2C1DA0F1-D1DE-4F15-9BDD-1BF6F743BC61(1).jpeg",
+      "image": "/assets/products/gpc-bai-001/capa.jpeg",
+      "originalSha256": "0a60f73efd47dbc76ba47f4c130047d3c681353bfbfc5fa99f14401eecd0bba9",
+      "byteIdentical": true
+    },
+    {
+      "source": "3909E71C-9564-476A-BAA7-18393CD4F352(1).jpeg",
+      "image": "/assets/products/gpc-bai-001/foto-2.jpeg",
+      "originalSha256": "410a04f1e2124eb6d5b81fadcc63d8b679630c5f77ae1e5f5cc9a372f74a5a5f",
+      "byteIdentical": true
+    },
+    {
+      "source": "4186BBC0-CC0C-4F64-B63C-B42367796815(1).jpeg",
+      "image": "/assets/products/gpc-bai-001/foto-3.jpeg",
+      "originalSha256": "2746815ca36360895089be65fa4caa5326eabd460ce6acb43f03646721d240d0",
+      "byteIdentical": true
+    },
+    {
+      "source": "4241339C-F0E9-4785-A2F3-F9958598C8CE.jpeg",
+      "image": "/assets/products/gpc-bai-001/foto-4.jpeg",
+      "originalSha256": "c120918ad308cafd5d600474c9e62882a060acf68b491b9594408a9f7efd35ff",
+      "byteIdentical": true
+    },
+    {
+      "source": "038DB241-6509-42C7-9F0A-095F80F57121(1).jpeg",
+      "image": "/assets/products/gpc-bai-001/foto-5.jpeg",
+      "originalSha256": "144ef17dfab08c6d6d258876d4f23bbdb5b74beeb693f30956113af1fd323f5e",
+      "byteIdentical": true
+    },
+    {
+      "source": "50BF85E9-F403-46A7-9799-09B7484FE426(1).jpeg",
+      "image": "/assets/products/gpc-bai-001/foto-6.jpeg",
+      "originalSha256": "842f2dddb7a0f74685adcd423811ac636553abb34dc79ea6bbfbdedbcacd6797",
+      "byteIdentical": true
+    },
+    {
+      "source": "7FDF6D6A-A845-4DC0-81F0-09EFD3D68202(1).jpeg",
+      "image": "/assets/products/gpc-bai-001/foto-7.jpeg",
+      "originalSha256": "3b94acfd637490f2d0b90311822481bbd3384d9a6ac6ee3e5fdd6054b475eddc",
+      "byteIdentical": true
+    }
+  ]
+}

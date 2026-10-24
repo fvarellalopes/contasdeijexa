@@ -1,0 +1,30 @@
+{
+  "sku": "GPC-OXM-SER-002",
+  "photos": [
+    {
+      "source": "image(20261021-215543).png",
+      "image": "/assets/products/gpc-oxm-ser-002/capa.png",
+      "sha256": "389145c61016e3cdeacf3c7b60c1457910ee789266b254b561d4d973479d5b59"
+    },
+    {
+      "source": "image(20261021-215601).png",
+      "image": "/assets/products/gpc-oxm-ser-002/foto-2.png",
+      "sha256": "cb4194fc87e8af287192160c55cf04861e1c704cd6fb5e524c49b741a9278f85"
+    },
+    {
+      "source": "image(20261021-215606).png",
+      "image": "/assets/products/gpc-oxm-ser-002/foto-3.png",
+      "sha256": "20bed48df563eddd82f2a1322199c4254e00d6aa64ad75945d1ff53b93d7949a"
+    },
+    {
+      "source": "image(20261021-215619).png",
+      "image": "/assets/products/gpc-oxm-ser-002/foto-4.png",
+      "sha256": "99894307d96c2a188347d4b1ceeeb2a7c6de03d80717d5c6378855cfb07ca91c"
+    },
+    {
+      "source": "image(20261021-215623).png",
+      "image": "/assets/products/gpc-oxm-ser-002/foto-5.png",
+      "sha256": "f9ac90a66ab588b7620b525824470cc246e04783bb52b5961e6c2305c35b3780"
+    }
+  ]
+}

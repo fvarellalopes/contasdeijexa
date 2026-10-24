@@ -1,0 +1,25 @@
+{
+  "sku": "TER-PV-001",
+  "photos": [
+    {
+      "source": "image(20261021-221344).png",
+      "image": "/assets/products/ter-pv-001/capa.png",
+      "sha256": "22ab1498a7cb699d40bc8d811169083ae54315f1bf0839d0dbfea38ea1a77697"
+    },
+    {
+      "source": "image(20261021-221347).png",
+      "image": "/assets/products/ter-pv-001/foto-2.png",
+      "sha256": "477a33de9d2dde7ed410857326ca3da69d481bc0af14d649423272a5570c9676"
+    },
+    {
+      "source": "image(20261021-221352).png",
+      "image": "/assets/products/ter-pv-001/foto-3.png",
+      "sha256": "be4f937761f8501fe066dc0a097fd3b172b87c11dee951a4924836d490127e7f"
+    },
+    {
+      "source": "image(20261021-221258).png",
+      "image": "/assets/products/ter-pv-001/foto-4.png",
+      "sha256": "e14f09aafc09c6011256ec9970ec743df951e38c343f6f190f4d35562a932fd5"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "sku": "GPR-OMO-001",
+  "photos": [
+    {
+      "source": "image(20261021-220854).png",
+      "image": "/assets/products/gpr-omo-001/capa.png",
+      "sha256": "9e288c9f9090b334bcca0fc81b5a794a68e74ae8909d8f219cb5cf1faafc616f"
+    },
+    {
+      "source": "image(20261021-220916).png",
+      "image": "/assets/products/gpr-omo-001/foto-2.png",
+      "sha256": "4d8b2944c1a1fa272e1e6a5f1be9a2f2c28f221d60d655b9e953a79c8069f3ad"
+    },
+    {
+      "source": "image(20261021-220934).png",
+      "image": "/assets/products/gpr-omo-001/foto-3.png",
+      "sha256": "57d4bfdb8371f6bb840c46947575652bb292f26fedb08e615f9f8fd02f43a868"
+    },
+    {
+      "source": "image(20261021-221030).png",
+      "image": "/assets/products/gpr-omo-001/foto-4.png",
+      "sha256": "952ab8d6d4b56e10a51d152a281f4e4cc5985dcb2f24bd5c9c43a2096b03f452"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "sku": "GPR-VCA-001",
+  "photos": [
+    {
+      "source": "image(20261021-220132).png",
+      "image": "/assets/products/gpr-vca-001/capa.png",
+      "sha256": "37500b7deb1740992f85fc04f53faaf282be9628d977cca9b9e03377687f0c2a"
+    },
+    {
+      "source": "image(20261021-220050).png",
+      "image": "/assets/products/gpr-vca-001/foto-2.png",
+      "sha256": "06b18e49d35dd827cafb04eb53f4fe3558133f81b3212fe7976a2883a33865c9"
+    },
+    {
+      "source": "image(20261021-220118).png",
+      "image": "/assets/products/gpr-vca-001/foto-3.png",
+      "sha256": "07dfc1bcbcf83080e49160aa708da94e82442caf86f9827dffde183f861b1ff3"
+    },
+    {
+      "source": "image(20261021-220124).png",
+      "image": "/assets/products/gpr-vca-001/foto-4.png",
+      "sha256": "bb26aabdaeca18c6523b49945f4ec9cf520a0e99170fe5ea10833d12b821ca55"
+    },
+    {
+      "source": "image(20261021-220128).png",
+      "image": "/assets/products/gpr-vca-001/foto-5.png",
+      "sha256": "ac3d5078898af432cc7dde477e3a2554b0cc8fab6e322169669101244c617d6b"
+    },
+    {
+      "source": "image(20261021-220135).png",
+      "image": "/assets/products/gpr-vca-001/foto-6.png",
+      "sha256": "860ae76084b43827a68bc09ea899dfa14cea88232e779a7e6ac27c14311191b3"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "order": 1,
+    "source": "image(20261022-133754).png",
+    "slug": "oxum",
+    "code": "PTR-OXU-001",
+    "price": "R$ 69,90"
+  },
+  {
+    "order": 2,
+    "source": "image(20261022-133804).png",
+    "slug": "omolu",
+    "code": "PTR-OMO-001",
+    "price": "R$ 69,90"
+  },
+  {
+    "order": 3,
+    "source": "image(20261022-133820).png",
+    "slug": "oxossi",
+    "code": "PTR-OXS-001",
+    "price": "R$ 69,90"
+  },
+  {
+    "order": 4,
+    "source": "image(20261022-133827).png",
+    "slug": "oxala",
+    "code": "PTR-OXL-001",
+    "price": "R$ 69,90"
+  },
+  {
+    "order": 5,
+    "source": "image(20261022-133837).png",
+    "slug": "iemanja",
+    "code": "PTR-IEM-001",
+    "price": "R$ 69,90"
+  },
+  {
+    "order": 6,
+    "source": "image(20261022-133844).png",
+    "slug": "iansa",
+    "code": "PTR-IAN-001",
+    "price": "R$ 69,90"
+  },
+  {
+    "order": 7,
+    "source": "image(20261022-133852).png",
+    "slug": "ogum-azul",
+    "code": "PTR-OGU-AZU-001",
+    "price": "R$ 69,90"
+  },
+  {
+    "order": 8,
+    "source": "image(20261022-133901).png",
+    "slug": "ogum-azul-vermelho",
+    "code": "PTR-OGU-VER-001",
+    "price": "R$ 69,90"
+  },
+  {
+    "order": 9,
+    "source": "image(20261022-133917).png",
+    "slug": "pombagira",
+    "code": "PTR-POM-001",
+    "price": "R$ 69,90"
+  },
+  {
+    "order": 10,
+    "source": "image(20261022-133929).png",
+    "slug": "exu-buzio-caveira",
+    "code": "PTR-EXU-01-001",
+    "price": "R$ 69,90"
+  },
+  {
+    "order": 11,
+    "source": "image(20261022-133937).png",
+    "slug": "exu-contas-vermelhas",
+    "code": "PTR-EXU-02-001",
+    "price": "R$ 69,90"
+  },
+  {
+    "order": 12,
+    "source": "image(20261022-133945).png",
+    "slug": "exu-preto-branco",
+    "code": "PTR-EXU-03-001",
+    "price": "R$ 69,90"
+  },
+  {
+    "order": 13,
+    "source": "image(20261022-134017).png",
+    "slug": "exu-medalhao-pingentes",
+    "code": "PTR-EXU-04-001",
+    "price": "R$ 69,90"
+  }
+]

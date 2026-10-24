@@ -1,0 +1,25 @@
+{
+  "sku": "GLX-MMU-001",
+  "photos": [
+    {
+      "source": "image(20261021-223444).png",
+      "image": "/assets/products/glx-mmu-001/capa.png",
+      "sha256": "3dc781464a006292f736bf501c11976086fa19a0e00c8365832f59cd5e542250"
+    },
+    {
+      "source": "image(20261021-223448).png",
+      "image": "/assets/products/glx-mmu-001/foto-2.png",
+      "sha256": "58908d0d943c6b7c58c4954ef7cdc5f1e56af49a86096212aa461b317d0b711c"
+    },
+    {
+      "source": "image(20261021-223452).png",
+      "image": "/assets/products/glx-mmu-001/foto-3.png",
+      "sha256": "658a4a7089781da55aee7ec2a9fa6ecc1b41eb3c136be621ac9a37a7730be8ee"
+    },
+    {
+      "source": "image(20261021-223508).png",
+      "image": "/assets/products/glx-mmu-001/foto-4.png",
+      "sha256": "50562239d26c51545d7f7e803ddd79d9019761890752be3f2a531fadcfbb7a33"
+    }
+  ]
+}

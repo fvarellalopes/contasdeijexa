@@ -1,0 +1,260 @@
+[
+  {
+    "sku": "GPC-OGU-HEM-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-OGU-VER-AZU-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-POM-7SA-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-EXU-TRA-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-POM-MUL-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-POM-DAN-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-EXU-7EN-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-POM-MEN-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-IAN-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-LOG-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-OMO-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-XAN-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-IEM-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-OXO-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-OXU-DOUR-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-OXU-ROSA-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-OXA-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-PV-MAD-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-PV-VOC-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-MAR-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-CAB-PVE-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-POM-MPC-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-POM-MNA-001",
+    "category": "cristais",
+    "previous": "R$ 79,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "BR-POM-3F",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "BR-EXU-3F",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "BR3-OML-60-SH1",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "BR3-OBA-60",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "BR3-OML-60-SH2",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "BR3-NAN-60",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "BR3-IEM-60",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "BR3-OXU-60",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "BR3-IAN-60",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "BR3-XAN-60",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "BR3-OXO-60",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "BR3-OGU-60",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "BR3-OXA-60",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "CAT-EWA-BR3-001",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "CAT-OSS-BR3-001",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "CAT-OXM-BR3-001",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "CAT-LOG-BR3-001",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "CAT-MAL-BR3-001",
+    "category": "3-fios",
+    "previous": "R$ 159,90",
+    "price": "R$ 109,90"
+  },
+  {
+    "sku": "GPC-OXM-SER-002",
+    "category": "cristais",
+    "previous": "R$ 99,90",
+    "price": "R$ 99,90"
+  },
+  {
+    "sku": "GPC-PV-CR-002",
+    "category": "cristais",
+    "previous": "R$ 89,90",
+    "price": "R$ 99,90"
+  }
+]

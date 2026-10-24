@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "code": "CAT-EXU-POM-ESS-001",
+      "name": "Guia de Proteção — Linha da Esquerda — Exu e Pombagira — Essencial",
+      "line": "Essencial",
+      "price": "R$ 34,90",
+      "path": "/guias-micangas/cat-exu-pom-ess-001/",
+      "source": "image(20261022-171014).png",
+      "cover": "/assets/products/cat-exu-pom-ess-001/capa.webp",
+      "originalSha256": "60dcb10e94ea4a7505e2f2baa49bae0578d4abd628040c86ba6244f54a7d13b9",
+      "losslessPixelEquality": true
+    },
+    {
+      "code": "CAT-7LU-ESS-001",
+      "name": "Guia de Proteção — 7 Linhas da Umbanda — Essencial",
+      "line": "Essencial",
+      "price": "R$ 34,90",
+      "path": "/guias-micangas/cat-7lu-ess-001/",
+      "source": "image(20261022-171046).png",
+      "cover": "/assets/products/cat-7lu-ess-001/capa.webp",
+      "originalSha256": "f5ed89def11a18c1b2ee58c1d6534a859dd72004754884f3f6ae8ef404a14f65",
+      "losslessPixelEquality": true
+    },
+    {
+      "code": "CAT-CIG-RUB-DES-001",
+      "name": "Guia de Proteção — Cigana Rubi — Destaque",
+      "line": "Destaque",
+      "price": "R$ 49,90",
+      "path": "/guias-micangas/cat-cig-rub-des-001/",
+      "source": "image(20261022-171056).png",
+      "cover": "/assets/products/cat-cig-rub-des-001/capa.webp",
+      "originalSha256": "ad497f25b3faf7982b06ee83417be6d7c4ad102df8d85bb5055a29a643fae8e2",
+      "losslessPixelEquality": true
+    },
+    {
+      "code": "CAT-BOI-DES-001",
+      "name": "Guia de Proteção — Boiadeiro — Destaque",
+      "line": "Destaque",
+      "price": "R$ 49,90",
+      "path": "/guias-micangas/cat-boi-des-001/",
+      "source": "image(20261022-171106).png",
+      "cover": "/assets/products/cat-boi-des-001/capa.webp",
+      "originalSha256": "9b86d4f43108ef48c454f6287be1ab4f19da955a9bc69ea7ba17c1cd7bac26f9",
+      "losslessPixelEquality": true
+    },
+    {
+      "code": "CAT-OXA-DES-001",
+      "name": "Guia de Proteção — Oxalá — Destaque",
+      "line": "Destaque",
+      "price": "R$ 49,90",
+      "path": "/guias-micangas/cat-oxa-des-001/",
+      "source": "image(20261022-171112).png",
+      "cover": "/assets/products/cat-oxa-des-001/capa.webp",
+      "originalSha256": "894aed1d3f55c1267661e67a67329197d3b7800480fa3410d2676588addf5a1f",
+      "losslessPixelEquality": true
+    },
+    {
+      "code": "CAT-BAI-DES-001",
+      "name": "Guia de Proteção — Baiano — Destaque",
+      "line": "Destaque",
+      "price": "R$ 49,90",
+      "path": "/guias-micangas/cat-bai-des-001/",
+      "source": "image(20261022-171120).png",
+      "cover": "/assets/products/cat-bai-des-001/capa.webp",
+      "originalSha256": "5a30209ea7fd084989a5bcbbfee5b5e46a47c29cd65d45e35b648be35d363f7b",
+      "losslessPixelEquality": true
+    }
+  ],
+  "resolvedPending": "Oxalá — Destaque: foto recebida em image(20261022-171112).png."
+}

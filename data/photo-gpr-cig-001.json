@@ -1,0 +1,25 @@
+{
+  "sku": "GPR-CIG-001",
+  "photos": [
+    {
+      "source": "image(20261021-220214).png",
+      "image": "/assets/products/gpr-cig-001/capa.png",
+      "sha256": "c7dfae3276eb78a4d481f72ce8e615295a371786a4a7be755ca3f17649bf5349"
+    },
+    {
+      "source": "image(20261021-220200).png",
+      "image": "/assets/products/gpr-cig-001/foto-2.png",
+      "sha256": "5696e0903285c82dbcec1bdd2076285a35688215d7045f151ab428c86f045fb3"
+    },
+    {
+      "source": "image(20261021-220205).png",
+      "image": "/assets/products/gpr-cig-001/foto-3.png",
+      "sha256": "544250c981e81549626b722ff604b75f0e34cd462a0c9b4f0f123893af731610"
+    },
+    {
+      "source": "image(20261021-220208).png",
+      "image": "/assets/products/gpr-cig-001/foto-4.png",
+      "sha256": "9357c591b37a2bdc83919264286ee1bb59379b1b884d0393cff4283650819aab"
+    }
+  ]
+}

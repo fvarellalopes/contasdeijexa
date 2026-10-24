@@ -1,0 +1,3 @@
+export const searchIcon='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>';
+export const headerSearch=`<form class="site-search" role="search" action="/busca/" method="get"><label class="visually-hidden" for="site-search-input">Pesquisar peças</label><input id="site-search-input" name="q" type="search" maxlength="120" placeholder="Busque por peça, Orixá, material…"><button type="submit" aria-label="Pesquisar peças">${searchIcon}</button></form>`;
+export function addSearch(header){return header.includes('class="site-search"')?header:header.replace(/(<a\b[^>]*class="[^"]*whatsapp[^\"]*"[^>]*>)/,headerSearch+'$1');}

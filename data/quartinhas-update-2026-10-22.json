@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "oxum",
+    "source": "91134EB1-4171-40BC-A4B1-51820625AA91.jpeg",
+    "file": "joia-quartinha-oxum-20261022.jpeg",
+    "price": "R$ 69,90",
+    "sha256": "48f6a735d8b3b9070656788156ae0079d331be9ce1502b2b83fabc49cbee1a9e"
+  },
+  {
+    "slug": "oxossi",
+    "source": "9B1F6696-AA52-4ABB-9BDB-4E229002EAE1.jpeg",
+    "file": "joia-quartinha-oxossi-20261022.jpeg",
+    "price": "R$ 89,90",
+    "sha256": "edd7677f1abfb0f60538f9a3f05935a4d557bc2cedb129f2139c82cd4d3a61ed"
+  },
+  {
+    "slug": "iemanja",
+    "source": "3972376F-FF30-44CE-AD43-A51E548379C4.jpeg",
+    "file": "joia-quartinha-iemanja-20261022.jpeg",
+    "price": "R$ 89,90",
+    "sha256": "52d14bd907c90091cbbe30df55b6cce7aa3ff7e57d60d8f6039643c4f2601877"
+  }
+]

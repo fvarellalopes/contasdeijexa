@@ -1,0 +1,50 @@
+{
+  "code": "GPC-LGN-001",
+  "path": "/guias-cristal/gpc-lgn-001/",
+  "price": "R$ 99,90",
+  "photos": [
+    {
+      "source": "B74D3E95-4138-43A0-AA8E-9F72E87BA260.jpeg",
+      "image": "/assets/products/gpc-lgn-001/capa.jpeg",
+      "originalSha256": "485f4749d624daa4ab78c8b7385be2bc450b41ac8c52589de8836f568bb20f46",
+      "byteIdentical": true
+    },
+    {
+      "source": "4B722F00-56CD-4E4E-B4C1-0D7B32CE49C2.jpeg",
+      "image": "/assets/products/gpc-lgn-001/foto-2.jpeg",
+      "originalSha256": "0b31bf34862e03e550cbd6effe22957e74660100dea9d7ec2e9687fedd4ee3b6",
+      "byteIdentical": true
+    },
+    {
+      "source": "4A40FC1F-B0F3-49A5-9A06-AA93091F1BE5.jpeg",
+      "image": "/assets/products/gpc-lgn-001/foto-3.jpeg",
+      "originalSha256": "0cdf4cb8d612563d772de4cb0adecaf2f7f4f92682a3afb36bb8db6fcaadc49c",
+      "byteIdentical": true
+    },
+    {
+      "source": "32C81FA2-0816-4029-AB6E-86FD82837C86.jpeg",
+      "image": "/assets/products/gpc-lgn-001/foto-4.jpeg",
+      "originalSha256": "0404d564cfee058ae5eb95384d8cb93c90273c84a706158ce7d207414715c579",
+      "byteIdentical": true
+    },
+    {
+      "source": "38E55F68-7ECA-4DC2-9E84-80C1600D5F07.jpeg",
+      "image": "/assets/products/gpc-lgn-001/foto-5.jpeg",
+      "originalSha256": "535ec3cb20f6d7b8e4e41bb4c45225495238926104a570928473805015f6e1df",
+      "byteIdentical": true
+    },
+    {
+      "source": "997A96B7-9578-481E-B250-3B79EFB2B45C.jpeg",
+      "image": "/assets/products/gpc-lgn-001/foto-6.jpeg",
+      "originalSha256": "c8aeab860eb9c85ab42d7949480423d9e123070737b977a5fe26dced7f163792",
+      "byteIdentical": true
+    },
+    {
+      "source": "AA09AE7C-EBD2-45CB-91D3-53287957887F.jpeg",
+      "image": "/assets/products/gpc-lgn-001/foto-7.jpeg",
+      "originalSha256": "1e5974b1fda4349177f04ab84f9ae7e05dec3ea04514d11290b8bcc16e979887",
+      "byteIdentical": true
+    }
+  ],
+  "designReference": "Descrição devocional e leitura das ampulhetas fornecidas pelo artesão."
+}

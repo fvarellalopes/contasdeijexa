@@ -1,0 +1,40 @@
+{
+  "sku": "GPR-EXU-TRA-001",
+  "photos": [
+    {
+      "source": "image(20261021-215947).png",
+      "image": "/assets/products/gpr-exu-tra-001/capa.png",
+      "sha256": "a51dd244e0bebe9c7464c05892230af9d1c239a536d729873ccf0dab77f7c8a4"
+    },
+    {
+      "source": "image(20261021-215952).png",
+      "image": "/assets/products/gpr-exu-tra-001/foto-2.png",
+      "sha256": "a896ecc4e740963ef4672060624d9affb3c906f6b65231075d06c5dcf33f3eae"
+    },
+    {
+      "source": "image(20261021-215954).png",
+      "image": "/assets/products/gpr-exu-tra-001/foto-3.png",
+      "sha256": "590f6df104afab0c40cbf556fbdc75616a3190ef216630a3e6d04395d313e221"
+    },
+    {
+      "source": "image(20261021-215958).png",
+      "image": "/assets/products/gpr-exu-tra-001/foto-4.png",
+      "sha256": "a091d9057973b90ff75a64b0d3fa16ff138db080af1834f0d8d2d191b58faef7"
+    },
+    {
+      "source": "image(20261021-220001).png",
+      "image": "/assets/products/gpr-exu-tra-001/foto-5.png",
+      "sha256": "0a11cbded598b550b4b1ad705080195f28b8d2ce6ec0dd11d48c41835aac2fc4"
+    },
+    {
+      "source": "image(20261021-220004).png",
+      "image": "/assets/products/gpr-exu-tra-001/foto-6.png",
+      "sha256": "664f91afe4a2037d99110d75635848902b32b74dba7dd41a1d3a9ae4e1c7834f"
+    },
+    {
+      "source": "image(20261021-220009).png",
+      "image": "/assets/products/gpr-exu-tra-001/foto-7.png",
+      "sha256": "9151dc24dba0054cdac1e8f39d341d800f9d22cd4b1e1599dca5e1745860695c"
+    }
+  ]
+}

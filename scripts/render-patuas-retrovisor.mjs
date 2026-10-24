@@ -1,0 +1,29 @@
+import fs from 'node:fs';
+import {adornmentCollections} from './adornment-catalog.mjs';
+import {page,escapeHtml as esc} from './page-layout.mjs';
+import {renderProduct} from './product-template.mjs';
+import {productionInfo} from './production-terms.mjs';
+import {footer} from './storefront-footer.mjs';
+import {shippingBanner} from './commercial-content.mjs';
+const c=adornmentCollections.find(c=>c.key==='patuas'),sub=c.subcategory,base='https://contasdeijexa.com.br';
+const make=(route,data)=>{fs.mkdirSync('dist'+route,{recursive:true});let html=page({...data,route});html=html.replace(/<footer\b[^>]*>[\s\S]*?<\/footer>/,footer);if(!html.includes('class="shipping-banner"'))html=html.replace('</header>','</header>'+shippingBanner);fs.writeFileSync('dist'+route+'index.html',html);};
+const card=p=>`<article class="product-card"><a class="product-image" href="${c.path+p.slug}/" aria-label="Ver ${esc(p.name)}"><img src="/assets/adornments/${p.file}" alt="${esc(p.alt)}" loading="lazy" width="1030" height="1287"></a><div class="card-copy"><span class="badge">${sub.label}</span><h3>${esc(p.name)}</h3><p>${esc(p.description)}</p><div class="card-bottom"><strong>${p.price}</strong><a href="${c.path+p.slug}/">Ver modelo <span>→</span></a></div></div></article>`;
+make(c.path,{title:c.label,description:c.description,content:`<section class="collection-intro"><p class="eyebrow">Feito à mão · Contas de Ijexá</p><h1>Patuás</h1><p>${c.description}</p></section><section class="line-directory"><a href="${sub.path}"><h2>${sub.label}</h2><p>13 modelos artesanais · R$ 69,90 cada</p><span>Explorar modelos →</span></a></section><section class="catalog"><div class="section-heading"><h2>${sub.label}</h2><a href="${sub.path}">Ver todos →</a></div><div class="product-grid catalog-full-grid adornment-grid">${c.products.map(card).join('')}</div></section>`});
+make(sub.path,{title:sub.label,description:'13 modelos de patuás artesanais de retrovisor por R$ 69,90 cada.',content:`<div class="crumb"><a href="/">Catálogo</a><span>›</span><a href="/patuas/">Patuás</a><span>›</span>${sub.label}</div><section class="collection-intro"><p class="eyebrow">Patuás</p><h1>${sub.label}</h1><p>Escolha entre os 13 modelos. R$ 69,90 cada.</p><p>${c.note}</p></section><section class="catalog"><div class="product-grid catalog-full-grid adornment-grid">${c.products.map(card).join('')}</div></section>`});
+for(const p of c.products){
+ const route=c.path+p.slug+'/',cover='/assets/adornments/'+p.file;
+ const wa='https://wa.me/5546920002084?text='+encodeURIComponent(`Olá! Gostaria de encomendar ${p.name} (${p.code}) por R$ 69,90. ${base+route}`);
+ const data={...p,cover,images:[cover],category:'Patuás',badge:sub.label,highlights:'Retrovisor · Peça artesanal · '+p.inspiration,lead:p.description+' Patuá artesanal de retrovisor, produzido sob encomenda e enviado sem consagração.',measure:'Confirme a medida no atendimento',structure:'Composição de contas para pendurar no retrovisor',materials:'Contas e elementos decorativos conforme a fotografia; composição detalhada confirmada no atendimento.',finishes:p.description,storyTitle:'Composição e acabamento',story:[c.note]};
+ let html=renderProduct(data,wa).html.replace('<h2>','<h1>').replace('</h2>','</h1>');
+ html=html.replace('<aside class="notice" id="fundamento">',productionInfo(data)+'<aside class="notice" id="fundamento">');
+ const schema={'@context':'https://schema.org','@type':'Product',name:p.name,description:data.lead,sku:p.code,category:'Patuás > Patuás de Retrovisor',image:[base+cover],brand:{'@type':'Brand',name:'Contas de Ijexá'},offers:{'@type':'Offer',price:'69.90',priceCurrency:'BRL',url:base+route,availability:'https://schema.org/OnlineOnly'}};
+ html+=`<script type="application/ld+json">${JSON.stringify(schema).replaceAll('<','\\u003c')}</script><dialog id="lightbox"><button type="button" aria-label="Fechar imagem">×</button><img alt="Imagem ampliada da peça"></dialog>`;
+ make(route,{title:p.name,description:data.lead,content:`<div class="crumb"><a href="/">Catálogo</a><span>›</span><a href="/patuas/">Patuás</a><span>›</span><a href="${sub.path}">${sub.label}</a><span>›</span>${p.name}</div>${html}`,scripts:['/assets/gallery.js']});
+ const f='dist'+route+'index.html';let output=fs.readFileSync(f,'utf8');output=output.replace('</head>',`<meta property="og:image" content="${base+cover}"><meta property="og:image:alt" content="${esc(p.alt)}"><meta name="twitter:card" content="summary_large_image">\n</head>`).replace('property="og:type" content="website"','property="og:type" content="product"');fs.writeFileSync(f,output);
+}
+const selector=adornmentCollections.flatMap(group=>group.products.map(p=>({...p,path:group.path+p.slug+'/',category:group.label,categoryKey:group.key,line:p.subcategory||group.label,cover:'/assets/adornments/'+p.file,price:p.price||'',highlights:p.subcategory?'Patuá de retrovisor · '+p.inspiration:'Artesanal · Sob consulta'})));
+fs.writeFileSync('dist/assets/adornments.js','window.ADORNMENT_PRODUCTS = '+JSON.stringify(selector,null,2)+';\n');
+let home=fs.readFileSync('dist/index.html','utf8');home=home.replace(/<section class="adornment-section" aria-labelledby="patuas-title">[\s\S]*?<\/section>/,`<section class="adornment-section" aria-labelledby="patuas-title"><div class="section-heading"><div><p class="eyebrow">Patuás</p><h2 id="patuas-title">${sub.label}</h2></div><div class="section-heading-side"><p>13 modelos artesanais por R$ 69,90 cada.</p><a class="view-more" href="${sub.path}">Explorar modelos →</a></div></div><div class="product-grid category-grid adornment-grid">${c.products.slice(0,3).map(card).join('')}</div></section>`);fs.writeFileSync('dist/index.html',home);
+console.log('Categoria, subcategoria, 13 páginas, busca e cards de patuás atualizados.');
+
+(await import('./blog-seo-map.mjs')).applyBlogSeo();

@@ -1,0 +1,232 @@
+export const adornmentCollections = [
+  {
+    "key": "quartinhas",
+    "label": "Joias de quartinha",
+    "path": "/joias-de-quartinha/",
+    "description": "Joias artesanais de quartinha em modelos Cristal e Premium. Peças personalizáveis, com tamanho de referência de 20–22 cm no total.",
+    "note": "Tamanho de referência: 20–22 cm no total. Alterações de tamanho podem alterar o valor. Envie uma foto e as medidas da sua quartinha para consultar e solicitar um orçamento. Peças personalizáveis. A venda é somente da joia artesanal; quartinha não inclusa.",
+    "products": [
+      {
+        "slug": "oxum",
+        "code": "JQ-OXU-CR-001",
+        "price": "R$ 69,90",
+        "model": "Modelo Cristal",
+        "inspiration": "Oxum",
+        "structure": "3 fios de cristais",
+        "materials": "Cristais facetados, contas de metal em acabamento dourado e detalhes em strass.",
+        "finishes": "Contas de metal dourado e entremeios com strass.",
+        "description": "Joia de quartinha de Oxum — modelo Cristal em 3 fios, com cristais em tons âmbar, contas de metal dourado e detalhes em strass.",
+        "alt": "Joia de quartinha de Oxum em três fios de cristais âmbar, metal dourado e strass, aplicada em quartinha decorada",
+        "name": "Joia de quartinha de Oxum",
+        "file": "joia-quartinha-oxum-20261022.jpeg",
+        "measure": "20–22 cm no total (referência)",
+        "sizeNote": "Alterações de tamanho podem alterar o valor. Consulte e solicite um orçamento.",
+        "customizable": true
+      },
+      {
+        "slug": "oxossi",
+        "code": "JQ-OXS-PRE-001",
+        "price": "R$ 89,90",
+        "model": "Modelo Premium",
+        "inspiration": "Oxóssi",
+        "structure": "Trançado em formato de chicote, com composição central e pingentes",
+        "materials": "Contas verdes trançadas, cristais, contas brancas e elementos metálicos em acabamento prateado.",
+        "finishes": "Medalhões com cristais no centro da peça, pingentes de pena, flecha e medalha.",
+        "description": "Joia de quartinha de Oxóssi — modelo Premium com trançado em formato de chicote, pingentes e medalhões com cristais no centro da peça. Composição em verde e branco, com acabamentos prateados.",
+        "alt": "Joia Premium de quartinha de Oxóssi verde e branca, com chicote trançado, três medalhões de cristais e pingentes prateados",
+        "name": "Joia de quartinha de Oxóssi",
+        "file": "joia-quartinha-oxossi-20261022.jpeg",
+        "measure": "20–22 cm no total (referência)",
+        "sizeNote": "Alterações de tamanho podem alterar o valor. Consulte e solicite um orçamento.",
+        "customizable": true
+      },
+      {
+        "slug": "iemanja",
+        "code": "JQ-IEM-PRE-001",
+        "price": "R$ 89,90",
+        "model": "Modelo Premium",
+        "inspiration": "Iemanjá",
+        "structure": "Trançado em formato de chicote e fios laterais em cristais",
+        "materials": "Cristais azuis e transparentes, contas brancas, búzio natural e elementos metálicos em acabamento prateado.",
+        "finishes": "Centro com búzio natural, medalhão com cristal e pingente de espelho.",
+        "description": "Joia de quartinha de Iemanjá — modelo Premium com trançado em formato de chicote e fios laterais em cristais. O centro reúne búzio natural, medalhão com cristal e pingente de espelho, em uma composição azul e branca.",
+        "alt": "Joia Premium de quartinha de Iemanjá azul e branca, com chicote trançado, fios de cristais, búzio natural, medalhão e espelho",
+        "name": "Joia de quartinha de Iemanjá",
+        "file": "joia-quartinha-iemanja-20261022.jpeg",
+        "measure": "20–22 cm no total (referência)",
+        "sizeNote": "Alterações de tamanho podem alterar o valor. Consulte e solicite um orçamento.",
+        "customizable": true
+      }
+    ]
+  },
+  {
+    "key": "patuas",
+    "label": "Patuás",
+    "path": "/patuas/",
+    "description": "Patuás artesanais para personalizar seus espaços, com contas, pingentes e acabamentos cuidadosamente compostos.",
+    "note": "Escolha um modelo como referência ou conte sua ideia. Cores, materiais, medidas e acabamentos podem ser personalizados, respeitando suas preferências e os fundamentos da sua casa.",
+    "products": [
+      {
+        "slug": "oxum",
+        "code": "PTR-OXU-001",
+        "name": "Patuá de Retrovisor de Oxum",
+        "inspiration": "Oxum",
+        "file": "patua-oxum.webp",
+        "alt": "Patuá de retrovisor de Oxum. Amarelo e dourado, com contas facetadas, entremeios com brilho, medalhão de búzio, franja amarela e pequeno pingente.",
+        "description": "Amarelo e dourado, com contas facetadas, entremeios com brilho, medalhão de búzio, franja amarela e pequeno pingente.",
+        "price": "R$ 69,90",
+        "subcategory": "Patuás de Retrovisor",
+        "subcategoryKey": "retrovisor"
+      },
+      {
+        "slug": "omolu",
+        "code": "PTR-OMO-001",
+        "name": "Patuá de Retrovisor de Omolu/Obaluaê",
+        "inspiration": "Omolu/Obaluaê",
+        "file": "patua-omolu.webp",
+        "alt": "Patuá de retrovisor de Omolu/Obaluaê. Preto e branco, com contas facetadas, firma listrada, búzio e franja marrom.",
+        "description": "Preto e branco, com contas facetadas, firma listrada, búzio e franja marrom.",
+        "price": "R$ 69,90",
+        "subcategory": "Patuás de Retrovisor",
+        "subcategoryKey": "retrovisor"
+      },
+      {
+        "slug": "oxossi",
+        "code": "PTR-OXS-001",
+        "name": "Patuá de Retrovisor de Oxóssi",
+        "inspiration": "Oxóssi",
+        "file": "patua-oxossi.webp",
+        "alt": "Patuá de retrovisor de Oxóssi. Tons de verde e marrom, com contas de diferentes formatos, elemento grande arredondado, arco e flecha e franja verde.",
+        "description": "Tons de verde e marrom, com contas de diferentes formatos, elemento grande arredondado, arco e flecha e franja verde.",
+        "price": "R$ 69,90",
+        "subcategory": "Patuás de Retrovisor",
+        "subcategoryKey": "retrovisor"
+      },
+      {
+        "slug": "oxala",
+        "code": "PTR-OXL-001",
+        "name": "Patuá de Retrovisor de Oxalá",
+        "inspiration": "Oxalá",
+        "file": "patua-oxala.webp",
+        "alt": "Patuá de retrovisor de Oxalá. Branco e transparente, com contas facetadas, detalhes prateados, búzio, pequeno pingente e franja branca.",
+        "description": "Branco e transparente, com contas facetadas, detalhes prateados, búzio, pequeno pingente e franja branca.",
+        "price": "R$ 69,90",
+        "subcategory": "Patuás de Retrovisor",
+        "subcategoryKey": "retrovisor"
+      },
+      {
+        "slug": "iemanja",
+        "code": "PTR-IEM-001",
+        "name": "Patuá de Retrovisor de Iemanjá",
+        "inspiration": "Iemanjá",
+        "file": "patua-iemanja.webp",
+        "alt": "Patuá de retrovisor de Iemanjá. Azul-claro, branco e transparente, com detalhes prateados, rosa branca, búzio, medalha e franja azul.",
+        "description": "Azul-claro, branco e transparente, com detalhes prateados, rosa branca, búzio, medalha e franja azul.",
+        "price": "R$ 69,90",
+        "subcategory": "Patuás de Retrovisor",
+        "subcategoryKey": "retrovisor"
+      },
+      {
+        "slug": "iansa",
+        "code": "PTR-IAN-001",
+        "name": "Patuá de Retrovisor de Iansã",
+        "inspiration": "Iansã",
+        "file": "patua-iansa.webp",
+        "alt": "Patuá de retrovisor de Iansã. Vermelho e laranja, com contas facetadas, medalhão de raio, borboleta dourada e franja vermelha.",
+        "description": "Vermelho e laranja, com contas facetadas, medalhão de raio, borboleta dourada e franja vermelha.",
+        "price": "R$ 69,90",
+        "subcategory": "Patuás de Retrovisor",
+        "subcategoryKey": "retrovisor"
+      },
+      {
+        "slug": "ogum-azul",
+        "code": "PTR-OGU-AZU-001",
+        "name": "Patuá de Retrovisor de Ogum — Azul",
+        "inspiration": "Ogum",
+        "file": "patua-ogum-azul.webp",
+        "alt": "Patuá de retrovisor de Ogum — Azul. Tons de azul e branco, com contas facetadas, firma decorada, espada prateada e franja azul.",
+        "description": "Tons de azul e branco, com contas facetadas, firma decorada, espada prateada e franja azul.",
+        "price": "R$ 69,90",
+        "subcategory": "Patuás de Retrovisor",
+        "subcategoryKey": "retrovisor"
+      },
+      {
+        "slug": "ogum-azul-vermelho",
+        "code": "PTR-OGU-VER-001",
+        "name": "Patuá de Retrovisor de Ogum — Azul e Vermelho",
+        "inspiration": "Ogum",
+        "file": "patua-ogum-azul-vermelho.webp",
+        "alt": "Patuá de retrovisor de Ogum — Azul e Vermelho. Contas facetadas azuis e vermelhas, firma decorada, espada e ferradura prateadas e franja azul.",
+        "description": "Contas facetadas azuis e vermelhas, firma decorada, espada e ferradura prateadas e franja azul.",
+        "price": "R$ 69,90",
+        "subcategory": "Patuás de Retrovisor",
+        "subcategoryKey": "retrovisor"
+      },
+      {
+        "slug": "pombagira",
+        "code": "PTR-POM-001",
+        "name": "Patuá de Retrovisor de Pombagira",
+        "inspiration": "Pombagira",
+        "file": "patua-pombagira.webp",
+        "alt": "Patuá de retrovisor de Pombagira. Vermelho, preto e dourado, com contas facetadas, rosas vermelhas, pingente de tridente e franja vermelha.",
+        "description": "Vermelho, preto e dourado, com contas facetadas, rosas vermelhas, pingente de tridente e franja vermelha.",
+        "price": "R$ 69,90",
+        "subcategory": "Patuás de Retrovisor",
+        "subcategoryKey": "retrovisor"
+      },
+      {
+        "slug": "exu-buzio-caveira",
+        "code": "PTR-EXU-01-001",
+        "name": "Patuá de Retrovisor de Exu — Búzio e Caveira",
+        "inspiration": "Exu",
+        "file": "patua-exu-buzio-caveira.webp",
+        "alt": "Patuá de retrovisor de Exu — Búzio e Caveira. Preto e vermelho, com contas facetadas, búzio, elemento grande marrom, caveira vermelha, tridente dourado e franja preta.",
+        "description": "Preto e vermelho, com contas facetadas, búzio, elemento grande marrom, caveira vermelha, tridente dourado e franja preta.",
+        "price": "R$ 69,90",
+        "subcategory": "Patuás de Retrovisor",
+        "subcategoryKey": "retrovisor"
+      },
+      {
+        "slug": "exu-contas-vermelhas",
+        "code": "PTR-EXU-02-001",
+        "name": "Patuá de Retrovisor de Exu — Contas Vermelhas",
+        "inspiration": "Exu",
+        "file": "patua-exu-contas-vermelhas.webp",
+        "alt": "Patuá de retrovisor de Exu — Contas Vermelhas. Preto e vermelho, com contas facetadas, elementos vermelhos alongados, elemento grande marrom, búzio, tridente prateado e franja preta.",
+        "description": "Preto e vermelho, com contas facetadas, elementos vermelhos alongados, elemento grande marrom, búzio, tridente prateado e franja preta.",
+        "price": "R$ 69,90",
+        "subcategory": "Patuás de Retrovisor",
+        "subcategoryKey": "retrovisor"
+      },
+      {
+        "slug": "exu-preto-branco",
+        "code": "PTR-EXU-03-001",
+        "name": "Patuá de Retrovisor de Exu — Preto e Branco",
+        "inspiration": "Exu",
+        "file": "patua-exu-preto-branco.webp",
+        "alt": "Patuá de retrovisor de Exu — Preto e Branco. Contas pretas e brancas, elementos alongados, caveiras claras, elemento grande marrom, cruz com número 7 e franja preta.",
+        "description": "Contas pretas e brancas, elementos alongados, caveiras claras, elemento grande marrom, cruz com número 7 e franja preta.",
+        "price": "R$ 69,90",
+        "subcategory": "Patuás de Retrovisor",
+        "subcategoryKey": "retrovisor"
+      },
+      {
+        "slug": "exu-medalhao-pingentes",
+        "code": "PTR-EXU-04-001",
+        "name": "Patuá de Retrovisor de Exu — Medalhão e Pingentes",
+        "inspiration": "Exu",
+        "file": "patua-exu-medalhao-pingentes.webp",
+        "alt": "Patuá de retrovisor de Exu — Medalhão e Pingentes. Contas pretas, firma trabalhada, búzio e medalhão prateado de Exu com pingentes de foice, tridente e lâmina curva.",
+        "description": "Contas pretas, firma trabalhada, búzio e medalhão prateado de Exu com pingentes de foice, tridente e lâmina curva.",
+        "price": "R$ 69,90",
+        "subcategory": "Patuás de Retrovisor",
+        "subcategoryKey": "retrovisor"
+      }
+    ],
+    "subcategory": {
+      "key": "retrovisor",
+      "label": "Patuás de Retrovisor",
+      "path": "/patuas/retrovisor/"
+    }
+  }
+];

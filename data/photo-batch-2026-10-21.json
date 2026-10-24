@@ -1,0 +1,82 @@
+[
+  {
+    "order": 1,
+    "sku": "CIJ-GUI-LOG-4MM-001",
+    "name": "Guia de Logunedé com Miçangas de 4 mm e Detalhes em Cristais de 8 mm",
+    "source": "image(20261021-191308).png",
+    "image": "/assets/products/cij-gui-log-4mm-001/capa.png",
+    "sha256": "ada1552b78929425927ce461ed4d78cfe000415b38f61ba7a3f6a2e7680de91e"
+  },
+  {
+    "order": 2,
+    "sku": "GP-XAN-MIX-60-SH1",
+    "name": "Guia de Proteção de Xangô com Miçangas 4 mm, Cristais 8 mm e Pingente - Marrom Vermelho e Branco",
+    "source": "image(20261021-191342).png",
+    "image": "/assets/products/gp-xan-mix-60-sh1/capa.png",
+    "sha256": "46c361b0956a15e3f5619959595a171f071ce7831763a416930f3393ac6c7c06"
+  },
+  {
+    "order": 3,
+    "sku": "GP-OXM-MIX-60",
+    "name": "Guia de Proteção de Oxumarê com Miçangas 4 mm, Cristais 8 mm e Pingente",
+    "source": "image(20261021-191407).png",
+    "image": "/assets/products/gp-oxm-mix-60/capa.png",
+    "sha256": "ce157e708adc7ab4bbb6724694fae57652afbefd744c586b78a99649cbded980"
+  },
+  {
+    "order": 4,
+    "sku": "GP-OXM-4MM-60",
+    "name": "Guia de Proteção de Oxumarê em Miçangas de Vidro 4 mm",
+    "source": "image(20261021-191437).png",
+    "image": "/assets/products/gp-oxm-4mm-60/capa.png",
+    "sha256": "ee5d1e6c0540a68493128244471aa9526d516305ff0efc55648186b44070cb6e"
+  },
+  {
+    "order": 5,
+    "sku": "GP-OML-4MM-60",
+    "name": "Guia de Proteção de Obaluaiê (Omulu) em Miçangas de Vidro 4 mm",
+    "source": "image(20261021-191623).png",
+    "image": "/assets/products/gp-oml-4mm-60/capa.png",
+    "sha256": "7b32f700afb1147caf14feb7da50e148d0dee7fd821f1dc7c06d33ffe353c247"
+  },
+  {
+    "order": 6,
+    "sku": "GP-NAN-MIX-60",
+    "name": "Guia de Proteção de Nanã com Miçangas 4 mm, Cristais 8 mm e Pingente",
+    "source": "image(20261021-191642).png",
+    "image": "/assets/products/gp-nan-mix-60/capa.png",
+    "sha256": "9e89d50663e88270d6498224ce993f0472a5e8fb30598aaddcd4a3f4f510a121"
+  },
+  {
+    "order": 7,
+    "sku": "GP-NAN-4MM-60",
+    "name": "Guia de Proteção de Nanã em Miçangas de Vidro 4 mm",
+    "source": "image(20261021-191702).png",
+    "image": "/assets/products/gp-nan-4mm-60/capa.png",
+    "sha256": "61e9f1a624537ec1502501f26746df1fae29f7359bd4e95040361a6cee95d23a"
+  },
+  {
+    "order": 8,
+    "sku": "GP-IEM-MIX-60",
+    "name": "Guia de Proteção de Iemanjá com Miçangas 4 mm, Cristais 8 mm e Pingente",
+    "source": "image(20261021-191727).png",
+    "image": "/assets/products/gp-iem-mix-60/capa.png",
+    "sha256": "1602c43080882a0de7563f502aa1d6d81d4326daa4a132f2f2bbeb560c6239ad"
+  },
+  {
+    "order": 9,
+    "sku": "GP-IEM-4MM-60",
+    "name": "Guia de Proteção de Iemanjá em Miçangas de Vidro 4 mm",
+    "source": "image(20261021-191752).png",
+    "image": "/assets/products/gp-iem-4mm-60/capa.png",
+    "sha256": "276a26de9b5ba0bace55ae60c173841e1f70c9819a648d2ea7bdc3010e1f0754"
+  },
+  {
+    "order": 10,
+    "sku": "GP-OXU-4MM-60",
+    "name": "Guia de Proteção de Oxum em Miçangas de Vidro 4 mm",
+    "source": "image(20261021-191817).png",
+    "image": "/assets/products/gp-oxu-4mm-60/capa.png",
+    "sha256": "8a6f597110fc79a2ef76c3a39dc641f9bcb409d7aafdc4e49062a8fa1e6de967"
+  }
+]

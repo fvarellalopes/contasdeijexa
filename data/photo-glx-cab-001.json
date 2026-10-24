@@ -1,0 +1,25 @@
+{
+  "sku": "GLX-CAB-001",
+  "photos": [
+    {
+      "source": "image(20261021-221235).png",
+      "image": "/assets/products/glx-cab-001/capa.png",
+      "sha256": "19712484924f69988d6112db5794d9a539a9de498140a52a04b7067e4191f2d6"
+    },
+    {
+      "source": "image(20261021-221217).png",
+      "image": "/assets/products/glx-cab-001/foto-2.png",
+      "sha256": "e672d0ea4a581a4331e76c3e59f35edc9aa799efa120d216dec0ee85f2f49b29"
+    },
+    {
+      "source": "image(20261021-221228).png",
+      "image": "/assets/products/glx-cab-001/foto-3.png",
+      "sha256": "99f72d2759e80c04dcd8dcea3370e7f87384e4e7e7b92f6cb57c860c3f1c1c6a"
+    },
+    {
+      "source": "image(20261021-221232).png",
+      "image": "/assets/products/glx-cab-001/foto-4.png",
+      "sha256": "1c92c386fcf0ac96370b560df11df01c89029e104270ad6e7e24060dc31003ea"
+    }
+  ]
+}

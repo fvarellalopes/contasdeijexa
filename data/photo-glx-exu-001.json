@@ -1,0 +1,30 @@
+{
+  "sku": "GLX-EXU-001",
+  "photos": [
+    {
+      "source": "image(20261021-223050).png",
+      "image": "/assets/products/glx-exu-001/capa.png",
+      "sha256": "f183c72a81559edb603dccf21e7bf7734264f3549c6b88f785ebe575740bf8e5"
+    },
+    {
+      "source": "image(20261021-223054).png",
+      "image": "/assets/products/glx-exu-001/foto-2.png",
+      "sha256": "d7d3f39ed64781f1d451805eee54a06b9f5a19dd68260f0b84d3c87f92dbdf40"
+    },
+    {
+      "source": "image(20261021-223058).png",
+      "image": "/assets/products/glx-exu-001/foto-3.png",
+      "sha256": "115628876dbb80ed31074a8c40239c967ceabd8f022f13b78aa53913679a3331"
+    },
+    {
+      "source": "image(20261021-223102).png",
+      "image": "/assets/products/glx-exu-001/foto-4.png",
+      "sha256": "4561c651028b45844716d3e5ff1930cd3c6e17f9b8804c27b9587ff2198cda2e"
+    },
+    {
+      "source": "image(20261021-223109).png",
+      "image": "/assets/products/glx-exu-001/foto-5.png",
+      "sha256": "ec1a431126a420cd178c8d91d51cfcb456459312c998da876a774443840844ff"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import vm from 'node:vm';
+const c={window:{}};vm.createContext(c);
+for(const f of ['products','adornments','search-engine'])vm.runInContext(readFileSync(`dist/assets/${f}.js`,'utf8'),c);
+const products=[...c.window.CATALOG_PRODUCTS,...c.window.ADORNMENT_PRODUCTS],engine=c.window.CATALOG_SEARCH;
+const paths=q=>Array.from(engine.search(products,q),p=>engine.route(p)).sort();
+const names=q=>Array.from(engine.search(products,q),p=>p.name);
+assert.deepEqual(paths('Oxum brajá'),paths('braja oxum'));
+assert(paths('Oxum brajá').length>0);assert(names('Oxum brajá').every(n=>/braj[aá]/i.test(n)&&/\boxum\b/i.test(n)));
+assert.deepEqual(paths('brajás de OXUM'),paths('Oxum brajá'));
+for(const q of ['oxaguia','osaguia','osaguian','oxalufa','oxaguian','oxalufan']){assert(paths(q).length>0,q);assert(names(q).every(n=>n.toLowerCase().includes('oxalá')),q);}
+assert(paths('odé').length>0);assert(names('odé').every(n=>/ox[oó]ssi|od[eé]/i.test(n)));
+assert(names('ossain').some(n=>/ox[oó]ssi/i.test(n)));assert(/ossaim/i.test(names('ossain')[0]));
+assert.deepEqual(paths('omolu'),paths('omulu'));assert.deepEqual(paths('omolu'),paths('obaluae'));
+assert.deepEqual(paths('iemanjá'),paths('yemanja'));assert.deepEqual(paths('iansã'),paths('oya'));
+assert(paths('joia quartinha Oxum').length===1);assert(paths('patuas oxum').length===1);
+assert(paths('fio de contas oxum').length>0);assert(paths('ileke oxum').length>0);
+assert(names('oxum').every(n=>!n.toLowerCase().includes('oxumar')));
+assert.equal(paths('produto inexistente 987654').length,0);assert.equal(paths('   ').length,0);
+assert.deepEqual(paths('guia 4mm oxum'),paths('oxum 4 mm guia'));
+const faq=readFileSync('dist/duvidas/index.html','utf8');for(const term of ['ilequês','imperiais','firmeza','deloguns','laguidibás','sob medida'])assert(faq.includes(term),term);
+assert(readFileSync('dist/busca/index.html','utf8').includes('content="noindex, follow"'));
+assert(!readFileSync('dist/sitemap.xml','utf8').includes('/busca/'));
+console.log('Busca: ordem livre, todas as palavras, acentos, plurais, nomes relacionados, prioridade de nomes, 127 peças, filtros de tipo e estados vazios OK.');

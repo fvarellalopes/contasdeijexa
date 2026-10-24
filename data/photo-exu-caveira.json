@@ -1,0 +1,25 @@
+{
+  "sku": "GPR-EXU-CAV-001",
+  "photos": [
+    {
+      "source": "image(20261021-215410).png",
+      "image": "/assets/products/gpr-exu-cav-001/capa.png",
+      "sha256": "eb868483eebb4856cf1427ecae83ee9cadf919644de33f34a5fb14eb6f4f5ddd"
+    },
+    {
+      "source": "image(20261021-215418).png",
+      "image": "/assets/products/gpr-exu-cav-001/foto-2.png",
+      "sha256": "0de1804be7d561614ba46829639c16741eff45a6a3667e79e46e8ce56cabb932"
+    },
+    {
+      "source": "image(20261021-215420).png",
+      "image": "/assets/products/gpr-exu-cav-001/foto-3.png",
+      "sha256": "190eb59f0c6f3e31e60095a1aeab7e97173e4d9d6ffabf7348d432b21a2b303d"
+    },
+    {
+      "source": "image(20261021-215428).png",
+      "image": "/assets/products/gpr-exu-cav-001/foto-4.png",
+      "sha256": "cccc363bf084ebe9a8334f3ef245b784595f1c2ca5a6d17ce491c2cbf47f66b8"
+    }
+  ]
+}

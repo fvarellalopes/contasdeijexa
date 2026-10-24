@@ -1,0 +1,82 @@
+[
+  {
+    "order": 1,
+    "sku": "GP-IAN-MIX-60",
+    "name": "Guia de Proteção de Iansã com Miçangas 4 mm, Cristais 8 mm e Pingente",
+    "source": "image(20261021-192002).png",
+    "image": "/assets/products/gp-ian-mix-60/capa.png",
+    "sha256": "b99e8a82ade42fbc33518508806fdf9e72109f117be440c41ad0f64d4c5bc0f9"
+  },
+  {
+    "order": 2,
+    "sku": "GP-IAN-4MM-60",
+    "name": "Guia de Proteção de Iansã em Miçangas de Vidro 4 mm",
+    "source": "image(20261021-192022).png",
+    "image": "/assets/products/gp-ian-4mm-60/capa.png",
+    "sha256": "81bf77f71990a0d2842eedce8d9c6845cb332d4b5a3175a559c425f019e1b469"
+  },
+  {
+    "order": 3,
+    "sku": "GP-XAN-4MM-60",
+    "name": "Guia de Proteção de Xangô em Miçangas de Vidro 4 mm",
+    "source": "image(20261021-192134).png",
+    "image": "/assets/products/gp-xan-4mm-60/capa.png",
+    "sha256": "2e70d884265b74d9f87b9ab86b8e97572b60b3e748d44895c19678b33e121aeb"
+  },
+  {
+    "order": 4,
+    "sku": "GP-OXO-MIX-60",
+    "name": "Guia de Proteção de Oxóssi com Miçangas 4 mm, Cristais 8 mm e Pingente",
+    "source": "image(20261021-192150).png",
+    "image": "/assets/products/gp-oxo-mix-60/capa.png",
+    "sha256": "e2990f963d85ff7c7b7cbc72169f6367df375a3468fc222a027f83b9f3977e00"
+  },
+  {
+    "order": 5,
+    "sku": "GP-OXO-4MM-60",
+    "name": "Guia de Proteção de Oxóssi em Miçangas de Vidro 4 mm",
+    "source": "image(20261021-192211).png",
+    "image": "/assets/products/gp-oxo-4mm-60/capa.png",
+    "sha256": "ac3df465b70660236fb936cf9395d436b2542a83130aa5b56d1da5b7be1bd25f"
+  },
+  {
+    "order": 6,
+    "sku": "GP-OGU-MIX-60",
+    "name": "Guia de Proteção de Ogum com Miçangas 4 mm, Cristais 8 mm e Pingente",
+    "source": "image(20261021-192231).png",
+    "image": "/assets/products/gp-ogu-mix-60/capa.png",
+    "sha256": "ad627498f160fe00f0cc3f6b6819f140f28b7ab6f398cd79a42b1ea33d414df6"
+  },
+  {
+    "order": 7,
+    "sku": "GP-OGU-4MM-60",
+    "name": "Guia de Proteção de Ogum em Miçangas de Vidro 4 mm",
+    "source": "image(20261021-192304).png",
+    "image": "/assets/products/gp-ogu-4mm-60/capa.png",
+    "sha256": "d86ab12beece18c0d057e07fe6feaf7bf690afb860548667cc60df11acd249e0"
+  },
+  {
+    "order": 8,
+    "sku": "GP-OXA-MIX-60",
+    "name": "Guia de Proteção de Oxalá com Miçangas 4 mm, Cristais 8 mm e Pingente",
+    "source": "image(20261021-192329).png",
+    "image": "/assets/products/gp-oxa-mix-60/capa.png",
+    "sha256": "b27d13a5fdbcfa2f759974bf473fb53b7ad084b4c49d7990d54455d2b3d6133f"
+  },
+  {
+    "order": 9,
+    "sku": "GP-OXA-4MM-60",
+    "name": "Guia de Proteção de Oxalá em Miçangas de Vidro 4 mm",
+    "source": "image(20261021-192355).png",
+    "image": "/assets/products/gp-oxa-4mm-60/capa.png",
+    "sha256": "e48bc5a7fa971c20c176a072450594edafd18d231a83ed72ae031c5950073ef3"
+  },
+  {
+    "order": 10,
+    "sku": "CAT-OSS-DES-001",
+    "name": "Guia de Proteção de Ossaim — Destaque",
+    "source": "image(20261021-192504).png",
+    "image": "/assets/products/cat-oss-des-001/capa.png",
+    "sha256": "f3504f72799dc8eabad54776098676f39f7905b4c98a9787b4bd8c9172067a45"
+  }
+]

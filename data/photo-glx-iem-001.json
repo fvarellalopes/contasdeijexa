@@ -1,0 +1,25 @@
+{
+  "sku": "GLX-IEM-001",
+  "photos": [
+    {
+      "source": "image(20261021-214908).png",
+      "image": "/assets/products/glx-iem-001/capa.png",
+      "sha256": "4cfc0bd519835cb27965489e8ed51a2f03149961fed6a7fb2591482e2a707dfd"
+    },
+    {
+      "source": "image(20261021-214937).png",
+      "image": "/assets/products/glx-iem-001/foto-2.png",
+      "sha256": "bc8aecf0fa2352889fc1c8014beadc815d3db7dd65007b56e340c5129881ddce"
+    },
+    {
+      "source": "image(20261021-214948).png",
+      "image": "/assets/products/glx-iem-001/foto-3.png",
+      "sha256": "59bf23d86dd26031b97a1c7bd4ab128ca9d91c9e267616dbb9e9533cfc9bee78"
+    },
+    {
+      "source": "image(20261021-215007).png",
+      "image": "/assets/products/glx-iem-001/foto-4.png",
+      "sha256": "93404e388968ce767f4550e9cb8873dd1e046c1617312908cee2af0b2616ccf6"
+    }
+  ]
+}

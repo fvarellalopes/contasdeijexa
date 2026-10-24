@@ -1,0 +1,25 @@
+{
+  "sku": "GNA-PV-001",
+  "photos": [
+    {
+      "source": "image(20261021-221448).png",
+      "image": "/assets/products/gna-pv-001/capa.png",
+      "sha256": "c888d1cb25372441e9b67158012f295b70091a13da16f234c59be1d0ea5526eb"
+    },
+    {
+      "source": "image(20261021-221450).png",
+      "image": "/assets/products/gna-pv-001/foto-2.png",
+      "sha256": "1828fe33c44842271f036ad207893388db85ad49bb26365de7408812e7a2f898"
+    },
+    {
+      "source": "image(20261021-221459).png",
+      "image": "/assets/products/gna-pv-001/foto-3.png",
+      "sha256": "646f177a1aaf3e10da22ca2257c3c855ffdf56ad099dac25e8ac0826e656089c"
+    },
+    {
+      "source": "image(20261021-221442).png",
+      "image": "/assets/products/gna-pv-001/foto-4.png",
+      "sha256": "1f755ad06e097d73991c5f75aa6953579d7f7506400a1337967a5a5a886cc6c6"
+    }
+  ]
+}

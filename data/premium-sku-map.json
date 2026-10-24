@@ -1,0 +1,50 @@
+[
+  {
+    "sku": "BRA-OXU-PRM-001",
+    "url": "https://contasdeijexa.com.br/oxum/",
+    "name": "Brajá Premium de Oxum",
+    "origin": "Código atribuído ao produto existente por autorização do prompt-agente-site.md. Não é uma correspondência inferida com SKU da planilha."
+  },
+  {
+    "sku": "BRA-OMO-PRM-001",
+    "url": "https://contasdeijexa.com.br/omolu/",
+    "name": "Brajá Premium de Omolu/Obaluaê",
+    "origin": "Código atribuído ao produto existente por autorização do prompt-agente-site.md. Não é uma correspondência inferida com SKU da planilha."
+  },
+  {
+    "sku": "BRA-EXU-PRM-001",
+    "url": "https://contasdeijexa.com.br/exu/",
+    "name": "Brajá Premium de Exu",
+    "origin": "Código atribuído ao produto existente por autorização do prompt-agente-site.md. Não é uma correspondência inferida com SKU da planilha."
+  },
+  {
+    "sku": "BRA-POM-PRM-001",
+    "url": "https://contasdeijexa.com.br/pombagira/",
+    "name": "Brajá Premium de Pombagira",
+    "origin": "Código atribuído ao produto existente por autorização do prompt-agente-site.md. Não é uma correspondência inferida com SKU da planilha."
+  },
+  {
+    "sku": "BRA-IEM-PRM-001",
+    "url": "https://contasdeijexa.com.br/iemanja/",
+    "name": "Brajá Premium de Iemanjá",
+    "origin": "Código atribuído ao produto existente por autorização do prompt-agente-site.md. Não é uma correspondência inferida com SKU da planilha."
+  },
+  {
+    "sku": "BRA-OGU-PRM-001",
+    "url": "https://contasdeijexa.com.br/ogum/",
+    "name": "Brajá Premium de Ogum",
+    "origin": "Código atribuído ao produto existente por autorização do prompt-agente-site.md. Não é uma correspondência inferida com SKU da planilha."
+  },
+  {
+    "sku": "BRA-OXA-PRM-001",
+    "url": "https://contasdeijexa.com.br/oxala/",
+    "name": "Brajá Premium de Oxalá",
+    "origin": "Código atribuído ao produto existente por autorização do prompt-agente-site.md. Não é uma correspondência inferida com SKU da planilha."
+  },
+  {
+    "sku": "BRA-OXO-PRM-001",
+    "url": "https://contasdeijexa.com.br/oxossi/",
+    "name": "Brajá Premium de Oxóssi",
+    "origin": "Código atribuído ao produto existente por autorização do prompt-agente-site.md. Não é uma correspondência inferida com SKU da planilha."
+  }
+]

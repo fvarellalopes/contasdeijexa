@@ -1,0 +1,45 @@
+{
+  "sku": "GLX-POM-001",
+  "photos": [
+    {
+      "source": "image(20261021-215817).png",
+      "image": "/assets/products/glx-pom-001/capa.png",
+      "sha256": "a5652e6b64626e3a86406b0b073010d6cc5104b2701264f692de54748225f05c"
+    },
+    {
+      "source": "image(20261021-215825).png",
+      "image": "/assets/products/glx-pom-001/foto-2.png",
+      "sha256": "59531a16cba01bcf30aff33ac2ee1b1d2b51ae6f8be23d55b776ac702d043a31"
+    },
+    {
+      "source": "image(20261021-215829).png",
+      "image": "/assets/products/glx-pom-001/foto-3.png",
+      "sha256": "8a26f20b5f9450bb59b76b32cfe1986aaa68550631fa64ac65c291fa6350f752"
+    },
+    {
+      "source": "image(20261021-215833).png",
+      "image": "/assets/products/glx-pom-001/foto-4.png",
+      "sha256": "993d2ee12554b46ade21c4344fdd9cb66f8181c588c0b4692af23edab9be9c9b"
+    },
+    {
+      "source": "image(20261021-215837).png",
+      "image": "/assets/products/glx-pom-001/foto-5.png",
+      "sha256": "7b2cad7a9f48eb5438fcedb668756c739cc429d77c8c6d1c4e761f7dcb6ac50d"
+    },
+    {
+      "source": "image(20261021-215841).png",
+      "image": "/assets/products/glx-pom-001/foto-6.png",
+      "sha256": "2728c22ee2c7e50bdca9b60fefa31bfdb0daa79d9bf9286b5c907455e304ea4b"
+    },
+    {
+      "source": "image(20261021-215848).png",
+      "image": "/assets/products/glx-pom-001/foto-7.png",
+      "sha256": "499aa442e664af0d8ecac7fcc848aebf71c9d5414a875683a32b1d6e43028bf0"
+    },
+    {
+      "source": "image(20261021-215853).png",
+      "image": "/assets/products/glx-pom-001/foto-8.png",
+      "sha256": "4b44cd354a0e1841b9c95b22008aa2cde054ae5299dc9daf81d3b91f4cdf64b7"
+    }
+  ]
+}
